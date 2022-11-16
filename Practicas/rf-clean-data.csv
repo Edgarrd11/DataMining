@@ -1,0 +1,1362 @@
+,tourney_year,tourney_name,tourney_location,tourney_dates,tourney_conditions,tourney_surface,player_ranking,opponent_name,match_win_loss,match_score
+0,1998,Basel,"Basel, Switzerland",1998.10.05 - 1998.10.11,Indoor,Hard,396,Andre Agassi,L,36 26
+1,1998,Toulouse,"Toulouse, France",1998.09.28 - 1998.10.04,Indoor,Hard,878,Jan Siemerink,L,67(5) 26
+2,1998,Toulouse,"Toulouse, France",1998.09.28 - 1998.10.04,Indoor,Hard,878,Richard Fromberg,W,61 76(5) 
+3,1998,Toulouse,"Toulouse, France",1998.09.28 - 1998.10.04,Indoor,Hard,878,Guillaume Raoux,W,62 62
+4,1998,Geneva,"Geneva, Switzerland",1998.08.24 - 1998.08.30,Outdoor,Clay,680,Orlin Stanoytchev,L,46 67
+5,1998,Gstaad,"Gstaad, Switzerland",1998.07.06 - 1998.07.12,Outdoor,Clay,702,Lucas Arnold Ker,L,46 46
+6,1999,Brest,"Brest, France",1999.10.25 - 1999.10.31,Indoor,Hard,66,Max Mirnyi,W,76(4) 63
+7,1999,Brest,"Brest, France",1999.10.25 - 1999.10.31,Indoor,Hard,66,Martin Damm,W,63 76(4) 
+8,1999,Brest,"Brest, France",1999.10.25 - 1999.10.31,Indoor,Hard,66,Michael Llodra,W,63 63
+9,1999,Brest,"Brest, France",1999.10.25 - 1999.10.31,Indoor,Hard,66,Rodolphe Gilbert,W,64 63
+10,1999,Brest,"Brest, France",1999.10.25 - 1999.10.31,Indoor,Hard,66,Lionel Roux,W,63 46 64
+11,1999,Lyon,"Lyon, France",1999.10.18 - 1999.10.24,Indoor,Carpet,67,Lleyton Hewitt,L,67(4) 62 46
+12,1999,Lyon,"Lyon, France",1999.10.18 - 1999.10.24,Indoor,Carpet,67,Daniel Vacek,W,63 64
+13,1999,Vienna,"Vienna, Austria",1999.10.11 - 1999.10.17,Indoor,Hard,93,Greg Rusedski,L,36 46
+14,1999,Vienna,"Vienna, Austria",1999.10.11 - 1999.10.17,Indoor,Hard,93,Karol Kucera,W,26 64 61
+15,1999,Vienna,"Vienna, Austria",1999.10.11 - 1999.10.17,Indoor,Hard,93,Jiri Novak,W,76(8) 61
+16,1999,Vienna,"Vienna, Austria",1999.10.11 - 1999.10.17,Indoor,Hard,93,Vincent Spadea,W,64 62
+17,1999,Basel,"Basel, Switzerland",1999.10.04 - 1999.10.10,Indoor,Carpet,106,Tim Henman,L,36 57
+18,1999,Basel,"Basel, Switzerland",1999.10.04 - 1999.10.10,Indoor,Carpet,106,Alexander Popp,W,62 75
+19,1999,Basel,"Basel, Switzerland",1999.10.04 - 1999.10.10,Indoor,Carpet,106,Martin Damm,W,62 36 64
+20,1999,Toulouse,"Toulouse, France",1999.09.27 - 1999.10.03,Indoor,Hard,96,Fabrice Santoro,L,36 67(3) 
+21,1999,Toulouse,"Toulouse, France",1999.09.27 - 1999.10.03,Indoor,Hard,96,Rainer Schuettler,W,76(4) 61
+22,1999,Tashkent,"Tashkent, Uzbekistan",1999.09.13 - 1999.09.19,Outdoor,Hard,104,Peter Wessels,L,64 67(1) 46
+23,1999,Tashkent,"Tashkent, Uzbekistan",1999.09.13 - 1999.09.19,Outdoor,Hard,104,Cedric Pioline,W,64 63
+24,1999,Washington,"Washington, DC, U.S.A.",1999.08.16 - 1999.08.22,Outdoor,Hard,104,Bjorn Phau,L,26 36
+25,1999,Segovia,"Segovia, Spain",1999.08.02 - 1999.08.08,Outdoor,Hard,106,Nicolas Escude,L,63 16 46
+26,1999,Segovia,"Segovia, Spain",1999.08.02 - 1999.08.08,Outdoor,Hard,106,Joaquin Munoz-Hernandez,W,76(5) 64
+27,1999,SUI V BEL QF,"Brussels, Belgium",1999.07.12 - 1999.07.18,Outdoor,Clay,109,Xavier Malisse,L,64 36 57 67(5) 
+28,1999,SUI V BEL QF,"Brussels, Belgium",1999.07.12 - 1999.07.18,Outdoor,Clay,109,Christophe Van Garsse,L,67(4) 63 61 57 16
+29,1999,Gstaad,"Gstaad, Switzerland",1999.07.05 - 1999.07.11,Outdoor,Clay,107,Younes El Aynaoui,L,26 36
+30,1999,Wimbledon,"London, England",1999.06.21 - 1999.07.04,Outdoor,Grass,103,Jiri Novak,L,36 63 64 36 46
+31,1999,London / Queen's Club,"London, Great Britain",1999.06.07 - 1999.06.13,Outdoor,Grass,104,Byron Black,L,36 06
+32,1999,Surbiton,"Surbiton, England",1999.05.31 - 1999.06.06,Outdoor,Grass,111,Sargis Sargsian,L,76 36 67
+33,1999,Surbiton,"Surbiton, England",1999.05.31 - 1999.06.06,Outdoor,Grass,111,Alex O'Brien,W,61 64
+34,1999,Surbiton,"Surbiton, England",1999.05.31 - 1999.06.06,Outdoor,Grass,111,John van Lottum,W,63 36 61
+35,1999,Surbiton,"Surbiton, England",1999.05.31 - 1999.06.06,Outdoor,Grass,111,Maurice Ruah,W,76 62
+36,1999,Roland Garros,"Paris, France",1999.05.24 - 1999.06.06,Outdoor,Clay,111,Patrick Rafter,L,75 36 06 26
+37,1999,Ljubljana,"Ljubljana, Slovenia",1999.05.03 - 1999.05.09,Outdoor,Clay,123,Dinu Pescariu,L,67 26
+38,1999,Ljubljana,"Ljubljana, Slovenia",1999.05.03 - 1999.05.09,Outdoor,Clay,123,Juan Albert Viloca-Puig,W,26 63 64
+39,1999,Ljubljana,"Ljubljana, Slovenia",1999.05.03 - 1999.05.09,Outdoor,Clay,123,Radomir Vasek,W,76 61
+40,1999,Ljubljana,"Ljubljana, Slovenia",1999.05.03 - 1999.05.09,Outdoor,Clay,123,Eduardo Medica,W,63 62
+41,1999,Espinho,"Espinho, Portugal",1999.04.26 - 1999.05.02,Outdoor,Clay,124,Juan Balcells,L,67 36
+42,1999,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",1999.04.19 - 1999.04.25,Outdoor,Clay,128,Vincent Spadea,L,67(3) 06
+43,1999,ITA V SUI 1RD,Switzerland,1999.03.29 - 1999.04.04,Indoor,Carpet,123,Gianluca Pozzi,L,46 67(4) 
+44,1999,ITA V SUI 1RD,Switzerland,1999.03.29 - 1999.04.04,Indoor,Carpet,123,Davide Sanguinetti,W,64 67(3) 63 64
+45,1999,ATP Masters Series Miami,"Miami, FL, U.S.A.",1999.03.15 - 1999.03.28,Outdoor,Hard,125,Kenneth Carlsen,L,57 67(4) 
+46,1999,Grenoble,"Grenoble, France",1999.03.01 - 1999.03.07,Indoor,Hard,129,Julien Boutter,L,64 26 36
+47,1999,Grenoble,"Grenoble, France",1999.03.01 - 1999.03.07,Indoor,Hard,129,Rodolphe Gilbert,W,62 60
+48,1999,Rotterdam,"Rotterdam, Netherlands",1999.02.15 - 1999.02.21,Indoor,Carpet,178,Yevgeny Kafelnikov,L,16 75 46
+49,1999,Rotterdam,"Rotterdam, Netherlands",1999.02.15 - 1999.02.21,Indoor,Carpet,178,Bohdan Ulihrach,W,64 75
+50,1999,Rotterdam,"Rotterdam, Netherlands",1999.02.15 - 1999.02.21,Indoor,Carpet,178,Guillaume Raoux,W,67(4) 75 76(3) 
+51,1999,Marseille,"Marseille, France",1999.02.01 - 1999.02.07,Indoor,Hard,243,Arnaud Clement,L,36 36
+52,1999,Marseille,"Marseille, France",1999.02.01 - 1999.02.07,Indoor,Hard,243,Jerome Golmard,W,67(6) 76(5) 76(5) 
+53,1999,Marseille,"Marseille, France",1999.02.01 - 1999.02.07,Indoor,Hard,243,Carlos Moya,W,76(1) 36 63
+54,1999,Heilbronn,"Heilbronn, Germany",1999.01.25 - 1999.01.31,Indoor,Carpet,298,Laurence Tieleman,L,57 16
+55,1999,Heilbronn,"Heilbronn, Germany",1999.01.25 - 1999.01.31,Indoor,Carpet,298,Justin Gimelstob,W,67 76 75
+56,1999,Heilbronn,"Heilbronn, Germany",1999.01.25 - 1999.01.31,Indoor,Carpet,298,John van Lottum,W,62 64
+57,1999,Heilbronn,"Heilbronn, Germany",1999.01.25 - 1999.01.31,Indoor,Carpet,298,Cristiano Caratti,W,75 64
+58,2000,Stockholm,"Stockholm, Sweden",2000.11.20 - 2000.11.26,Indoor,Hard,29,Andreas Vinciguerra,L,57 67(3) 
+59,2000,Stockholm,"Stockholm, Sweden",2000.11.20 - 2000.11.26,Indoor,Hard,29,Mikhail Youzhny,W,57 64 63
+60,2000,ATP World Tour Masters 1000 Paris,"Paris, France",2000.11.13 - 2000.11.19,Indoor,Hard,24,Dominik Hrbaty,L,64 26 26
+61,2000,Lyon,"Lyon, France",2000.11.06 - 2000.11.12,Indoor,Carpet,24,Karol Kucera,L,63 26 16
+62,2000,Lyon,"Lyon, France",2000.11.06 - 2000.11.12,Indoor,Carpet,24,Nicolas Escude,W,63 76(3) 
+63,2000,ATP Masters Series Stuttgart,"Stuttgart, Germany",2000.10.30 - 2000.11.05,Indoor,Hard,25,Yevgeny Kafelnikov,L,57 36
+64,2000,ATP Masters Series Stuttgart,"Stuttgart, Germany",2000.10.30 - 2000.11.05,Indoor,Hard,25,Jan-Michael Gambill,W,76(3) 10 (RET)
+65,2000,Basel,"Basel, Switzerland",2000.10.23 - 2000.10.29,Indoor,Carpet,34,Thomas Enqvist,L,26 64 67(4) 61 16
+66,2000,Basel,"Basel, Switzerland",2000.10.23 - 2000.10.29,Indoor,Carpet,34,Lleyton Hewitt,W,64 57 76(6) 
+67,2000,Basel,"Basel, Switzerland",2000.10.23 - 2000.10.29,Indoor,Carpet,34,Nicolas Thomann,W,64 64
+68,2000,Basel,"Basel, Switzerland",2000.10.23 - 2000.10.29,Indoor,Carpet,34,Andrei Pavel,W,76(4) 64
+69,2000,Basel,"Basel, Switzerland",2000.10.23 - 2000.10.29,Indoor,Carpet,34,Tommy Haas,W,63 63
+70,2000,Vienna,"Vienna, Austria",2000.10.09 - 2000.10.15,Indoor,Hard,31,Tim Henman,L,62 67(4) 36
+71,2000,Vienna,"Vienna, Austria",2000.10.09 - 2000.10.15,Indoor,Hard,31,Richard Krajicek,W,64 63
+72,2000,Vienna,"Vienna, Austria",2000.10.09 - 2000.10.15,Indoor,Hard,31,Max Mirnyi,W,63 63
+73,2000,Vienna,"Vienna, Austria",2000.10.09 - 2000.10.15,Indoor,Hard,31,Magnus Norman,W,46 76(4) 64
+74,2000,Sydney Olympics,"Sydney, Australia",2000.09.18 - 2000.10.01,Outdoor,Hard,36,Arnaud Di Pasquale,L,67(5) 76(7) 36
+75,2000,Sydney Olympics,"Sydney, Australia",2000.09.18 - 2000.10.01,Outdoor,Hard,36,Tommy Haas,L,36 26
+76,2000,Sydney Olympics,"Sydney, Australia",2000.09.18 - 2000.10.01,Outdoor,Hard,36,Karim Alami,W,76(2) 61
+77,2000,Sydney Olympics,"Sydney, Australia",2000.09.18 - 2000.10.01,Outdoor,Hard,36,Mikael Tillstrom,W,61 62
+78,2000,Sydney Olympics,"Sydney, Australia",2000.09.18 - 2000.10.01,Outdoor,Hard,36,Karol Kucera,W,64 76(5) 
+79,2000,Sydney Olympics,"Sydney, Australia",2000.09.18 - 2000.10.01,Outdoor,Hard,36,David Prinosil,W,62 62
+80,2000,US Open,"New York, NY, U.S.A.",2000.08.28 - 2000.09.10,Outdoor,Hard,40,Juan Carlos Ferrero,L,57 67(6) 61 67(6) 
+81,2000,US Open,"New York, NY, U.S.A.",2000.08.28 - 2000.09.10,Outdoor,Hard,40,Daniel Nestor,W,61 76(5) 61
+82,2000,US Open,"New York, NY, U.S.A.",2000.08.28 - 2000.09.10,Outdoor,Hard,40,Peter Wessels,W,46 46 63 75 34 (RET)
+83,2000,Indianapolis,"Indianapolis, IN, U.S.A.",2000.08.14 - 2000.08.20,Outdoor,Hard,40,James Sekulov,L,46 57
+84,2000,ATP Masters Series Cincinnati,"Cincinnati, OH, U.S.A.",2000.08.07 - 2000.08.13,Outdoor,Hard,39,Francisco Clavet,L,67(3) 67(4) 
+85,2000,ATP Masters Series Canada,"Toronto, Canada",2000.07.31 - 2000.08.06,Outdoor,Hard,38,Lleyton Hewitt,L,63 36 26
+86,2000,SUI v BLR WGPO,"St.Gallen, Switz.",2000.07.17 - 2000.07.23,Indoor,Carpet,39,Vladimir Voltchkov,W,46 75 76(1) 57 62
+87,2000,Gstaad,"Gstaad, Switzerland",2000.07.10 - 2000.07.16,Outdoor,Clay,39,Alex Corretja,L,46 64 46
+88,2000,Wimbledon,"London, England",2000.06.26 - 2000.07.09,Outdoor,Grass,35,Yevgeny Kafelnikov,L,57 57 67(6) 
+89,2000,Nottingham,"Nottingham, England",2000.06.19 - 2000.06.25,Outdoor,Grass,35,Richard Fromberg,L,57 16
+90,2000,Halle,"Halle, Germany",2000.06.12 - 2000.06.18,Outdoor,Grass,38,Michael Chang,L,57 26
+91,2000,Halle,"Halle, Germany",2000.06.12 - 2000.06.18,Outdoor,Grass,38,Magnus Larsson,W,62 63
+92,2000,Halle,"Halle, Germany",2000.06.12 - 2000.06.18,Outdoor,Grass,38,Arnaud Clement,W,64 62
+93,2000,Roland Garros,"Paris, France",2000.05.29 - 2000.06.11,Outdoor,Clay,54,Alex Corretja,L,57 67(7) 26
+94,2000,Roland Garros,"Paris, France",2000.05.29 - 2000.06.11,Outdoor,Clay,54,Michel Kratochvil,W,76(5) 64 26 67(4) 86
+95,2000,Roland Garros,"Paris, France",2000.05.29 - 2000.06.11,Outdoor,Clay,54,Jan-Michael Gambill,W,76(5) 63 63
+96,2000,Roland Garros,"Paris, France",2000.05.29 - 2000.06.11,Outdoor,Clay,54,Wayne Arthurs,W,76(4) 63 16 63
+97,2000,St. Poelten,"St. Poelten, Austria",2000.05.22 - 2000.05.28,Outdoor,Clay,54,Markus Hantschk,L,26 16
+98,2000,ATP Masters Series Hamburg,"Hamburg, Germany",2000.05.15 - 2000.05.21,Outdoor,Clay,50,Andrei Pavel,L,46 36
+99,2000,ATP Masters Series Rome,"Rome, Italy",2000.05.08 - 2000.05.14,Outdoor,Clay,51,Andrei Medvedev,L,63 36 57
+100,2000,Barcelona,"Barcelona, Spain",2000.04.24 - 2000.04.30,Outdoor,Clay,51,Sergi Bruguera,L,16 16
+101,2000,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2000.04.17 - 2000.04.23,Outdoor,Clay,49,Jiri Novak,L,16 62 57
+102,2000,ATP Masters Series Miami,"Miami, FL, U.S.A.",2000.03.20 - 2000.04.02,Outdoor,Hard,53,Mariano Zabaleta,L,46 67(7) 
+103,2000,ATP Masters Series Miami,"Miami, FL, U.S.A.",2000.03.20 - 2000.04.02,Outdoor,Hard,53,Justin Gimelstob,W,75 63
+104,2000,Copenhagen,"Copenhagen, Denmark",2000.02.28 - 2000.03.05,Indoor,Hard,58,Magnus Larsson,L,36 67(6) 
+105,2000,Copenhagen,"Copenhagen, Denmark",2000.02.28 - 2000.03.05,Indoor,Hard,58,Gianluca Pozzi,W,46 61 63
+106,2000,Copenhagen,"Copenhagen, Denmark",2000.02.28 - 2000.03.05,Indoor,Hard,58,Fredrik Jonsson,W,64 64
+107,2000,Copenhagen,"Copenhagen, Denmark",2000.02.28 - 2000.03.05,Indoor,Hard,58,Filip Dewulf,W,64 46 63
+108,2000,London,"London, England",2000.02.21 - 2000.02.27,Indoor,Hard,66,Marc Rosset,L,63 46 46
+109,2000,London,"London, England",2000.02.21 - 2000.02.27,Indoor,Hard,66,Goran Ivanisevic,W,75 63
+110,2000,London,"London, England",2000.02.21 - 2000.02.27,Indoor,Hard,66,Nicolas Kiefer,W,62 63
+111,2000,Marseille,"Marseille, France",2000.02.07 - 2000.02.13,Indoor,Hard,67,Marc Rosset,L,62 36 67(5) 
+112,2000,Marseille,"Marseille, France",2000.02.07 - 2000.02.13,Indoor,Hard,67,Fabrice Santoro,W,76(4) 75
+113,2000,Marseille,"Marseille, France",2000.02.07 - 2000.02.13,Indoor,Hard,67,Ivan Ljubicic,W,62 36 76(5) 
+114,2000,Marseille,"Marseille, France",2000.02.07 - 2000.02.13,Indoor,Hard,67,Thomas Johansson,W,63 62
+115,2000,Marseille,"Marseille, France",2000.02.07 - 2000.02.13,Indoor,Hard,67,Antony Dupuis,W,64 64
+116,2000,AUS V SUI 1RD,"Zurich, Switzerland",2000.01.31 - 2000.02.06,Indoor,Carpet,61,Lleyton Hewitt,L,26 63 67(2) 16
+117,2000,AUS V SUI 1RD,"Zurich, Switzerland",2000.01.31 - 2000.02.06,Indoor,Carpet,61,Mark Philippoussis,W,64 76(3) 46 64
+118,2000,Australian Open,"Melbourne, Australia",2000.01.17 - 2000.01.30,Outdoor,Hard,62,Arnaud Clement,L,16 46 36
+119,2000,Australian Open,"Melbourne, Australia",2000.01.17 - 2000.01.30,Outdoor,Hard,62,Jan Kroslak,W,76(1) 62 63
+120,2000,Australian Open,"Melbourne, Australia",2000.01.17 - 2000.01.30,Outdoor,Hard,62,Michael Chang,W,64 64 76(5) 
+121,2000,Auckland,"Auckland, New Zealand",2000.01.10 - 2000.01.16,Outdoor,Hard,61,Juan Carlos Ferrero,L,46 46
+122,2000,Adelaide,"Adelaide, Australia",2000.01.03 - 2000.01.09,Outdoor,Hard,0,Thomas Enqvist,L,67(5) 46
+123,2000,Adelaide,"Adelaide, Australia",2000.01.03 - 2000.01.09,Outdoor,Hard,0,Jens Knippschild,W,61 64
+124,2001,ATP World Tour Masters 1000 Paris,"Paris, France",2001.10.29 - 2001.11.04,Indoor,Hard,13,Jiri Novak,L,46 76(4) 67(2) 
+125,2001,Basel,"Basel, Switzerland",2001.10.22 - 2001.10.28,Indoor,Carpet,13,Tim Henman,L,36 46 26
+126,2001,Basel,"Basel, Switzerland",2001.10.22 - 2001.10.28,Indoor,Carpet,13,Julien Boutter,W,76(3) 64
+127,2001,Basel,"Basel, Switzerland",2001.10.22 - 2001.10.28,Indoor,Carpet,13,Andy Roddick,W,36 63 76(5) 
+128,2001,Basel,"Basel, Switzerland",2001.10.22 - 2001.10.28,Indoor,Carpet,13,Xavier Malisse,W,63 64
+129,2001,Basel,"Basel, Switzerland",2001.10.22 - 2001.10.28,Indoor,Carpet,13,Albert Costa,W,63 63
+130,2001,ATP Masters Series Stuttgart,"Stuttgart, Germany",2001.10.15 - 2001.10.21,Indoor,Hard,12,Wayne Ferreira,L,67(1) 63 26
+131,2001,Vienna,"Vienna, Austria",2001.10.08 - 2001.10.14,Indoor,Hard,12,Stefan Koubek,L,67(3) 57
+132,2001,Vienna,"Vienna, Austria",2001.10.08 - 2001.10.14,Indoor,Hard,12,Albert Costa,W,76(1) 62
+133,2001,Vienna,"Vienna, Austria",2001.10.08 - 2001.10.14,Indoor,Hard,12,Nicolas Massu,W,46 76(8) 64
+134,2001,Moscow,"Moscow, Russia",2001.10.01 - 2001.10.07,Indoor,Carpet,12,Nicolas Kiefer,L,36 61 67(4) 
+135,2001,US Open,"New York, NY, U.S.A.",2001.08.27 - 2001.09.09,Outdoor,Hard,13,Andre Agassi,L,16 26 46
+136,2001,US Open,"New York, NY, U.S.A.",2001.08.27 - 2001.09.09,Outdoor,Hard,13,Sjeng Schalken,W,64 75 76(3) 
+137,2001,US Open,"New York, NY, U.S.A.",2001.08.27 - 2001.09.09,Outdoor,Hard,13,Robby Ginepri,W,62 75 61
+138,2001,US Open,"New York, NY, U.S.A.",2001.08.27 - 2001.09.09,Outdoor,Hard,13,Lars Burgsmuller,W,64 64 64
+139,2001,Gstaad,"Gstaad, Switzerland",2001.07.09 - 2001.07.15,Outdoor,Clay,14,Ivan Ljubicic,L,26 16
+140,2001,Wimbledon,"London, England",2001.06.25 - 2001.07.08,Outdoor,Grass,15,Tim Henman,L,57 67(6) 62 67(6) 
+141,2001,Wimbledon,"London, England",2001.06.25 - 2001.07.08,Outdoor,Grass,15,Pete Sampras,W,76(7) 57 64 67(2) 75
+142,2001,Wimbledon,"London, England",2001.06.25 - 2001.07.08,Outdoor,Grass,15,Jonas Bjorkman,W,76(4) 63 76(2) 
+143,2001,Wimbledon,"London, England",2001.06.25 - 2001.07.08,Outdoor,Grass,15,Xavier Malisse,W,63 75 36 46 63
+144,2001,Wimbledon,"London, England",2001.06.25 - 2001.07.08,Outdoor,Grass,15,Christophe Rochus,W,62 63 62
+145,2001,'s-Hertogenbosch,"s-Hertogenbosch, Netherlands",2001.06.18 - 2001.06.24,Outdoor,Grass,15,Lleyton Hewitt,L,46 26
+146,2001,'s-Hertogenbosch,"s-Hertogenbosch, Netherlands",2001.06.18 - 2001.06.24,Outdoor,Grass,15,Raemon Sluiter,W,67(4) 64 64
+147,2001,'s-Hertogenbosch,"s-Hertogenbosch, Netherlands",2001.06.18 - 2001.06.24,Outdoor,Grass,15,John van Lottum,W,60 61
+148,2001,'s-Hertogenbosch,"s-Hertogenbosch, Netherlands",2001.06.18 - 2001.06.24,Outdoor,Grass,15,Antony Dupuis,W,76(3) 64
+149,2001,Halle,"Halle, Germany",2001.06.11 - 2001.06.17,Outdoor,Grass,14,Patrick Rafter,L,64 67(6) 67(4) 
+150,2001,Halle,"Halle, Germany",2001.06.11 - 2001.06.17,Outdoor,Grass,14,David Prinosil,W,76(8) 75
+151,2001,Halle,"Halle, Germany",2001.06.11 - 2001.06.17,Outdoor,Grass,14,Albert Portas,W,67(4) 64 62
+152,2001,Roland Garros,"Paris, France",2001.05.28 - 2001.06.10,Outdoor,Clay,18,Alex Corretja,L,57 46 57
+153,2001,Roland Garros,"Paris, France",2001.05.28 - 2001.06.10,Outdoor,Clay,18,Wayne Arthurs,W,36 63 64 62
+154,2001,Roland Garros,"Paris, France",2001.05.28 - 2001.06.10,Outdoor,Clay,18,David Sanchez,W,64 63 16 63
+155,2001,Roland Garros,"Paris, France",2001.05.28 - 2001.06.10,Outdoor,Clay,18,Sargis Sargsian,W,46 36 62 64 97
+156,2001,Roland Garros,"Paris, France",2001.05.28 - 2001.06.10,Outdoor,Clay,18,Stefano Galvani,W,63 63 63
+157,2001,ATP Masters Series Hamburg,"Hamburg, Germany",2001.05.14 - 2001.05.20,Outdoor,Clay,18,Franco Squillari,L,36 46
+158,2001,ATP Masters Series Rome,"Rome, Italy",2001.05.07 - 2001.05.13,Outdoor,Clay,18,Wayne Ferreira,L,67(4) 26
+159,2001,ATP Masters Series Rome,"Rome, Italy",2001.05.07 - 2001.05.13,Outdoor,Clay,18,Marat Safin,W,46 64 76(5) 
+160,2001,ATP Masters Series Rome,"Rome, Italy",2001.05.07 - 2001.05.13,Outdoor,Clay,18,Thomas Johansson,W,76(3) 46 76(5) 
+161,2001,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2001.04.16 - 2001.04.22,Outdoor,Clay,22,Sebastien Grosjean,L,46 36
+162,2001,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2001.04.16 - 2001.04.22,Outdoor,Clay,22,Arnaud Di Pasquale,W,61 62
+163,2001,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2001.04.16 - 2001.04.22,Outdoor,Clay,22,Davide Sanguinetti,W,76(5) 76
+164,2001,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2001.04.16 - 2001.04.22,Outdoor,Clay,22,Michael Chang,W,64 63
+165,2001,FRA v SUI WG QF,Neuchatel,2001.04.02 - 2001.04.08,Indoor,Carpet,21,Arnaud Clement,W,64 36 76(5) 64
+166,2001,FRA v SUI WG QF,Neuchatel,2001.04.02 - 2001.04.08,Indoor,Carpet,21,Nicolas Escude,L,46 76(1) 36 46
+167,2001,ATP Masters Series Miami,"Miami, FL, U.S.A.",2001.03.19 - 2001.04.01,Outdoor,Hard,24,Patrick Rafter,L,36 16
+168,2001,ATP Masters Series Miami,"Miami, FL, U.S.A.",2001.03.19 - 2001.04.01,Outdoor,Hard,24,Thomas Johansson,W,76(3) 57 76(7) 
+169,2001,ATP Masters Series Miami,"Miami, FL, U.S.A.",2001.03.19 - 2001.04.01,Outdoor,Hard,24,Mark Philippoussis,W,36 76(4) 62
+170,2001,ATP Masters Series Miami,"Miami, FL, U.S.A.",2001.03.19 - 2001.04.01,Outdoor,Hard,24,Younes El Aynaoui,W,62 62
+171,2001,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2001.03.12 - 2001.03.18,Outdoor,Hard,21,Nicolas Kiefer,L,63 57 16
+172,2001,Rotterdam,"Rotterdam, Netherlands",2001.02.19 - 2001.02.25,Indoor,Hard,23,Nicolas Escude,L,57 63 67(5) 
+173,2001,Rotterdam,"Rotterdam, Netherlands",2001.02.19 - 2001.02.25,Indoor,Hard,23,Andrei Pavel,W,67(4) 64 60
+174,2001,Rotterdam,"Rotterdam, Netherlands",2001.02.19 - 2001.02.25,Indoor,Hard,23,Alex Corretja,W,64 62
+175,2001,Rotterdam,"Rotterdam, Netherlands",2001.02.19 - 2001.02.25,Indoor,Hard,23,Sebastien Grosjean,W,46 63 64
+176,2001,Rotterdam,"Rotterdam, Netherlands",2001.02.19 - 2001.02.25,Indoor,Hard,23,Andrew Ilie,W,76(5) 61
+177,2001,Marseille,"Marseille, France",2001.02.12 - 2001.02.18,Indoor,Hard,23,Yevgeny Kafelnikov,L,76(4) 46 46
+178,2001,Marseille,"Marseille, France",2001.02.12 - 2001.02.18,Indoor,Hard,23,Michel Kratochvil,W,64 76(4) 
+179,2001,Marseille,"Marseille, France",2001.02.12 - 2001.02.18,Indoor,Hard,23,Bob Bryan,W,76(1) 63
+180,2001,Marseille,"Marseille, France",2001.02.12 - 2001.02.18,Indoor,Hard,23,Cyril Saulnier,W,76(7) 64
+181,2001,SUI v USA WG Rd 1,"Basel, Switzerland",2001.02.05 - 2001.02.11,Indoor,Hard,22,Jan-Michael Gambill,W,75 62 46 62
+182,2001,SUI v USA WG Rd 1,"Basel, Switzerland",2001.02.05 - 2001.02.11,Indoor,Hard,22,Todd Martin,W,64 76(3) 46 61
+183,2001,Milan,"Milan, Italy",2001.01.29 - 2001.02.04,Indoor,Carpet,27,Julien Boutter,W,64 67(7) 64
+184,2001,Milan,"Milan, Italy",2001.01.29 - 2001.02.04,Indoor,Carpet,27,Yevgeny Kafelnikov,W,62 67(4) 63
+185,2001,Milan,"Milan, Italy",2001.01.29 - 2001.02.04,Indoor,Carpet,27,Goran Ivanisevic,W,64 64
+186,2001,Milan,"Milan, Italy",2001.01.29 - 2001.02.04,Indoor,Carpet,27,Cyril Saulnier,W,26 63 64
+187,2001,Milan,"Milan, Italy",2001.01.29 - 2001.02.04,Indoor,Carpet,27,Rainer Schuettler,W,63 64
+188,2001,Australian Open,"Melbourne, Australia",2001.01.15 - 2001.01.28,Outdoor,Hard,29,Arnaud Clement,L,67(5) 46 46
+189,2001,Australian Open,"Melbourne, Australia",2001.01.15 - 2001.01.28,Outdoor,Hard,29,Nicolas Escude,W,61 64 64
+190,2001,Australian Open,"Melbourne, Australia",2001.01.15 - 2001.01.28,Outdoor,Hard,29,Arnaud Di Pasquale,W,64 46 61 75
+191,2001,Sydney,"Sydney, Australia",2001.01.08 - 2001.01.14,Outdoor,Hard,30,Sebastien Grosjean,L,57 46
+192,2001,Sydney,"Sydney, Australia",2001.01.08 - 2001.01.14,Outdoor,Hard,30,Marc Rosset,W,61 62
+193,2001,Sydney,"Sydney, Australia",2001.01.08 - 2001.01.14,Outdoor,Hard,30,Wayne Ferreira,W,63 64
+194,2002,Tennis Masters Cup,"Shanghai, China",2002.11.11 - 2002.11.17,Indoor,Hard,6,Lleyton Hewitt,L,57 75 57
+195,2002,Tennis Masters Cup,"Shanghai, China",2002.11.11 - 2002.11.17,Indoor,Hard,6,Thomas Johansson,W,63 75
+196,2002,Tennis Masters Cup,"Shanghai, China",2002.11.11 - 2002.11.17,Indoor,Hard,6,Jiri Novak,W,60 46 62
+197,2002,Tennis Masters Cup,"Shanghai, China",2002.11.11 - 2002.11.17,Indoor,Hard,6,Juan Carlos Ferrero,W,63 64
+198,2002,ATP World Tour Masters 1000 Paris,"Paris, France",2002.10.28 - 2002.11.03,Indoor,Hard,8,Lleyton Hewitt,L,46 46
+199,2002,ATP World Tour Masters 1000 Paris,"Paris, France",2002.10.28 - 2002.11.03,Indoor,Hard,8,Tommy Haas,W,62 76(2) 
+200,2002,ATP World Tour Masters 1000 Paris,"Paris, France",2002.10.28 - 2002.11.03,Indoor,Hard,8,Xavier Malisse,W,62 64
+201,2002,Basel,"Basel, Switzerland",2002.10.21 - 2002.10.27,Indoor,Carpet,8,David Nalbandian,L,76(2) 57 36
+202,2002,Basel,"Basel, Switzerland",2002.10.21 - 2002.10.27,Indoor,Carpet,8,Andy Roddick,W,76(5) 61
+203,2002,Basel,"Basel, Switzerland",2002.10.21 - 2002.10.27,Indoor,Carpet,8,Alexander Waske,W,63 76(1) 
+204,2002,Basel,"Basel, Switzerland",2002.10.21 - 2002.10.27,Indoor,Carpet,8,Martin Verkerk,W,63 63
+205,2002,ATP Masters Series Madrid,"Madrid, Spain",2002.10.14 - 2002.10.20,Indoor,Hard,7,Fabrice Santoro,L,57 36
+206,2002,ATP Masters Series Madrid,"Madrid, Spain",2002.10.14 - 2002.10.20,Indoor,Hard,7,Nicolas Lapentti,W,63 64
+207,2002,ATP Masters Series Madrid,"Madrid, Spain",2002.10.14 - 2002.10.20,Indoor,Hard,7,Marcelo Rios,W,64 62
+208,2002,Vienna,"Vienna, Austria",2002.10.07 - 2002.10.13,Indoor,Hard,13,Jiri Novak,W,64 61 36 64
+209,2002,Vienna,"Vienna, Austria",2002.10.07 - 2002.10.13,Indoor,Hard,13,Carlos Moya,W,62 63
+210,2002,Vienna,"Vienna, Austria",2002.10.07 - 2002.10.13,Indoor,Hard,13,Bohdan Ulihrach,W,63 63
+211,2002,Vienna,"Vienna, Austria",2002.10.07 - 2002.10.13,Indoor,Hard,13,Tommy Robredo,W,62 67(5) 64
+212,2002,Vienna,"Vienna, Austria",2002.10.07 - 2002.10.13,Indoor,Hard,13,Zeljko Krajan,W,75 61
+213,2002,Moscow,"Moscow, Russia",2002.09.30 - 2002.10.06,Indoor,Carpet,13,Marat Safin,L,57 46
+214,2002,Moscow,"Moscow, Russia",2002.09.30 - 2002.10.06,Indoor,Carpet,13,Jarkko Nieminen,W,61 64
+215,2002,Moscow,"Moscow, Russia",2002.09.30 - 2002.10.06,Indoor,Carpet,13,Denis Golovanov,W,60 61
+216,2002,MAR v. SUI WG Q,Casablanca,2002.09.16 - 2002.09.22,Outdoor,Clay,13,Younes El Aynaoui,W,63 62 61
+217,2002,MAR v. SUI WG Q,Casablanca,2002.09.16 - 2002.09.22,Outdoor,Clay,13,Hicham Arazi,W,63 62 61
+218,2002,US Open,"New York, NY, U.S.A.",2002.08.26 - 2002.09.08,Outdoor,Hard,13,Max Mirnyi,L,36 67(5) 46
+219,2002,US Open,"New York, NY, U.S.A.",2002.08.26 - 2002.09.08,Outdoor,Hard,13,Xavier Malisse,W,46 63 64 64
+220,2002,US Open,"New York, NY, U.S.A.",2002.08.26 - 2002.09.08,Outdoor,Hard,13,Michael Chang,W,63 61 63
+221,2002,US Open,"New York, NY, U.S.A.",2002.08.26 - 2002.09.08,Outdoor,Hard,13,Jiri Vanek,W,61 63 46 75
+222,2002,Long Island,"Long Island, NY, U.S.A.",2002.08.19 - 2002.08.25,Outdoor,Hard,13,Nicolas Massu,L,76(5) 16 36
+223,2002,ATP Masters Series Cincinnati,"Cincinnati, OH, U.S.A.",2002.08.05 - 2002.08.11,Outdoor,Hard,14,Ivan Ljubicic,L,62 46 36
+224,2002,ATP Masters Series Canada,"Toronto, Canada",2002.07.29 - 2002.08.04,Outdoor,Hard,10,Guillermo Canas,L,67(10) 57
+225,2002,Gstaad,"Gstaad, Switzerland",2002.07.08 - 2002.07.14,Outdoor,Clay,11,Radek Stepanek,L,63 36 26
+226,2002,Gstaad,"Gstaad, Switzerland",2002.07.08 - 2002.07.14,Outdoor,Clay,11,Hicham Arazi,W,64 63
+227,2002,Wimbledon,"London, England",2002.06.24 - 2002.07.07,Outdoor,Grass,9,Mario Ancic,L,36 67(2) 36
+228,2002,'s-Hertogenbosch,"s-Hertogenbosch, Netherlands",2002.06.17 - 2002.06.23,Outdoor,Grass,9,Sjeng Schalken,L,63 57 36
+229,2002,'s-Hertogenbosch,"s-Hertogenbosch, Netherlands",2002.06.17 - 2002.06.23,Outdoor,Grass,9,Ivo Heuberger,W,64 (RET)
+230,2002,'s-Hertogenbosch,"s-Hertogenbosch, Netherlands",2002.06.17 - 2002.06.23,Outdoor,Grass,9,Richard Krajicek,W,62 75
+231,2002,Halle,"Halle, Germany",2002.06.10 - 2002.06.16,Outdoor,Grass,10,Nicolas Kiefer,L,64 46 46
+232,2002,Halle,"Halle, Germany",2002.06.10 - 2002.06.16,Outdoor,Grass,10,Mikhail Youzhny,W,63 64
+233,2002,Halle,"Halle, Germany",2002.06.10 - 2002.06.16,Outdoor,Grass,10,David Prinosil,W,62 64
+234,2002,Halle,"Halle, Germany",2002.06.10 - 2002.06.16,Outdoor,Grass,10,Hendrik Dreekmann,W,67(5) 63 64
+235,2002,Roland Garros,"Paris, France",2002.05.27 - 2002.06.09,Outdoor,Clay,8,Hicham Arazi,L,36 26 46
+236,2002,ATP Masters Series Hamburg,"Hamburg, Germany",2002.05.13 - 2002.05.19,Outdoor,Clay,14,Marat Safin,W,61 63 64
+237,2002,ATP Masters Series Hamburg,"Hamburg, Germany",2002.05.13 - 2002.05.19,Outdoor,Clay,14,Max Mirnyi,W,64 64
+238,2002,ATP Masters Series Hamburg,"Hamburg, Germany",2002.05.13 - 2002.05.19,Outdoor,Clay,14,Gustavo Kuerten,W,60 16 62
+239,2002,ATP Masters Series Hamburg,"Hamburg, Germany",2002.05.13 - 2002.05.19,Outdoor,Clay,14,Adrian Voinea,W,75 64
+240,2002,ATP Masters Series Hamburg,"Hamburg, Germany",2002.05.13 - 2002.05.19,Outdoor,Clay,14,Bohdan Ulihrach,W,63 60
+241,2002,ATP Masters Series Hamburg,"Hamburg, Germany",2002.05.13 - 2002.05.19,Outdoor,Clay,14,Nicolas Lapentti,W,61 64
+242,2002,ATP Masters Series Rome,"Rome, Italy",2002.05.06 - 2002.05.12,Outdoor,Clay,11,Andrea Gaudenzi,L,46 46
+243,2002,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2002.04.15 - 2002.04.21,Outdoor,Clay,11,David Nalbandian,L,26 16
+244,2002,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2002.04.15 - 2002.04.21,Outdoor,Clay,11,Mariano Zabaleta,W,76(2) 64
+245,2002,ATP Masters Series Miami,"Miami, FL, U.S.A.",2002.03.18 - 2002.03.31,Outdoor,Hard,14,Andre Agassi,L,36 36 63 46
+246,2002,ATP Masters Series Miami,"Miami, FL, U.S.A.",2002.03.18 - 2002.03.31,Outdoor,Hard,14,Lleyton Hewitt,W,63 64
+247,2002,ATP Masters Series Miami,"Miami, FL, U.S.A.",2002.03.18 - 2002.03.31,Outdoor,Hard,14,Andrei Pavel,W,61 61
+248,2002,ATP Masters Series Miami,"Miami, FL, U.S.A.",2002.03.18 - 2002.03.31,Outdoor,Hard,14,Tim Henman,W,62 (RET)
+249,2002,ATP Masters Series Miami,"Miami, FL, U.S.A.",2002.03.18 - 2002.03.31,Outdoor,Hard,14,Albert Portas,W,64 61
+250,2002,ATP Masters Series Miami,"Miami, FL, U.S.A.",2002.03.18 - 2002.03.31,Outdoor,Hard,14,Jeff Morrison,W,61 76(6) 
+251,2002,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2002.03.11 - 2002.03.17,Outdoor,Hard,14,Thomas Enqvist,L,46 36
+252,2002,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2002.03.11 - 2002.03.17,Outdoor,Hard,14,Stefan Koubek,W,64 64
+253,2002,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2002.03.11 - 2002.03.17,Outdoor,Hard,14,Xavier Malisse,W,67(5) 76(3) 63
+254,2002,Dubai,"Dubai, U.A.E.",2002.02.25 - 2002.03.03,Outdoor,Hard,14,Rainer Schuettler,L,36 16
+255,2002,Dubai,"Dubai, U.A.E.",2002.02.25 - 2002.03.03,Outdoor,Hard,14,Adrian Voinea,W,63 64
+256,2002,Rotterdam,"Rotterdam, Netherlands",2002.02.18 - 2002.02.24,Indoor,Hard,13,Nicolas Escude,L,63 67(8) 57
+257,2002,Rotterdam,"Rotterdam, Netherlands",2002.02.18 - 2002.02.24,Indoor,Hard,13,Thomas Enqvist,W,(W/O)
+258,2002,Rotterdam,"Rotterdam, Netherlands",2002.02.18 - 2002.02.24,Indoor,Hard,13,John van Lottum,W,63 64
+259,2002,RUS v SUI WG Rd 1,"Moscow, Russia",2002.02.04 - 2002.02.10,Indoor,Clay,13,Yevgeny Kafelnikov,W,76(6) 61 61
+260,2002,RUS v SUI WG Rd 1,"Moscow, Russia",2002.02.04 - 2002.02.10,Indoor,Clay,13,Marat Safin,W,75 61 62
+261,2002,Milan,"Milan, Italy",2002.01.28 - 2002.02.03,Indoor,Carpet,13,Davide Sanguinetti,L,67(2) 64 16
+262,2002,Milan,"Milan, Italy",2002.01.28 - 2002.02.03,Indoor,Carpet,13,Greg Rusedski,W,76(7) 76(4) 
+263,2002,Milan,"Milan, Italy",2002.01.28 - 2002.02.03,Indoor,Carpet,13,Sargis Sargsian,W,46 63 63
+264,2002,Milan,"Milan, Italy",2002.01.28 - 2002.02.03,Indoor,Carpet,13,Nikolay Davydenko,W,63 67(4) 75
+265,2002,Milan,"Milan, Italy",2002.01.28 - 2002.02.03,Indoor,Carpet,13,Stefan Koubek,W,76(2) 63
+266,2002,Australian Open,"Melbourne, Australia",2002.01.14 - 2002.01.27,Outdoor,Hard,12,Tommy Haas,L,67(3) 64 63 46 68
+267,2002,Australian Open,"Melbourne, Australia",2002.01.14 - 2002.01.27,Outdoor,Hard,12,Rainer Schuettler,W,76(6) 76(5) 64
+268,2002,Australian Open,"Melbourne, Australia",2002.01.14 - 2002.01.27,Outdoor,Hard,12,Attila Savolt,W,62 75 64
+269,2002,Australian Open,"Melbourne, Australia",2002.01.14 - 2002.01.27,Outdoor,Hard,12,Michael Chang,W,64 64 63
+270,2002,Sydney,"Sydney, Australia",2002.01.07 - 2002.01.13,Outdoor,Hard,13,Juan Ignacio Chela,W,63 63
+271,2002,Sydney,"Sydney, Australia",2002.01.07 - 2002.01.13,Outdoor,Hard,13,Andy Roddick,W,76(3) 64
+272,2002,Sydney,"Sydney, Australia",2002.01.07 - 2002.01.13,Outdoor,Hard,13,Marcelo Rios,W,67(2) 76(4) 63
+273,2002,Sydney,"Sydney, Australia",2002.01.07 - 2002.01.13,Outdoor,Hard,13,Xavier Malisse,W,62 64
+274,2002,Sydney,"Sydney, Australia",2002.01.07 - 2002.01.13,Outdoor,Hard,13,Tommy Robredo,W,76(5) 76(5) 
+275,2003,Tennis Masters Cup,"Houston, TX, USA",2003.11.10 - 2003.11.16,Outdoor,Hard,3,Andre Agassi,W,63 60 64
+276,2003,Tennis Masters Cup,"Houston, TX, USA",2003.11.10 - 2003.11.16,Outdoor,Hard,3,Andy Roddick,W,76(2) 62
+277,2003,Tennis Masters Cup,"Houston, TX, USA",2003.11.10 - 2003.11.16,Outdoor,Hard,3,Juan Carlos Ferrero,W,63 61
+278,2003,Tennis Masters Cup,"Houston, TX, USA",2003.11.10 - 2003.11.16,Outdoor,Hard,3,David Nalbandian,W,63 60
+279,2003,Tennis Masters Cup,"Houston, TX, USA",2003.11.10 - 2003.11.16,Outdoor,Hard,3,Andre Agassi,W,67(3) 63 76(7) 
+280,2003,ATP World Tour Masters 1000 Paris,"Paris, France",2003.10.27 - 2003.11.02,Indoor,Hard,3,Tim Henman,L,67(5) 16
+281,2003,ATP World Tour Masters 1000 Paris,"Paris, France",2003.10.27 - 2003.11.02,Indoor,Hard,3,Martin Verkerk,W,67(3) 76(12) 76(6) 
+282,2003,ATP World Tour Masters 1000 Paris,"Paris, France",2003.10.27 - 2003.11.02,Indoor,Hard,3,Thierry Ascione,W,76(5) 61
+283,2003,Basel,"Basel, Switzerland",2003.10.20 - 2003.10.26,Indoor,Carpet,3,Ivan Ljubicic,L,67(5) 76(5) 46
+284,2003,Basel,"Basel, Switzerland",2003.10.20 - 2003.10.26,Indoor,Carpet,3,Marc Rosset,W,61 63
+285,2003,ATP Masters Series Madrid,"Madrid, Spain",2003.10.13 - 2003.10.19,Indoor,Hard,3,Juan Carlos Ferrero,L,46 64 46
+286,2003,ATP Masters Series Madrid,"Madrid, Spain",2003.10.13 - 2003.10.19,Indoor,Hard,3,Feliciano Lopez,W,46 76(3) 64
+287,2003,ATP Masters Series Madrid,"Madrid, Spain",2003.10.13 - 2003.10.19,Indoor,Hard,3,Mardy Fish,W,63 76(4) 
+288,2003,ATP Masters Series Madrid,"Madrid, Spain",2003.10.13 - 2003.10.19,Indoor,Hard,3,Alex Corretja,W,64 63
+289,2003,Vienna,"Vienna, Austria",2003.10.06 - 2003.10.12,Indoor,Hard,3,Carlos Moya,W,63 63 63
+290,2003,Vienna,"Vienna, Austria",2003.10.06 - 2003.10.12,Indoor,Hard,3,Max Mirnyi,W,62 76(2) 
+291,2003,Vienna,"Vienna, Austria",2003.10.06 - 2003.10.12,Indoor,Hard,3,Jarkko Nieminen,W,63 63
+292,2003,Vienna,"Vienna, Austria",2003.10.06 - 2003.10.12,Indoor,Hard,3,Karol Beck,W,63 46 64
+293,2003,Vienna,"Vienna, Austria",2003.10.06 - 2003.10.12,Indoor,Hard,3,David Ferrer,W,62 62
+294,2003,AUS v. SUI WG SF,"Melbourne, Australia",2003.09.15 - 2003.09.21,Outdoor,Hard,3,Lleyton Hewitt,L,75 62 67(4) 57 16
+295,2003,AUS v. SUI WG SF,"Melbourne, Australia",2003.09.15 - 2003.09.21,Outdoor,Hard,3,Mark Philippoussis,W,63 64 76(3) 
+296,2003,US Open,"New York, NY, U.S.A.",2003.08.25 - 2003.09.07,Outdoor,Hard,2,David Nalbandian,L,63 67(1) 46 36
+297,2003,US Open,"New York, NY, U.S.A.",2003.08.25 - 2003.09.07,Outdoor,Hard,2,James Blake,W,63 76(4) 63
+298,2003,US Open,"New York, NY, U.S.A.",2003.08.25 - 2003.09.07,Outdoor,Hard,2,Jean-Rene Lisnard,W,61 62 60
+299,2003,US Open,"New York, NY, U.S.A.",2003.08.25 - 2003.09.07,Outdoor,Hard,2,Jose Acasuso,W,57 63 63 20 (RET)
+300,2003,ATP Masters Series Cincinnati,"Cincinnati, OH, U.S.A.",2003.08.11 - 2003.08.17,Outdoor,Hard,2,David Nalbandian,L,67(4) 67(5) 
+301,2003,ATP Masters Series Cincinnati,"Cincinnati, OH, U.S.A.",2003.08.11 - 2003.08.17,Outdoor,Hard,2,Scott Draper,W,46 63 76(10) 
+302,2003,ATP Masters Series Canada,"Montreal, Canada",2003.08.04 - 2003.08.10,Outdoor,Hard,3,Andy Roddick,L,46 63 67(3) 
+303,2003,ATP Masters Series Canada,"Montreal, Canada",2003.08.04 - 2003.08.10,Outdoor,Hard,3,Max Mirnyi,W,62 76(3) 
+304,2003,ATP Masters Series Canada,"Montreal, Canada",2003.08.04 - 2003.08.10,Outdoor,Hard,3,Tommy Robredo,W,64 63
+305,2003,ATP Masters Series Canada,"Montreal, Canada",2003.08.04 - 2003.08.10,Outdoor,Hard,3,Greg Rusedski,W,64 63
+306,2003,ATP Masters Series Canada,"Montreal, Canada",2003.08.04 - 2003.08.10,Outdoor,Hard,3,Gaston Gaudio,W,64 36 75
+307,2003,Gstaad,"Gstaad, Switzerland",2003.07.07 - 2003.07.13,Outdoor,Clay,3,Jiri Novak,L,75 36 36 61 36
+308,2003,Gstaad,"Gstaad, Switzerland",2003.07.07 - 2003.07.13,Outdoor,Clay,3,Gaston Gaudio,W,61 76(6) 
+309,2003,Gstaad,"Gstaad, Switzerland",2003.07.07 - 2003.07.13,Outdoor,Clay,3,David Sanchez,W,(W/O)
+310,2003,Gstaad,"Gstaad, Switzerland",2003.07.07 - 2003.07.13,Outdoor,Clay,3,Jean-Rene Lisnard,W,61 62
+311,2003,Gstaad,"Gstaad, Switzerland",2003.07.07 - 2003.07.13,Outdoor,Clay,3,Marc Lopez,W,63 67(4) 63
+312,2003,Wimbledon,"London, England",2003.06.23 - 2003.07.06,Outdoor,Grass,5,Mark Philippoussis,W,76(5) 62 76(3) 
+313,2003,Wimbledon,"London, England",2003.06.23 - 2003.07.06,Outdoor,Grass,5,Andy Roddick,W,76(6) 63 63
+314,2003,Wimbledon,"London, England",2003.06.23 - 2003.07.06,Outdoor,Grass,5,Sjeng Schalken,W,63 64 64
+315,2003,Wimbledon,"London, England",2003.06.23 - 2003.07.06,Outdoor,Grass,5,Feliciano Lopez,W,76(5) 64 64
+316,2003,Wimbledon,"London, England",2003.06.23 - 2003.07.06,Outdoor,Grass,5,Mardy Fish,W,63 61 46 61
+317,2003,Wimbledon,"London, England",2003.06.23 - 2003.07.06,Outdoor,Grass,5,Stefan Koubek,W,75 61 61
+318,2003,Wimbledon,"London, England",2003.06.23 - 2003.07.06,Outdoor,Grass,5,Hyung-Taik Lee,W,63 63 76(2) 
+319,2003,Halle,"Halle, Germany",2003.06.09 - 2003.06.15,Outdoor,Grass,5,Nicolas Kiefer,W,61 63
+320,2003,Halle,"Halle, Germany",2003.06.09 - 2003.06.15,Outdoor,Grass,5,Mikhail Youzhny,W,46 76(4) 62
+321,2003,Halle,"Halle, Germany",2003.06.09 - 2003.06.15,Outdoor,Grass,5,Younes El Aynaoui,W,75 76(3) 
+322,2003,Halle,"Halle, Germany",2003.06.09 - 2003.06.15,Outdoor,Grass,5,Fernando Vicente,W,46 62 61
+323,2003,Halle,"Halle, Germany",2003.06.09 - 2003.06.15,Outdoor,Grass,5,Sargis Sargsian,W,75 61
+324,2003,Roland Garros,"Paris, France",2003.05.26 - 2003.06.08,Outdoor,Clay,5,Luis Horna,L,67(6) 26 67(3) 
+325,2003,ATP Masters Series Hamburg,"Hamburg, Germany",2003.05.12 - 2003.05.18,Outdoor,Clay,5,Mark Philippoussis,L,36 62 36
+326,2003,ATP Masters Series Hamburg,"Hamburg, Germany",2003.05.12 - 2003.05.18,Outdoor,Clay,5,Sargis Sargsian,W,61 61
+327,2003,ATP Masters Series Hamburg,"Hamburg, Germany",2003.05.12 - 2003.05.18,Outdoor,Clay,5,Max Mirnyi,W,63 63
+328,2003,ATP Masters Series Rome,"Rome, Italy",2003.05.05 - 2003.05.11,Outdoor,Clay,5,Felix Mantilla,L,57 26 67(8) 
+329,2003,ATP Masters Series Rome,"Rome, Italy",2003.05.05 - 2003.05.11,Outdoor,Clay,5,Juan Carlos Ferrero,W,64 42 (RET)
+330,2003,ATP Masters Series Rome,"Rome, Italy",2003.05.05 - 2003.05.11,Outdoor,Clay,5,Filippo Volandri,W,63 57 62
+331,2003,ATP Masters Series Rome,"Rome, Italy",2003.05.05 - 2003.05.11,Outdoor,Clay,5,Tommy Robredo,W,61 61
+332,2003,ATP Masters Series Rome,"Rome, Italy",2003.05.05 - 2003.05.11,Outdoor,Clay,5,Mariano Zabaleta,W,76(4) 62
+333,2003,ATP Masters Series Rome,"Rome, Italy",2003.05.05 - 2003.05.11,Outdoor,Clay,5,Paul-Henri Mathieu,W,63 75
+334,2003,Munich,"Munich, Germany",2003.04.28 - 2003.05.04,Outdoor,Clay,5,Jarkko Nieminen,W,61 64
+335,2003,Munich,"Munich, Germany",2003.04.28 - 2003.05.04,Outdoor,Clay,5,Stefan Koubek,W,62 61
+336,2003,Munich,"Munich, Germany",2003.04.28 - 2003.05.04,Outdoor,Clay,5,Mikhail Youzhny,W,62 63
+337,2003,Munich,"Munich, Germany",2003.04.28 - 2003.05.04,Outdoor,Clay,5,Raemon Sluiter,W,64 63
+338,2003,Munich,"Munich, Germany",2003.04.28 - 2003.05.04,Outdoor,Clay,5,Zeljko Krajan,W,64 63
+339,2003,FRA v SUI WG Qtrs,Toulouse,2003.03.31 - 2003.04.06,Indoor,Hard,5,Fabrice Santoro,W,61 60 62
+340,2003,FRA v SUI WG Qtrs,Toulouse,2003.03.31 - 2003.04.06,Indoor,Hard,5,Nicolas Escude,W,64 75 62
+341,2003,ATP Masters Series Miami,"Miami, FL, U.S.A.",2003.03.17 - 2003.03.30,Outdoor,Hard,4,Albert Costa,L,67(4) 64 67(7) 
+342,2003,ATP Masters Series Miami,"Miami, FL, U.S.A.",2003.03.17 - 2003.03.30,Outdoor,Hard,4,Sjeng Schalken,W,63 62
+343,2003,ATP Masters Series Miami,"Miami, FL, U.S.A.",2003.03.17 - 2003.03.30,Outdoor,Hard,4,Juan Ignacio Chela,W,61 36 61
+344,2003,ATP Masters Series Miami,"Miami, FL, U.S.A.",2003.03.17 - 2003.03.30,Outdoor,Hard,4,Luis Horna,W,62 75
+345,2003,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2003.03.10 - 2003.03.16,Outdoor,Hard,4,Gustavo Kuerten,L,57 67(3) 
+346,2003,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2003.03.10 - 2003.03.16,Outdoor,Hard,4,Felix Mantilla,W,67(4) 64 41 (RET)
+347,2003,Dubai,"Dubai, U.A.E.",2003.02.24 - 2003.03.02,Outdoor,Hard,5,Jiri Novak,W,61 76(2) 
+348,2003,Dubai,"Dubai, U.A.E.",2003.02.24 - 2003.03.02,Outdoor,Hard,5,Ivan Ljubicic,W,63 62
+349,2003,Dubai,"Dubai, U.A.E.",2003.02.24 - 2003.03.02,Outdoor,Hard,5,Hicham Arazi,W,75 63
+350,2003,Dubai,"Dubai, U.A.E.",2003.02.24 - 2003.03.02,Outdoor,Hard,5,Maximilian Abel,W,64 75
+351,2003,Dubai,"Dubai, U.A.E.",2003.02.24 - 2003.03.02,Outdoor,Hard,5,Irakli Labadze,W,63 63
+352,2003,Rotterdam,"Rotterdam, Netherlands",2003.02.17 - 2003.02.23,Indoor,Hard,5,Max Mirnyi,L,75 36 46
+353,2003,Rotterdam,"Rotterdam, Netherlands",2003.02.17 - 2003.02.23,Indoor,Hard,5,Sjeng Schalken,W,62 64
+354,2003,Rotterdam,"Rotterdam, Netherlands",2003.02.17 - 2003.02.23,Indoor,Hard,5,Fabrice Santoro,W,60 64
+355,2003,Rotterdam,"Rotterdam, Netherlands",2003.02.17 - 2003.02.23,Indoor,Hard,5,Thomas Enqvist,W,36 63 64
+356,2003,Marseille,"Marseille, France",2003.02.10 - 2003.02.16,Indoor,Hard,6,Jonas Bjorkman,W,62 76(6) 
+357,2003,Marseille,"Marseille, France",2003.02.10 - 2003.02.16,Indoor,Hard,6,Karol Kucera,W,76(5) 63
+358,2003,Marseille,"Marseille, France",2003.02.10 - 2003.02.16,Indoor,Hard,6,Raemon Sluiter,W,64 46 64
+359,2003,Marseille,"Marseille, France",2003.02.10 - 2003.02.16,Indoor,Hard,6,Jarkko Nieminen,W,63 63
+360,2003,Marseille,"Marseille, France",2003.02.10 - 2003.02.16,Indoor,Hard,6,Ivan Ljubicic,W,76(3) (RET)
+361,2003,NED v. SUI WG 1st RD,The Netherlands,2003.02.03 - 2003.02.09,Indoor,Carpet,6,Sjeng Schalken,W,76(2) 64 75
+362,2003,NED v. SUI WG 1st RD,The Netherlands,2003.02.03 - 2003.02.09,Indoor,Carpet,6,Raemon Sluiter,W,62 61 63
+363,2003,Australian Open,"Melbourne, Australia",2003.01.13 - 2003.01.26,Outdoor,Hard,6,David Nalbandian,L,46 63 16 61 36
+364,2003,Australian Open,"Melbourne, Australia",2003.01.13 - 2003.01.26,Outdoor,Hard,6,Andreas Vinciguerra,W,63 64 62
+365,2003,Australian Open,"Melbourne, Australia",2003.01.13 - 2003.01.26,Outdoor,Hard,6,Lars Burgsmuller,W,63 60 63
+366,2003,Australian Open,"Melbourne, Australia",2003.01.13 - 2003.01.26,Outdoor,Hard,6,Flavio Saretta,W,76(4) 75 63
+367,2003,Sydney,"Sydney, Australia",2003.01.06 - 2003.01.12,Outdoor,Hard,6,Franco Squillari,L,26 36
+368,2003,Doha,"Doha, Qatar",2002.12.30 - 2003.01.05,Outdoor,Hard,6,Jan-Michael Gambill,L,46 57
+369,2003,Doha,"Doha, Qatar",2002.12.30 - 2003.01.05,Outdoor,Hard,6,Michel Kratochvil,W,64 64
+370,2003,Doha,"Doha, Qatar",2002.12.30 - 2003.01.05,Outdoor,Hard,6,Andrei Stoliarov,W,62 67(4) 64
+371,2004,Tennis Masters Cup,"Houston, TX, USA",2004.11.15 - 2004.11.21,Outdoor,Hard,1,Lleyton Hewitt,W,63 62
+372,2004,Tennis Masters Cup,"Houston, TX, USA",2004.11.15 - 2004.11.21,Outdoor,Hard,1,Marat Safin,W,63 76(18) 
+373,2004,Tennis Masters Cup,"Houston, TX, USA",2004.11.15 - 2004.11.21,Outdoor,Hard,1,Carlos Moya,W,63 36 63
+374,2004,Tennis Masters Cup,"Houston, TX, USA",2004.11.15 - 2004.11.21,Outdoor,Hard,1,Lleyton Hewitt,W,63 64
+375,2004,Tennis Masters Cup,"Houston, TX, USA",2004.11.15 - 2004.11.21,Outdoor,Hard,1,Gaston Gaudio,W,61 76(4) 
+376,2004,Bangkok,"Bangkok, Thailand",2004.09.27 - 2004.10.03,Indoor,Hard,1,Andy Roddick,W,64 60
+377,2004,Bangkok,"Bangkok, Thailand",2004.09.27 - 2004.10.03,Indoor,Hard,1,Paradorn Srichaphan,W,75 26 63
+378,2004,Bangkok,"Bangkok, Thailand",2004.09.27 - 2004.10.03,Indoor,Hard,1,Robin Soderling,W,76(3) 64
+379,2004,Bangkok,"Bangkok, Thailand",2004.09.27 - 2004.10.03,Indoor,Hard,1,Ivo Heuberger,W,61 63
+380,2004,Bangkok,"Bangkok, Thailand",2004.09.27 - 2004.10.03,Indoor,Hard,1,Nicolas Thomann,W,64 76(4) 
+381,2004,US Open,"New York, NY, U.S.A.",2004.08.30 - 2004.09.12,Outdoor,Hard,1,Lleyton Hewitt,W,60 76(3) 60
+382,2004,US Open,"New York, NY, U.S.A.",2004.08.30 - 2004.09.12,Outdoor,Hard,1,Tim Henman,W,63 64 64
+383,2004,US Open,"New York, NY, U.S.A.",2004.08.30 - 2004.09.12,Outdoor,Hard,1,Andre Agassi,W,63 26 75 36 63
+384,2004,US Open,"New York, NY, U.S.A.",2004.08.30 - 2004.09.12,Outdoor,Hard,1,Andrei Pavel,W,(W/O)
+385,2004,US Open,"New York, NY, U.S.A.",2004.08.30 - 2004.09.12,Outdoor,Hard,1,Fabrice Santoro,W,60 64 76(7) 
+386,2004,US Open,"New York, NY, U.S.A.",2004.08.30 - 2004.09.12,Outdoor,Hard,1,Marcos Baghdatis,W,62 67(4) 63 61
+387,2004,US Open,"New York, NY, U.S.A.",2004.08.30 - 2004.09.12,Outdoor,Hard,1,Albert Costa,W,75 62 64
+388,2004,Athens Olympics,"Athens, Greece",2004.08.16 - 2004.08.22,Outdoor,Hard,1,Tomas Berdych,L,64 57 57
+389,2004,Athens Olympics,"Athens, Greece",2004.08.16 - 2004.08.22,Outdoor,Hard,1,Nikolay Davydenko,W,63 57 61
+390,2004,ATP Masters Series Cincinnati,"Cincinnati, OH, U.S.A.",2004.08.02 - 2004.08.08,Outdoor,Hard,1,Dominik Hrbaty,L,61 67(7) 46
+391,2004,ATP Masters Series Canada,"Toronto, Canada",2004.07.26 - 2004.08.01,Outdoor,Hard,1,Andy Roddick,W,75 63
+392,2004,ATP Masters Series Canada,"Toronto, Canada",2004.07.26 - 2004.08.01,Outdoor,Hard,1,Thomas Johansson,W,46 63 62
+393,2004,ATP Masters Series Canada,"Toronto, Canada",2004.07.26 - 2004.08.01,Outdoor,Hard,1,Fabrice Santoro,W,75 64
+394,2004,ATP Masters Series Canada,"Toronto, Canada",2004.07.26 - 2004.08.01,Outdoor,Hard,1,Max Mirnyi,W,76(3) 76(4) 
+395,2004,ATP Masters Series Canada,"Toronto, Canada",2004.07.26 - 2004.08.01,Outdoor,Hard,1,Robin Soderling,W,75 61
+396,2004,ATP Masters Series Canada,"Toronto, Canada",2004.07.26 - 2004.08.01,Outdoor,Hard,1,Hicham Arazi,W,63 75
+397,2004,Gstaad,"Gstaad, Switzerland",2004.07.05 - 2004.07.11,Outdoor,Clay,1,Igor Andreev,W,62 63 57 63
+398,2004,Gstaad,"Gstaad, Switzerland",2004.07.05 - 2004.07.11,Outdoor,Clay,1,Potito Starace,W,63 36 63
+399,2004,Gstaad,"Gstaad, Switzerland",2004.07.05 - 2004.07.11,Outdoor,Clay,1,Radek Stepanek,W,61 57 64
+400,2004,Gstaad,"Gstaad, Switzerland",2004.07.05 - 2004.07.11,Outdoor,Clay,1,Ivo Karlovic,W,67(5) 63 76(4) 
+401,2004,Gstaad,"Gstaad, Switzerland",2004.07.05 - 2004.07.11,Outdoor,Clay,1,Tomas Behrend,W,61 61
+402,2004,Wimbledon,"London, England",2004.06.21 - 2004.07.04,Outdoor,Grass,1,Andy Roddick,W,46 75 76(3) 64
+403,2004,Wimbledon,"London, England",2004.06.21 - 2004.07.04,Outdoor,Grass,1,Sebastien Grosjean,W,62 63 76(6) 
+404,2004,Wimbledon,"London, England",2004.06.21 - 2004.07.04,Outdoor,Grass,1,Lleyton Hewitt,W,61 67(1) 60 64
+405,2004,Wimbledon,"London, England",2004.06.21 - 2004.07.04,Outdoor,Grass,1,Ivo Karlovic,W,63 76(3) 76(5) 
+406,2004,Wimbledon,"London, England",2004.06.21 - 2004.07.04,Outdoor,Grass,1,Thomas Johansson,W,63 64 63
+407,2004,Wimbledon,"London, England",2004.06.21 - 2004.07.04,Outdoor,Grass,1,Alejandro Falla,W,61 62 60
+408,2004,Wimbledon,"London, England",2004.06.21 - 2004.07.04,Outdoor,Grass,1,Alex Bogdanovic,W,63 63 60
+409,2004,Halle,"Halle, Germany",2004.06.07 - 2004.06.13,Outdoor,Grass,1,Mardy Fish,W,60 63
+410,2004,Halle,"Halle, Germany",2004.06.07 - 2004.06.13,Outdoor,Grass,1,Jiri Novak,W,63 64
+411,2004,Halle,"Halle, Germany",2004.06.07 - 2004.06.13,Outdoor,Grass,1,Arnaud Clement,W,63 75
+412,2004,Halle,"Halle, Germany",2004.06.07 - 2004.06.13,Outdoor,Grass,1,Mikhail Youzhny,W,62 61
+413,2004,Halle,"Halle, Germany",2004.06.07 - 2004.06.13,Outdoor,Grass,1,Thomas Johansson,W,63 62
+414,2004,Roland Garros,"Paris, France",2004.05.24 - 2004.06.06,Outdoor,Clay,1,Gustavo Kuerten,L,46 46 46
+415,2004,Roland Garros,"Paris, France",2004.05.24 - 2004.06.06,Outdoor,Clay,1,Nicolas Kiefer,W,63 64 76(6) 
+416,2004,Roland Garros,"Paris, France",2004.05.24 - 2004.06.06,Outdoor,Clay,1,Kristof Vliegen,W,61 62 61
+417,2004,ATP Masters Series Hamburg,"Hamburg, Germany",2004.05.10 - 2004.05.16,Outdoor,Clay,1,Guillermo Coria,W,46 64 62 63
+418,2004,ATP Masters Series Hamburg,"Hamburg, Germany",2004.05.10 - 2004.05.16,Outdoor,Clay,1,Lleyton Hewitt,W,60 64
+419,2004,ATP Masters Series Hamburg,"Hamburg, Germany",2004.05.10 - 2004.05.16,Outdoor,Clay,1,Carlos Moya,W,64 63
+420,2004,ATP Masters Series Hamburg,"Hamburg, Germany",2004.05.10 - 2004.05.16,Outdoor,Clay,1,Fernando Gonzalez,W,75 61
+421,2004,ATP Masters Series Hamburg,"Hamburg, Germany",2004.05.10 - 2004.05.16,Outdoor,Clay,1,Nicolas Lapentti,W,63 63
+422,2004,ATP Masters Series Hamburg,"Hamburg, Germany",2004.05.10 - 2004.05.16,Outdoor,Clay,1,Gaston Gaudio,W,61 57 64
+423,2004,ATP Masters Series Rome,"Rome, Italy",2004.05.03 - 2004.05.09,Outdoor,Clay,1,Albert Costa,L,63 36 26
+424,2004,ATP Masters Series Rome,"Rome, Italy",2004.05.03 - 2004.05.09,Outdoor,Clay,1,Jonas Bjorkman,W,76(4) 63
+425,2004,SUI v. FRA WG Qtrs,"Prilly, Switzerland",2004.04.05 - 2004.04.11,Indoor,Hard,1,Arnaud Clement,W,62 75 64
+426,2004,SUI v. FRA WG Qtrs,"Prilly, Switzerland",2004.04.05 - 2004.04.11,Indoor,Hard,1,Nicolas Escude,W,62 64 64
+427,2004,ATP Masters Series Miami,"Miami, FL, U.S.A.",2004.03.22 - 2004.04.04,Outdoor,Hard,1,Rafael Nadal,L,36 36
+428,2004,ATP Masters Series Miami,"Miami, FL, U.S.A.",2004.03.22 - 2004.04.04,Outdoor,Hard,1,Nikolay Davydenko,W,62 36 75
+429,2004,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2004.03.08 - 2004.03.21,Outdoor,Hard,1,Tim Henman,W,63 63
+430,2004,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2004.03.08 - 2004.03.21,Outdoor,Hard,1,Andre Agassi,W,46 63 64
+431,2004,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2004.03.08 - 2004.03.21,Outdoor,Hard,1,Juan Ignacio Chela,W,62 61
+432,2004,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2004.03.08 - 2004.03.21,Outdoor,Hard,1,Mardy Fish,W,64 61
+433,2004,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2004.03.08 - 2004.03.21,Outdoor,Hard,1,Fernando Gonzalez,W,63 62
+434,2004,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2004.03.08 - 2004.03.21,Outdoor,Hard,1,Andrei Pavel,W,61 61
+435,2004,Dubai,"Dubai, U.A.E.",2004.03.01 - 2004.03.07,Outdoor,Hard,1,Feliciano Lopez,W,46 61 62
+436,2004,Dubai,"Dubai, U.A.E.",2004.03.01 - 2004.03.07,Outdoor,Hard,1,Jarkko Nieminen,W,76(7) 62
+437,2004,Dubai,"Dubai, U.A.E.",2004.03.01 - 2004.03.07,Outdoor,Hard,1,Andrei Pavel,W,63 63
+438,2004,Dubai,"Dubai, U.A.E.",2004.03.01 - 2004.03.07,Outdoor,Hard,1,Tommy Robredo,W,63 64
+439,2004,Dubai,"Dubai, U.A.E.",2004.03.01 - 2004.03.07,Outdoor,Hard,1,Marat Safin,W,76(2) 76(4) 
+440,2004,Rotterdam,"Rotterdam, Netherlands",2004.02.16 - 2004.02.22,Indoor,Hard,1,Tim Henman,L,36 67(9) 
+441,2004,Rotterdam,"Rotterdam, Netherlands",2004.02.16 - 2004.02.22,Indoor,Hard,1,Andrei Pavel,W,76(2) 75
+442,2004,Rotterdam,"Rotterdam, Netherlands",2004.02.16 - 2004.02.22,Indoor,Hard,1,Arnaud Clement,W,64 63
+443,2004,ROM v. SUI WG 1st RD,Romania,2004.02.02 - 2004.02.08,Indoor,Clay,1,Andrei Pavel,W,63 62 75
+444,2004,ROM v. SUI WG 1st RD,Romania,2004.02.02 - 2004.02.08,Indoor,Clay,1,Victor Hanescu,W,76(4) 63 61
+445,2004,Australian Open,"Melbourne, Australia",2004.01.19 - 2004.02.01,Outdoor,Hard,2,Marat Safin,W,76(3) 64 62
+446,2004,Australian Open,"Melbourne, Australia",2004.01.19 - 2004.02.01,Outdoor,Hard,2,Juan Carlos Ferrero,W,64 61 64
+447,2004,Australian Open,"Melbourne, Australia",2004.01.19 - 2004.02.01,Outdoor,Hard,2,David Nalbandian,W,75 64 57 63
+448,2004,Australian Open,"Melbourne, Australia",2004.01.19 - 2004.02.01,Outdoor,Hard,2,Lleyton Hewitt,W,46 63 60 64
+449,2004,Australian Open,"Melbourne, Australia",2004.01.19 - 2004.02.01,Outdoor,Hard,2,Todd Reid,W,63 60 61
+450,2004,Australian Open,"Melbourne, Australia",2004.01.19 - 2004.02.01,Outdoor,Hard,2,Jeff Morrison,W,62 63 64
+451,2004,Australian Open,"Melbourne, Australia",2004.01.19 - 2004.02.01,Outdoor,Hard,2,Alex Bogomolov Jr.,W,63 64 60
+452,2005,Tennis Masters Cup,"Shanghai, China",2005.11.14 - 2005.11.20,Indoor,Carpet,1,David Nalbandian,L,76(4) 76(11) 26 16 67(3) 
+453,2005,Tennis Masters Cup,"Shanghai, China",2005.11.14 - 2005.11.20,Indoor,Carpet,1,Gaston Gaudio,W,60 60
+454,2005,Tennis Masters Cup,"Shanghai, China",2005.11.14 - 2005.11.20,Indoor,Carpet,1,Guillermo Coria,W,60 16 62
+455,2005,Tennis Masters Cup,"Shanghai, China",2005.11.14 - 2005.11.20,Indoor,Carpet,1,Ivan Ljubicic,W,63 26 76(4) 
+456,2005,Tennis Masters Cup,"Shanghai, China",2005.11.14 - 2005.11.20,Indoor,Carpet,1,David Nalbandian,W,63 26 64
+457,2005,Bangkok,"Bangkok, Thailand",2005.09.26 - 2005.10.02,Indoor,Hard,1,Andy Murray,W,63 75
+458,2005,Bangkok,"Bangkok, Thailand",2005.09.26 - 2005.10.02,Indoor,Hard,1,Jarkko Nieminen,W,63 64
+459,2005,Bangkok,"Bangkok, Thailand",2005.09.26 - 2005.10.02,Indoor,Hard,1,Gilles Muller,W,64 63
+460,2005,Bangkok,"Bangkok, Thailand",2005.09.26 - 2005.10.02,Indoor,Hard,1,Denis Gremelmayr,W,63 62
+461,2005,Bangkok,"Bangkok, Thailand",2005.09.26 - 2005.10.02,Indoor,Hard,1,Marcos Daniel,W,76(4) 64
+462,2005,SUI vs. GBR WG PO,"Geneva, Switzerland",2005.09.19 - 2005.09.25,Indoor,Clay,1,Alan Mackin,W,60 60 62
+463,2005,US Open,"New York, NY, U.S.A.",2005.08.29 - 2005.09.11,Outdoor,Hard,1,Andre Agassi,W,63 26 76(1) 61
+464,2005,US Open,"New York, NY, U.S.A.",2005.08.29 - 2005.09.11,Outdoor,Hard,1,Lleyton Hewitt,W,63 76 46 63
+465,2005,US Open,"New York, NY, U.S.A.",2005.08.29 - 2005.09.11,Outdoor,Hard,1,David Nalbandian,W,62 64 61
+466,2005,US Open,"New York, NY, U.S.A.",2005.08.29 - 2005.09.11,Outdoor,Hard,1,Nicolas Kiefer,W,64 67(3) 63 64
+467,2005,US Open,"New York, NY, U.S.A.",2005.08.29 - 2005.09.11,Outdoor,Hard,1,Olivier Rochus,W,63 76(6) 62
+468,2005,US Open,"New York, NY, U.S.A.",2005.08.29 - 2005.09.11,Outdoor,Hard,1,Fabrice Santoro,W,75 75 76(2) 
+469,2005,US Open,"New York, NY, U.S.A.",2005.08.29 - 2005.09.11,Outdoor,Hard,1,Ivo Minar,W,61 61 61
+470,2005,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2005.08.15 - 2005.08.21,Outdoor,Hard,1,Andy Roddick,W,63 75
+471,2005,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2005.08.15 - 2005.08.21,Outdoor,Hard,1,Robby Ginepri,W,46 75 64
+472,2005,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2005.08.15 - 2005.08.21,Outdoor,Hard,1,Jose Acasuso,W,64 63
+473,2005,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2005.08.15 - 2005.08.21,Outdoor,Hard,1,Olivier Rochus,W,63 64
+474,2005,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2005.08.15 - 2005.08.21,Outdoor,Hard,1,Nicolas Kiefer,W,46 64 64
+475,2005,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2005.08.15 - 2005.08.21,Outdoor,Hard,1,James Blake,W,76(3) 75
+476,2005,Wimbledon,"London, England",2005.06.20 - 2005.07.03,Outdoor,Grass,1,Andy Roddick,W,62 76(2) 64
+477,2005,Wimbledon,"London, England",2005.06.20 - 2005.07.03,Outdoor,Grass,1,Lleyton Hewitt,W,63 64 76(4) 
+478,2005,Wimbledon,"London, England",2005.06.20 - 2005.07.03,Outdoor,Grass,1,Fernando Gonzalez,W,75 62 76(2) 
+479,2005,Wimbledon,"London, England",2005.06.20 - 2005.07.03,Outdoor,Grass,1,Juan Carlos Ferrero,W,63 64 76(6) 
+480,2005,Wimbledon,"London, England",2005.06.20 - 2005.07.03,Outdoor,Grass,1,Nicolas Kiefer,W,62 67(5) 61 75
+481,2005,Wimbledon,"London, England",2005.06.20 - 2005.07.03,Outdoor,Grass,1,Ivo Minar,W,64 64 61
+482,2005,Wimbledon,"London, England",2005.06.20 - 2005.07.03,Outdoor,Grass,1,Paul-Henri Mathieu,W,64 62 64
+483,2005,Halle,"Halle, Germany",2005.06.06 - 2005.06.12,Outdoor,Grass,1,Marat Safin,W,64 67(6) 64
+484,2005,Halle,"Halle, Germany",2005.06.06 - 2005.06.12,Outdoor,Grass,1,Tommy Haas,W,64 76(9) 
+485,2005,Halle,"Halle, Germany",2005.06.06 - 2005.06.12,Outdoor,Grass,1,Philipp Kohlschreiber,W,63 64
+486,2005,Halle,"Halle, Germany",2005.06.06 - 2005.06.12,Outdoor,Grass,1,Florian Mayer,W,62 64
+487,2005,Halle,"Halle, Germany",2005.06.06 - 2005.06.12,Outdoor,Grass,1,Robin Soderling,W,67(5) 76(6) 64
+488,2005,Roland Garros,"Paris, France",2005.05.23 - 2005.06.05,Outdoor,Clay,1,Rafael Nadal,L,36 64 46 36
+489,2005,Roland Garros,"Paris, France",2005.05.23 - 2005.06.05,Outdoor,Clay,1,Victor Hanescu,W,62 76(3) 63
+490,2005,Roland Garros,"Paris, France",2005.05.23 - 2005.06.05,Outdoor,Clay,1,Carlos Moya,W,61 64 63
+491,2005,Roland Garros,"Paris, France",2005.05.23 - 2005.06.05,Outdoor,Clay,1,Fernando Gonzalez,W,76(9) 75 62
+492,2005,Roland Garros,"Paris, France",2005.05.23 - 2005.06.05,Outdoor,Clay,1,Nicolas Almagro,W,63 76 62
+493,2005,Roland Garros,"Paris, France",2005.05.23 - 2005.06.05,Outdoor,Clay,1,Dudi Sela,W,61 64 60
+494,2005,ATP World Tour Masters 1000 Hamburg,"Hamburg, Germany",2005.05.09 - 2005.05.15,Outdoor,Clay,1,Richard Gasquet,W,63 75 76(4) 
+495,2005,ATP World Tour Masters 1000 Hamburg,"Hamburg, Germany",2005.05.09 - 2005.05.15,Outdoor,Clay,1,Nikolay Davydenko,W,63 64
+496,2005,ATP World Tour Masters 1000 Hamburg,"Hamburg, Germany",2005.05.09 - 2005.05.15,Outdoor,Clay,1,Guillermo Coria,W,64 76(3) 
+497,2005,ATP World Tour Masters 1000 Hamburg,"Hamburg, Germany",2005.05.09 - 2005.05.15,Outdoor,Clay,1,Tommy Robredo,W,62 63
+498,2005,ATP World Tour Masters 1000 Hamburg,"Hamburg, Germany",2005.05.09 - 2005.05.15,Outdoor,Clay,1,Tomas Berdych,W,62 61
+499,2005,ATP World Tour Masters 1000 Hamburg,"Hamburg, Germany",2005.05.09 - 2005.05.15,Outdoor,Clay,1,Fernando Verdasco,W,64 63
+500,2005,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2005.04.11 - 2005.04.17,Outdoor,Clay,1,Richard Gasquet,L,76(1) 26 67(8) 
+501,2005,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2005.04.11 - 2005.04.17,Outdoor,Clay,1,Fernando Gonzalez,W,62 67(3) 64
+502,2005,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2005.04.11 - 2005.04.17,Outdoor,Clay,1,Albert Montanes,W,63 64
+503,2005,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2005.04.11 - 2005.04.17,Outdoor,Clay,1,Greg Rusedski,W,63 61
+504,2005,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2005.03.21 - 2005.04.03,Outdoor,Hard,1,Rafael Nadal,W,26 67(4) 76(5) 63 61
+505,2005,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2005.03.21 - 2005.04.03,Outdoor,Hard,1,Andre Agassi,W,64 63
+506,2005,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2005.03.21 - 2005.04.03,Outdoor,Hard,1,Tim Henman,W,64 62
+507,2005,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2005.03.21 - 2005.04.03,Outdoor,Hard,1,Mario Ancic,W,63 46 64
+508,2005,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2005.03.21 - 2005.04.03,Outdoor,Hard,1,Mariano Zabaleta,W,62 57 63
+509,2005,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2005.03.21 - 2005.04.03,Outdoor,Hard,1,Olivier Rochus,W,63 61
+510,2005,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2005.03.07 - 2005.03.20,Outdoor,Hard,1,Lleyton Hewitt,W,62 64 64
+511,2005,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2005.03.07 - 2005.03.20,Outdoor,Hard,1,Guillermo Canas,W,63 61
+512,2005,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2005.03.07 - 2005.03.20,Outdoor,Hard,1,Nicolas Kiefer,W,64 61
+513,2005,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2005.03.07 - 2005.03.20,Outdoor,Hard,1,Ivan Ljubicic,W,76(3) 76(4) 
+514,2005,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2005.03.07 - 2005.03.20,Outdoor,Hard,1,Gilles Muller,W,63 62
+515,2005,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2005.03.07 - 2005.03.20,Outdoor,Hard,1,Mardy Fish,W,63 63
+516,2005,Dubai,"Dubai, U.A.E.",2005.02.21 - 2005.02.27,Outdoor,Hard,1,Ivan Ljubicic,W,61 67(6) 63
+517,2005,Dubai,"Dubai, U.A.E.",2005.02.21 - 2005.02.27,Outdoor,Hard,1,Andre Agassi,W,63 61
+518,2005,Dubai,"Dubai, U.A.E.",2005.02.21 - 2005.02.27,Outdoor,Hard,1,Mikhail Youzhny,W,63 75
+519,2005,Dubai,"Dubai, U.A.E.",2005.02.21 - 2005.02.27,Outdoor,Hard,1,Juan Carlos Ferrero,W,46 63 76(6) 
+520,2005,Dubai,"Dubai, U.A.E.",2005.02.21 - 2005.02.27,Outdoor,Hard,1,Ivo Minar,W,67(5) 63 76(5) 
+521,2005,Rotterdam,"Rotterdam, Netherlands",2005.02.14 - 2005.02.20,Indoor,Hard,1,Ivan Ljubicic,W,57 75 76(5) 
+522,2005,Rotterdam,"Rotterdam, Netherlands",2005.02.14 - 2005.02.20,Indoor,Hard,1,Mario Ancic,W,75 63
+523,2005,Rotterdam,"Rotterdam, Netherlands",2005.02.14 - 2005.02.20,Indoor,Hard,1,Nikolay Davydenko,W,75 75
+524,2005,Rotterdam,"Rotterdam, Netherlands",2005.02.14 - 2005.02.20,Indoor,Hard,1,Stan Wawrinka,W,61 64
+525,2005,Rotterdam,"Rotterdam, Netherlands",2005.02.14 - 2005.02.20,Indoor,Hard,1,Bohdan Ulihrach,W,63 64
+526,2005,Australian Open,"Melbourne, Australia",2005.01.17 - 2005.01.30,Outdoor,Hard,1,Marat Safin,L,75 46 75 67(6) 79
+527,2005,Australian Open,"Melbourne, Australia",2005.01.17 - 2005.01.30,Outdoor,Hard,1,Andre Agassi,W,63 64 64
+528,2005,Australian Open,"Melbourne, Australia",2005.01.17 - 2005.01.30,Outdoor,Hard,1,Marcos Baghdatis,W,62 62 76(4) 
+529,2005,Australian Open,"Melbourne, Australia",2005.01.17 - 2005.01.30,Outdoor,Hard,1,Jarkko Nieminen,W,63 52 (RET)
+530,2005,Australian Open,"Melbourne, Australia",2005.01.17 - 2005.01.30,Outdoor,Hard,1,Takao Suzuki,W,63 64 64
+531,2005,Australian Open,"Melbourne, Australia",2005.01.17 - 2005.01.30,Outdoor,Hard,1,Fabrice Santoro,W,61 61 62
+532,2005,Doha,"Doha, Qatar",2005.01.03 - 2005.01.09,Outdoor,Hard,1,Ivan Ljubicic,W,63 61
+533,2005,Doha,"Doha, Qatar",2005.01.03 - 2005.01.09,Outdoor,Hard,1,Nikolay Davydenko,W,63 64
+534,2005,Doha,"Doha, Qatar",2005.01.03 - 2005.01.09,Outdoor,Hard,1,Feliciano Lopez,W,61 62
+535,2005,Doha,"Doha, Qatar",2005.01.03 - 2005.01.09,Outdoor,Hard,1,Greg Rusedski,W,63 64
+536,2005,Doha,"Doha, Qatar",2005.01.03 - 2005.01.09,Outdoor,Hard,1,David Ferrer,W,61 61
+537,2006,Tennis Masters Cup,China,2006.11.13 - 2006.11.19,Indoor,Hard,1,James Blake,W,60 63 64
+538,2006,Tennis Masters Cup,China,2006.11.13 - 2006.11.19,Indoor,Hard,1,Rafael Nadal,W,64 75
+539,2006,Tennis Masters Cup,China,2006.11.13 - 2006.11.19,Indoor,Hard,1,Ivan Ljubicic,W,76(2) 64
+540,2006,Tennis Masters Cup,China,2006.11.13 - 2006.11.19,Indoor,Hard,1,Andy Roddick,W,46 76(8) 64
+541,2006,Tennis Masters Cup,China,2006.11.13 - 2006.11.19,Indoor,Hard,1,David Nalbandian,W,36 61 61
+542,2006,Basel,"Basel, Switzerland",2006.10.23 - 2006.10.29,Indoor,Carpet,1,Fernando Gonzalez,W,63 62 76(3) 
+543,2006,Basel,"Basel, Switzerland",2006.10.23 - 2006.10.29,Indoor,Carpet,1,Paradorn Srichaphan,W,64 36 76(5) 
+544,2006,Basel,"Basel, Switzerland",2006.10.23 - 2006.10.29,Indoor,Carpet,1,David Ferrer,W,63 76(14) 
+545,2006,Basel,"Basel, Switzerland",2006.10.23 - 2006.10.29,Indoor,Carpet,1,Guillermo Garcia-Lopez,W,62 60
+546,2006,Basel,"Basel, Switzerland",2006.10.23 - 2006.10.29,Indoor,Carpet,1,Tomas Zib,W,61 62
+547,2006,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2006.10.16 - 2006.10.22,Indoor,Hard,1,Fernando Gonzalez,W,75 61 60
+548,2006,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2006.10.16 - 2006.10.22,Indoor,Hard,1,David Nalbandian,W,64 60
+549,2006,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2006.10.16 - 2006.10.22,Indoor,Hard,1,Robby Ginepri,W,63 76(4) 
+550,2006,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2006.10.16 - 2006.10.22,Indoor,Hard,1,Robin Soderling,W,76(5) 76(8) 
+551,2006,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2006.10.16 - 2006.10.22,Indoor,Hard,1,Nicolas Massu,W,63 62
+552,2006,Tokyo,"Tokyo, Japan",2006.10.02 - 2006.10.08,Outdoor,Hard,1,Tim Henman,W,63 63
+553,2006,Tokyo,"Tokyo, Japan",2006.10.02 - 2006.10.08,Outdoor,Hard,1,Benjamin Becker,W,63 64
+554,2006,Tokyo,"Tokyo, Japan",2006.10.02 - 2006.10.08,Outdoor,Hard,1,Takao Suzuki,W,46 75 76(3) 
+555,2006,Tokyo,"Tokyo, Japan",2006.10.02 - 2006.10.08,Outdoor,Hard,1,Wesley Moodie,W,62 61
+556,2006,Tokyo,"Tokyo, Japan",2006.10.02 - 2006.10.08,Outdoor,Hard,1,Viktor Troicki,W,76(2) 76(3) 
+557,2006,SUI v. SCG WG PO,Switzerland,2006.09.18 - 2006.09.24,Indoor,Hard,1,Novak Djokovic,W,63 62 63
+558,2006,SUI v. SCG WG PO,Switzerland,2006.09.18 - 2006.09.24,Indoor,Hard,1,Janko Tipsarevic,W,63 62 62
+559,2006,US Open,"New York, NY, U.S.A.",2006.08.28 - 2006.09.10,Outdoor,Hard,1,Andy Roddick,W,62 46 75 61
+560,2006,US Open,"New York, NY, U.S.A.",2006.08.28 - 2006.09.10,Outdoor,Hard,1,Nikolay Davydenko,W,61 75 64
+561,2006,US Open,"New York, NY, U.S.A.",2006.08.28 - 2006.09.10,Outdoor,Hard,1,James Blake,W,76(7) 60 67(9) 64
+562,2006,US Open,"New York, NY, U.S.A.",2006.08.28 - 2006.09.10,Outdoor,Hard,1,Marc Gicquel,W,63 76(2) 63
+563,2006,US Open,"New York, NY, U.S.A.",2006.08.28 - 2006.09.10,Outdoor,Hard,1,Vincent Spadea,W,63 63 60
+564,2006,US Open,"New York, NY, U.S.A.",2006.08.28 - 2006.09.10,Outdoor,Hard,1,Tim Henman,W,63 64 75
+565,2006,US Open,"New York, NY, U.S.A.",2006.08.28 - 2006.09.10,Outdoor,Hard,1,Jimmy Wang,W,64 61 60
+566,2006,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2006.08.14 - 2006.08.20,Outdoor,Hard,1,Andy Murray,L,57 46
+567,2006,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2006.08.14 - 2006.08.20,Outdoor,Hard,1,Paradorn Srichaphan,W,75 64
+568,2006,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2006.08.07 - 2006.08.13,Outdoor,Hard,1,Richard Gasquet,W,26 63 62
+569,2006,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2006.08.07 - 2006.08.13,Outdoor,Hard,1,Fernando Gonzalez,W,61 57 63
+570,2006,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2006.08.07 - 2006.08.13,Outdoor,Hard,1,Xavier Malisse,W,76(4) 67(5) 63
+571,2006,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2006.08.07 - 2006.08.13,Outdoor,Hard,1,Dmitry Tursunov,W,63 57 60
+572,2006,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2006.08.07 - 2006.08.13,Outdoor,Hard,1,Sebastien Grosjean,W,63 63
+573,2006,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2006.08.07 - 2006.08.13,Outdoor,Hard,1,Paul-Henri Mathieu,W,63 64
+574,2006,Wimbledon,"London, England",2006.06.26 - 2006.07.09,Outdoor,Grass,1,Rafael Nadal,W,60 76(5) 67(2) 63
+575,2006,Wimbledon,"London, England",2006.06.26 - 2006.07.09,Outdoor,Grass,1,Jonas Bjorkman,W,62 60 62
+576,2006,Wimbledon,"London, England",2006.06.26 - 2006.07.09,Outdoor,Grass,1,Mario Ancic,W,64 64 64
+577,2006,Wimbledon,"London, England",2006.06.26 - 2006.07.09,Outdoor,Grass,1,Tomas Berdych,W,63 63 64
+578,2006,Wimbledon,"London, England",2006.06.26 - 2006.07.09,Outdoor,Grass,1,Nicolas Mahut,W,63 76(2) 64
+579,2006,Wimbledon,"London, England",2006.06.26 - 2006.07.09,Outdoor,Grass,1,Tim Henman,W,64 60 62
+580,2006,Wimbledon,"London, England",2006.06.26 - 2006.07.09,Outdoor,Grass,1,Richard Gasquet,W,63 62 62
+581,2006,Halle,"Halle, Germany",2006.06.12 - 2006.06.18,Outdoor,Grass,1,Tomas Berdych,W,60 67(4) 62
+582,2006,Halle,"Halle, Germany",2006.06.12 - 2006.06.18,Outdoor,Grass,1,Tommy Haas,W,64 67(4) 63
+583,2006,Halle,"Halle, Germany",2006.06.12 - 2006.06.18,Outdoor,Grass,1,Olivier Rochus,W,67(2) 76(9) 76(5) 
+584,2006,Halle,"Halle, Germany",2006.06.12 - 2006.06.18,Outdoor,Grass,1,Richard Gasquet,W,76(7) 67(7) 64
+585,2006,Halle,"Halle, Germany",2006.06.12 - 2006.06.18,Outdoor,Grass,1,Rohan Bopanna,W,76(4) 62
+586,2006,Roland Garros,"Paris, France",2006.05.29 - 2006.06.11,Outdoor,Clay,1,Rafael Nadal,L,61 16 46 67(4) 
+587,2006,Roland Garros,"Paris, France",2006.05.29 - 2006.06.11,Outdoor,Clay,1,David Nalbandian,W,36 64 52 (RET)
+588,2006,Roland Garros,"Paris, France",2006.05.29 - 2006.06.11,Outdoor,Clay,1,Mario Ancic,W,64 63 64
+589,2006,Roland Garros,"Paris, France",2006.05.29 - 2006.06.11,Outdoor,Clay,1,Tomas Berdych,W,63 62 63
+590,2006,Roland Garros,"Paris, France",2006.05.29 - 2006.06.11,Outdoor,Clay,1,Nicolas Massu,W,61 62 67(4) 75
+591,2006,Roland Garros,"Paris, France",2006.05.29 - 2006.06.11,Outdoor,Clay,1,Alejandro Falla,W,61 64 63
+592,2006,Roland Garros,"Paris, France",2006.05.29 - 2006.06.11,Outdoor,Clay,1,Diego Hartfield,W,75 76(2) 62
+593,2006,ATP World Tour Masters 1000 Rome,"Rome, Italy",2006.05.08 - 2006.05.14,Outdoor,Clay,1,Rafael Nadal,L,76 67(5) 46 62 67(5) 
+594,2006,ATP World Tour Masters 1000 Rome,"Rome, Italy",2006.05.08 - 2006.05.14,Outdoor,Clay,1,David Nalbandian,W,63 36 76(5) 
+595,2006,ATP World Tour Masters 1000 Rome,"Rome, Italy",2006.05.08 - 2006.05.14,Outdoor,Clay,1,Nicolas Almagro,W,63 67(2) 75
+596,2006,ATP World Tour Masters 1000 Rome,"Rome, Italy",2006.05.08 - 2006.05.14,Outdoor,Clay,1,Radek Stepanek,W,61 64
+597,2006,ATP World Tour Masters 1000 Rome,"Rome, Italy",2006.05.08 - 2006.05.14,Outdoor,Clay,1,Potito Starace,W,63 76(2) 
+598,2006,ATP World Tour Masters 1000 Rome,"Rome, Italy",2006.05.08 - 2006.05.14,Outdoor,Clay,1,Juan Ignacio Chela,W,62 61
+599,2006,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2006.04.17 - 2006.04.23,Outdoor,Clay,1,Rafael Nadal,L,26 76(2) 36 67(5) 
+600,2006,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2006.04.17 - 2006.04.23,Outdoor,Clay,1,Fernando Gonzalez,W,62 64
+601,2006,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2006.04.17 - 2006.04.23,Outdoor,Clay,1,David Ferrer,W,61 63
+602,2006,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2006.04.17 - 2006.04.23,Outdoor,Clay,1,Benjamin Balleret,W,63 62
+603,2006,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2006.04.17 - 2006.04.23,Outdoor,Clay,1,Alberto Martin,W,60 61
+604,2006,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2006.04.17 - 2006.04.23,Outdoor,Clay,1,Novak Djokovic,W,63 26 63
+605,2006,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2006.03.20 - 2006.04.02,Outdoor,Hard,1,Ivan Ljubicic,W,76(5) 76(4) 76(6) 
+606,2006,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2006.03.20 - 2006.04.02,Outdoor,Hard,1,David Ferrer,W,61 64
+607,2006,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2006.03.20 - 2006.04.02,Outdoor,Hard,1,James Blake,W,76(2) 64
+608,2006,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2006.03.20 - 2006.04.02,Outdoor,Hard,1,Dmitry Tursunov,W,63 63
+609,2006,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2006.03.20 - 2006.04.02,Outdoor,Hard,1,Tommy Haas,W,61 63
+610,2006,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2006.03.20 - 2006.04.02,Outdoor,Hard,1,Arnaud Clement,W,62 67(4) 60
+611,2006,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2006.03.06 - 2006.03.19,Outdoor,Hard,1,James Blake,W,75 63 60
+612,2006,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2006.03.06 - 2006.03.19,Outdoor,Hard,1,Paradorn Srichaphan,W,62 63
+613,2006,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2006.03.06 - 2006.03.19,Outdoor,Hard,1,Ivan Ljubicic,W,62 63
+614,2006,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2006.03.06 - 2006.03.19,Outdoor,Hard,1,Richard Gasquet,W,63 64
+615,2006,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2006.03.06 - 2006.03.19,Outdoor,Hard,1,Olivier Rochus,W,36 62 75
+616,2006,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2006.03.06 - 2006.03.19,Outdoor,Hard,1,Nicolas Massu,W,63 76(4) 
+617,2006,Dubai,"Dubai, U.A.E.",2006.02.27 - 2006.03.05,Outdoor,Hard,1,Rafael Nadal,L,62 46 46
+618,2006,Dubai,"Dubai, U.A.E.",2006.02.27 - 2006.03.05,Outdoor,Hard,1,Mikhail Youzhny,W,62 63
+619,2006,Dubai,"Dubai, U.A.E.",2006.02.27 - 2006.03.05,Outdoor,Hard,1,Robin Vik,W,63 62
+620,2006,Dubai,"Dubai, U.A.E.",2006.02.27 - 2006.03.05,Outdoor,Hard,1,Mohammad Ghareeb,W,76(5) 64
+621,2006,Dubai,"Dubai, U.A.E.",2006.02.27 - 2006.03.05,Outdoor,Hard,1,Stan Wawrinka,W,76(3) 63
+622,2006,Australian Open,"Melbourne, Australia",2006.01.16 - 2006.01.29,Outdoor,Hard,1,Marcos Baghdatis,W,57 75 60 62
+623,2006,Australian Open,"Melbourne, Australia",2006.01.16 - 2006.01.29,Outdoor,Hard,1,Nicolas Kiefer,W,63 57 60 62
+624,2006,Australian Open,"Melbourne, Australia",2006.01.16 - 2006.01.29,Outdoor,Hard,1,Nikolay Davydenko,W,64 36 76(7) 76(5) 
+625,2006,Australian Open,"Melbourne, Australia",2006.01.16 - 2006.01.29,Outdoor,Hard,1,Tommy Haas,W,64 60 36 46 62
+626,2006,Australian Open,"Melbourne, Australia",2006.01.16 - 2006.01.29,Outdoor,Hard,1,Max Mirnyi,W,63 64 63
+627,2006,Australian Open,"Melbourne, Australia",2006.01.16 - 2006.01.29,Outdoor,Hard,1,Florian Mayer,W,61 64 60
+628,2006,Australian Open,"Melbourne, Australia",2006.01.16 - 2006.01.29,Outdoor,Hard,1,Denis Istomin,W,62 63 62
+629,2006,Doha,"Doha, Qatar",2006.01.02 - 2006.01.08,Outdoor,Hard,1,Gael Monfils,W,63 76(5) 
+630,2006,Doha,"Doha, Qatar",2006.01.02 - 2006.01.08,Outdoor,Hard,1,Tommy Haas,W,63 63
+631,2006,Doha,"Doha, Qatar",2006.01.02 - 2006.01.08,Outdoor,Hard,1,Marcos Baghdatis,W,64 63
+632,2006,Doha,"Doha, Qatar",2006.01.02 - 2006.01.08,Outdoor,Hard,1,Fabrice Santoro,W,76(2) 76(5) 
+633,2006,Doha,"Doha, Qatar",2006.01.02 - 2006.01.08,Outdoor,Hard,1,Ivo Minar,W,61 63
+634,2007,Tennis Masters Cup,China,2007.11.12 - 2007.11.18,Indoor,Hard,1,David Ferrer,W,62 63 62
+635,2007,Tennis Masters Cup,China,2007.11.12 - 2007.11.18,Indoor,Hard,1,Rafael Nadal,W,64 61
+636,2007,Tennis Masters Cup,China,2007.11.12 - 2007.11.18,Indoor,Hard,1,Andy Roddick,W,64 62
+637,2007,Tennis Masters Cup,China,2007.11.12 - 2007.11.18,Indoor,Hard,1,Nikolay Davydenko,W,64 63
+638,2007,Tennis Masters Cup,China,2007.11.12 - 2007.11.18,Indoor,Hard,1,Fernando Gonzalez,L,63 67(1) 57
+639,2007,ATP World Tour Masters 1000 Paris,"Paris, France",2007.10.29 - 2007.11.04,Indoor,Hard,1,David Nalbandian,L,46 67(3) 
+640,2007,ATP World Tour Masters 1000 Paris,"Paris, France",2007.10.29 - 2007.11.04,Indoor,Hard,1,Ivo Karlovic,W,63 46 63
+641,2007,Basel,"Basel, Switzerland",2007.10.22 - 2007.10.28,Indoor,Hard,1,Jarkko Nieminen,W,63 64
+642,2007,Basel,"Basel, Switzerland",2007.10.22 - 2007.10.28,Indoor,Hard,1,Ivo Karlovic,W,76(6) 76(5) 
+643,2007,Basel,"Basel, Switzerland",2007.10.22 - 2007.10.28,Indoor,Hard,1,Nicolas Kiefer,W,63 62
+644,2007,Basel,"Basel, Switzerland",2007.10.22 - 2007.10.28,Indoor,Hard,1,Juan Martin del Potro,W,61 64
+645,2007,Basel,"Basel, Switzerland",2007.10.22 - 2007.10.28,Indoor,Hard,1,Michael Berrer,W,61 36 63
+646,2007,ATP Masters Series Madrid,"Madrid, Spain",2007.10.15 - 2007.10.21,Indoor,Hard,1,David Nalbandian,L,61 36 36
+647,2007,ATP Masters Series Madrid,"Madrid, Spain",2007.10.15 - 2007.10.21,Indoor,Hard,1,Nicolas Kiefer,W,64 64
+648,2007,ATP Masters Series Madrid,"Madrid, Spain",2007.10.15 - 2007.10.21,Indoor,Hard,1,Feliciano Lopez,W,76(4) 64
+649,2007,ATP Masters Series Madrid,"Madrid, Spain",2007.10.15 - 2007.10.21,Indoor,Hard,1,Guillermo Canas,W,60 63
+650,2007,ATP Masters Series Madrid,"Madrid, Spain",2007.10.15 - 2007.10.21,Indoor,Hard,1,Robby Ginepri,W,76(2) 64
+651,2007,CZE v. SUI WG PO,Czech Republic,2007.09.17 - 2007.09.23,Indoor,Carpet,1,Tomas Berdych,W,76(5) 76(10) 63
+652,2007,CZE v. SUI WG PO,Czech Republic,2007.09.17 - 2007.09.23,Indoor,Carpet,1,Radek Stepanek,W,63 62 67(4) 76(5) 
+653,2007,US Open,"New York, NY, U.S.A.",2007.08.27 - 2007.09.09,Outdoor,Hard,1,Novak Djokovic,W,76(4) 76(2) 64
+654,2007,US Open,"New York, NY, U.S.A.",2007.08.27 - 2007.09.09,Outdoor,Hard,1,Nikolay Davydenko,W,75 61 75
+655,2007,US Open,"New York, NY, U.S.A.",2007.08.27 - 2007.09.09,Outdoor,Hard,1,Andy Roddick,W,76(5) 76(4) 62
+656,2007,US Open,"New York, NY, U.S.A.",2007.08.27 - 2007.09.09,Outdoor,Hard,1,Feliciano Lopez,W,36 64 61 64
+657,2007,US Open,"New York, NY, U.S.A.",2007.08.27 - 2007.09.09,Outdoor,Hard,1,John Isner,W,67(4) 62 64 62
+658,2007,US Open,"New York, NY, U.S.A.",2007.08.27 - 2007.09.09,Outdoor,Hard,1,Paul Capdeville,W,61 64 64
+659,2007,US Open,"New York, NY, U.S.A.",2007.08.27 - 2007.09.09,Outdoor,Hard,1,Scoville Jenkins,W,63 62 64
+660,2007,ATP Masters Series Cincinnati,"Cincinnati, OH, U.S.A.",2007.08.13 - 2007.08.19,Outdoor,Hard,1,James Blake,W,61 64
+661,2007,ATP Masters Series Cincinnati,"Cincinnati, OH, U.S.A.",2007.08.13 - 2007.08.19,Outdoor,Hard,1,Lleyton Hewitt,W,63 67(7) 76(1) 
+662,2007,ATP Masters Series Cincinnati,"Cincinnati, OH, U.S.A.",2007.08.13 - 2007.08.19,Outdoor,Hard,1,Nicolas Almagro,W,63 36 62
+663,2007,ATP Masters Series Cincinnati,"Cincinnati, OH, U.S.A.",2007.08.13 - 2007.08.19,Outdoor,Hard,1,Marcos Baghdatis,W,76(5) 75
+664,2007,ATP Masters Series Cincinnati,"Cincinnati, OH, U.S.A.",2007.08.13 - 2007.08.19,Outdoor,Hard,1,Julien Benneteau,W,63 63
+665,2007,ATP Masters Series Canada,"Montreal, Canada",2007.08.06 - 2007.08.12,Outdoor,Hard,1,Novak Djokovic,L,67(2) 62 67(2) 
+666,2007,ATP Masters Series Canada,"Montreal, Canada",2007.08.06 - 2007.08.12,Outdoor,Hard,1,Radek Stepanek,W,76(6) 62
+667,2007,ATP Masters Series Canada,"Montreal, Canada",2007.08.06 - 2007.08.12,Outdoor,Hard,1,Lleyton Hewitt,W,63 64
+668,2007,ATP Masters Series Canada,"Montreal, Canada",2007.08.06 - 2007.08.12,Outdoor,Hard,1,Fabio Fognini,W,61 61
+669,2007,ATP Masters Series Canada,"Montreal, Canada",2007.08.06 - 2007.08.12,Outdoor,Hard,1,Ivo Karlovic,W,76(2) 76(3) 
+670,2007,Wimbledon,"London, Great Britain",2007.06.25 - 2007.07.08,Outdoor,Grass,1,Rafael Nadal,W,76(7) 46 76(3) 26 62
+671,2007,Wimbledon,"London, Great Britain",2007.06.25 - 2007.07.08,Outdoor,Grass,1,Richard Gasquet,W,75 63 64
+672,2007,Wimbledon,"London, Great Britain",2007.06.25 - 2007.07.08,Outdoor,Grass,1,Juan Carlos Ferrero,W,76(2) 36 61 63
+673,2007,Wimbledon,"London, Great Britain",2007.06.25 - 2007.07.08,Outdoor,Grass,1,Tommy Haas,W,(W/O)
+674,2007,Wimbledon,"London, Great Britain",2007.06.25 - 2007.07.08,Outdoor,Grass,1,Marat Safin,W,61 64 76(4) 
+675,2007,Wimbledon,"London, Great Britain",2007.06.25 - 2007.07.08,Outdoor,Grass,1,Juan Martin del Potro,W,62 75 61
+676,2007,Wimbledon,"London, Great Britain",2007.06.25 - 2007.07.08,Outdoor,Grass,1,Teymuraz Gabashvili,W,63 62 64
+677,2007,Roland Garros,"Paris, France",2007.05.28 - 2007.06.10,Outdoor,Clay,1,Rafael Nadal,L,36 64 36 46
+678,2007,Roland Garros,"Paris, France",2007.05.28 - 2007.06.10,Outdoor,Clay,1,Nikolay Davydenko,W,75 76(5) 76(7) 
+679,2007,Roland Garros,"Paris, France",2007.05.28 - 2007.06.10,Outdoor,Clay,1,Tommy Robredo,W,75 16 61 62
+680,2007,Roland Garros,"Paris, France",2007.05.28 - 2007.06.10,Outdoor,Clay,1,Mikhail Youzhny,W,76(3) 64 64
+681,2007,Roland Garros,"Paris, France",2007.05.28 - 2007.06.10,Outdoor,Clay,1,Potito Starace,W,62 63 60
+682,2007,Roland Garros,"Paris, France",2007.05.28 - 2007.06.10,Outdoor,Clay,1,Thierry Ascione,W,61 62 76(8) 
+683,2007,Roland Garros,"Paris, France",2007.05.28 - 2007.06.10,Outdoor,Clay,1,Michael Russell,W,64 62 64
+684,2007,ATP Masters Series Hamburg,"Hamburg, Germany",2007.05.14 - 2007.05.20,Outdoor,Clay,1,Rafael Nadal,W,26 62 60
+685,2007,ATP Masters Series Hamburg,"Hamburg, Germany",2007.05.14 - 2007.05.20,Outdoor,Clay,1,Carlos Moya,W,46 64 62
+686,2007,ATP Masters Series Hamburg,"Hamburg, Germany",2007.05.14 - 2007.05.20,Outdoor,Clay,1,David Ferrer,W,63 46 63
+687,2007,ATP Masters Series Hamburg,"Hamburg, Germany",2007.05.14 - 2007.05.20,Outdoor,Clay,1,Juan Carlos Ferrero,W,62 63
+688,2007,ATP Masters Series Hamburg,"Hamburg, Germany",2007.05.14 - 2007.05.20,Outdoor,Clay,1,Juan Monaco,W,63 26 64
+689,2007,ATP Masters Series Rome,"Rome, Italy",2007.05.07 - 2007.05.13,Outdoor,Clay,1,Filippo Volandri,L,26 46
+690,2007,ATP Masters Series Rome,"Rome, Italy",2007.05.07 - 2007.05.13,Outdoor,Clay,1,Nicolas Almagro,W,63 64
+691,2007,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2007.04.16 - 2007.04.22,Outdoor,Clay,1,Rafael Nadal,L,46 46
+692,2007,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2007.04.16 - 2007.04.22,Outdoor,Clay,1,Juan Carlos Ferrero,W,63 64
+693,2007,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2007.04.16 - 2007.04.22,Outdoor,Clay,1,David Ferrer,W,64 60
+694,2007,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2007.04.16 - 2007.04.22,Outdoor,Clay,1,Hyung-Taik Lee,W,64 63
+695,2007,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2007.04.16 - 2007.04.22,Outdoor,Clay,1,Andreas Seppi,W,76(4) 76(6) 
+696,2007,ATP Masters Series Miami,"Miami, FL, U.S.A.",2007.03.19 - 2007.04.01,Outdoor,Hard,1,Guillermo Canas,L,67(2) 62 67(5) 
+697,2007,ATP Masters Series Miami,"Miami, FL, U.S.A.",2007.03.19 - 2007.04.01,Outdoor,Hard,1,Nicolas Almagro,W,75 63
+698,2007,ATP Masters Series Miami,"Miami, FL, U.S.A.",2007.03.19 - 2007.04.01,Outdoor,Hard,1,Sam Querrey,W,64 63
+699,2007,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2007.03.05 - 2007.03.18,Outdoor,Hard,1,Guillermo Canas,L,57 26
+700,2007,Dubai,"Dubai, U.A.E.",2007.02.26 - 2007.03.04,Outdoor,Hard,1,Mikhail Youzhny,W,64 63
+701,2007,Dubai,"Dubai, U.A.E.",2007.02.26 - 2007.03.04,Outdoor,Hard,1,Tommy Haas,W,64 75
+702,2007,Dubai,"Dubai, U.A.E.",2007.02.26 - 2007.03.04,Outdoor,Hard,1,Novak Djokovic,W,63 67(6) 63
+703,2007,Dubai,"Dubai, U.A.E.",2007.02.26 - 2007.03.04,Outdoor,Hard,1,Daniele Bracciali,W,75 63
+704,2007,Dubai,"Dubai, U.A.E.",2007.02.26 - 2007.03.04,Outdoor,Hard,1,Kristian Pless,W,76(2) 36 63
+705,2007,Australian Open,"Melbourne, Australia",2007.01.15 - 2007.01.28,Outdoor,Hard,1,Fernando Gonzalez,W,76(2) 64 64
+706,2007,Australian Open,"Melbourne, Australia",2007.01.15 - 2007.01.28,Outdoor,Hard,1,Andy Roddick,W,64 60 62
+707,2007,Australian Open,"Melbourne, Australia",2007.01.15 - 2007.01.28,Outdoor,Hard,1,Tommy Robredo,W,63 76(2) 75
+708,2007,Australian Open,"Melbourne, Australia",2007.01.15 - 2007.01.28,Outdoor,Hard,1,Novak Djokovic,W,62 75 63
+709,2007,Australian Open,"Melbourne, Australia",2007.01.15 - 2007.01.28,Outdoor,Hard,1,Mikhail Youzhny,W,63 63 76(5) 
+710,2007,Australian Open,"Melbourne, Australia",2007.01.15 - 2007.01.28,Outdoor,Hard,1,Jonas Bjorkman,W,62 63 62
+711,2007,Australian Open,"Melbourne, Australia",2007.01.15 - 2007.01.28,Outdoor,Hard,1,Bjorn Phau,W,75 60 64
+712,2008,Tennis Masters Cup,China,2008.11.10 - 2008.11.16,Indoor,Hard,2,Andy Murray,L,64 67(3) 57
+713,2008,Tennis Masters Cup,China,2008.11.10 - 2008.11.16,Indoor,Hard,2,Radek Stepanek,W,76(4) 64
+714,2008,Tennis Masters Cup,China,2008.11.10 - 2008.11.16,Indoor,Hard,2,Gilles Simon,L,64 46 36
+715,2008,ATP World Tour Masters 1000 Paris,"Paris, France",2008.10.27 - 2008.11.02,Indoor,Hard,2,James Blake,L,(W/O)
+716,2008,ATP World Tour Masters 1000 Paris,"Paris, France",2008.10.27 - 2008.11.02,Indoor,Hard,2,Marin Cilic,W,63 64
+717,2008,ATP World Tour Masters 1000 Paris,"Paris, France",2008.10.27 - 2008.11.02,Indoor,Hard,2,Robin Soderling,W,64 76(7) 
+718,2008,Basel,"Basel, Switzerland",2008.10.20 - 2008.10.26,Indoor,Hard,2,David Nalbandian,W,63 64
+719,2008,Basel,"Basel, Switzerland",2008.10.20 - 2008.10.26,Indoor,Hard,2,Feliciano Lopez,W,63 62
+720,2008,Basel,"Basel, Switzerland",2008.10.20 - 2008.10.26,Indoor,Hard,2,Simone Bolelli,W,62 63
+721,2008,Basel,"Basel, Switzerland",2008.10.20 - 2008.10.26,Indoor,Hard,2,Jarkko Nieminen,W,76(6) 76(1) 
+722,2008,Basel,"Basel, Switzerland",2008.10.20 - 2008.10.26,Indoor,Hard,2,Bobby Reynolds,W,63 67(6) 63
+723,2008,ATP Masters Series Madrid,"Madrid, Spain",2008.10.13 - 2008.10.19,Indoor,Hard,2,Andy Murray,L,63 36 57
+724,2008,ATP Masters Series Madrid,"Madrid, Spain",2008.10.13 - 2008.10.19,Indoor,Hard,2,Juan Martin del Potro,W,63 63
+725,2008,ATP Masters Series Madrid,"Madrid, Spain",2008.10.13 - 2008.10.19,Indoor,Hard,2,Jo-Wilfried Tsonga,W,64 61
+726,2008,ATP Masters Series Madrid,"Madrid, Spain",2008.10.13 - 2008.10.19,Indoor,Hard,2,Radek Stepanek,W,63 76(6) 
+727,2008,SUI vs. BEL WG Play-offs,Switzerland,2008.09.15 - 2008.09.21,Indoor,Hard,2,Kristof Vliegen,W,76(1) 64 62
+728,2008,US Open,"New York, NY, U.S.A.",2008.08.25 - 2008.09.07,Outdoor,Hard,2,Andy Murray,W,62 75 62
+729,2008,US Open,"New York, NY, U.S.A.",2008.08.25 - 2008.09.07,Outdoor,Hard,2,Novak Djokovic,W,63 57 75 62
+730,2008,US Open,"New York, NY, U.S.A.",2008.08.25 - 2008.09.07,Outdoor,Hard,2,Gilles Muller,W,76(5) 64 76(5) 
+731,2008,US Open,"New York, NY, U.S.A.",2008.08.25 - 2008.09.07,Outdoor,Hard,2,Igor Andreev,W,67(5) 76(5) 63 36 63
+732,2008,US Open,"New York, NY, U.S.A.",2008.08.25 - 2008.09.07,Outdoor,Hard,2,Radek Stepanek,W,63 63 62
+733,2008,US Open,"New York, NY, U.S.A.",2008.08.25 - 2008.09.07,Outdoor,Hard,2,Thiago Alves,W,63 75 64
+734,2008,US Open,"New York, NY, U.S.A.",2008.08.25 - 2008.09.07,Outdoor,Hard,2,Maximo Gonzalez,W,63 60 63
+735,2008,Beijing Olympics,"Beijing, China",2008.08.11 - 2008.08.17,Outdoor,Hard,1,James Blake,L,46 67(2) 
+736,2008,Beijing Olympics,"Beijing, China",2008.08.11 - 2008.08.17,Outdoor,Hard,1,Tomas Berdych,W,63 76(4) 
+737,2008,Beijing Olympics,"Beijing, China",2008.08.11 - 2008.08.17,Outdoor,Hard,1,Rafael Arevalo,W,62 64
+738,2008,Beijing Olympics,"Beijing, China",2008.08.11 - 2008.08.17,Outdoor,Hard,1,Dmitry Tursunov,W,64 62
+739,2008,ATP Masters Series Cincinnati,"Cincinnati, OH, U.S.A.",2008.07.28 - 2008.08.03,Outdoor,Hard,1,Ivo Karlovic,L,67(6) 64 67(5) 
+740,2008,ATP Masters Series Cincinnati,"Cincinnati, OH, U.S.A.",2008.07.28 - 2008.08.03,Outdoor,Hard,1,Robby Ginepri,W,67(2) 76(5) 60
+741,2008,ATP Masters Series Canada,"Toronto, Canada",2008.07.21 - 2008.07.27,Outdoor,Hard,1,Gilles Simon,L,62 57 46
+742,2008,Wimbledon,"London, Great Britain",2008.06.23 - 2008.07.06,Outdoor,Grass,1,Rafael Nadal,L,46 46 76(5) 76(8) 79
+743,2008,Wimbledon,"London, Great Britain",2008.06.23 - 2008.07.06,Outdoor,Grass,1,Marat Safin,W,63 76(3) 64
+744,2008,Wimbledon,"London, Great Britain",2008.06.23 - 2008.07.06,Outdoor,Grass,1,Mario Ancic,W,61 75 64
+745,2008,Wimbledon,"London, Great Britain",2008.06.23 - 2008.07.06,Outdoor,Grass,1,Lleyton Hewitt,W,76(7) 62 64
+746,2008,Wimbledon,"London, Great Britain",2008.06.23 - 2008.07.06,Outdoor,Grass,1,Marc Gicquel,W,63 63 61
+747,2008,Wimbledon,"London, Great Britain",2008.06.23 - 2008.07.06,Outdoor,Grass,1,Robin Soderling,W,63 64 76(3) 
+748,2008,Wimbledon,"London, Great Britain",2008.06.23 - 2008.07.06,Outdoor,Grass,1,Dominik Hrbaty,W,63 62 62
+749,2008,Halle,"Halle, Germany",2008.06.09 - 2008.06.15,Outdoor,Grass,1,Philipp Kohlschreiber,W,63 64
+750,2008,Halle,"Halle, Germany",2008.06.09 - 2008.06.15,Outdoor,Grass,1,Nicolas Kiefer,W,61 64
+751,2008,Halle,"Halle, Germany",2008.06.09 - 2008.06.15,Outdoor,Grass,1,Marcos Baghdatis,W,64 64
+752,2008,Halle,"Halle, Germany",2008.06.09 - 2008.06.15,Outdoor,Grass,1,Jan Vacek,W,75 63
+753,2008,Halle,"Halle, Germany",2008.06.09 - 2008.06.15,Outdoor,Grass,1,Michael Berrer,W,64 62
+754,2008,Roland Garros,"Paris, France",2008.05.26 - 2008.06.08,Outdoor,Clay,1,Rafael Nadal,L,16 36 06
+755,2008,Roland Garros,"Paris, France",2008.05.26 - 2008.06.08,Outdoor,Clay,1,Gael Monfils,W,62 57 63 75
+756,2008,Roland Garros,"Paris, France",2008.05.26 - 2008.06.08,Outdoor,Clay,1,Fernando Gonzalez,W,26 62 63 64
+757,2008,Roland Garros,"Paris, France",2008.05.26 - 2008.06.08,Outdoor,Clay,1,Julien Benneteau,W,64 75 75
+758,2008,Roland Garros,"Paris, France",2008.05.26 - 2008.06.08,Outdoor,Clay,1,Mario Ancic,W,63 64 62
+759,2008,Roland Garros,"Paris, France",2008.05.26 - 2008.06.08,Outdoor,Clay,1,Albert Montanes,W,67(5) 61 60 64
+760,2008,Roland Garros,"Paris, France",2008.05.26 - 2008.06.08,Outdoor,Clay,1,Sam Querrey,W,64 64 63
+761,2008,ATP Masters Series Hamburg,"Hamburg, Germany",2008.05.12 - 2008.05.18,Outdoor,Clay,1,Rafael Nadal,L,57 76(3) 36
+762,2008,ATP Masters Series Hamburg,"Hamburg, Germany",2008.05.12 - 2008.05.18,Outdoor,Clay,1,Andreas Seppi,W,63 61
+763,2008,ATP Masters Series Hamburg,"Hamburg, Germany",2008.05.12 - 2008.05.18,Outdoor,Clay,1,Fernando Verdasco,W,63 63
+764,2008,ATP Masters Series Hamburg,"Hamburg, Germany",2008.05.12 - 2008.05.18,Outdoor,Clay,1,Robin Soderling,W,63 62
+765,2008,ATP Masters Series Hamburg,"Hamburg, Germany",2008.05.12 - 2008.05.18,Outdoor,Clay,1,Jarkko Nieminen,W,61 63
+766,2008,ATP Masters Series Rome,"Rome, Italy",2008.05.05 - 2008.05.11,Outdoor,Clay,1,Radek Stepanek,L,67(4) 67(7) 
+767,2008,ATP Masters Series Rome,"Rome, Italy",2008.05.05 - 2008.05.11,Outdoor,Clay,1,Ivo Karlovic,W,76(4) 63
+768,2008,ATP Masters Series Rome,"Rome, Italy",2008.05.05 - 2008.05.11,Outdoor,Clay,1,Guillermo Canas,W,63 63
+769,2008,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2008.04.21 - 2008.04.27,Outdoor,Clay,1,Rafael Nadal,L,57 57
+770,2008,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2008.04.21 - 2008.04.27,Outdoor,Clay,1,Novak Djokovic,W,63 32 (RET)
+771,2008,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2008.04.21 - 2008.04.27,Outdoor,Clay,1,David Nalbandian,W,57 62 62
+772,2008,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2008.04.21 - 2008.04.27,Outdoor,Clay,1,Gael Monfils,W,63 64
+773,2008,ATP Masters Series Monte Carlo,"Monte Carlo, Monaco",2008.04.21 - 2008.04.27,Outdoor,Clay,1,Ruben Ramirez Hidalgo,W,61 36 76(1) 
+774,2008,Estoril,"Estoril, Portugal",2008.04.14 - 2008.04.20,Outdoor,Clay,1,Nikolay Davydenko,W,76(5) 12 (RET)
+775,2008,Estoril,"Estoril, Portugal",2008.04.14 - 2008.04.20,Outdoor,Clay,1,Denis Gremelmayr,W,26 75 61
+776,2008,Estoril,"Estoril, Portugal",2008.04.14 - 2008.04.20,Outdoor,Clay,1,Fred Gil,W,64 61
+777,2008,Estoril,"Estoril, Portugal",2008.04.14 - 2008.04.20,Outdoor,Clay,1,Victor Hanescu,W,63 62
+778,2008,Estoril,"Estoril, Portugal",2008.04.14 - 2008.04.20,Outdoor,Clay,1,Olivier Rochus,W,46 63 62
+779,2008,ATP Masters Series Miami,"Miami, FL, U.S.A.",2008.03.24 - 2008.04.06,Outdoor,Hard,1,Andy Roddick,L,67(4) 64 36
+780,2008,ATP Masters Series Miami,"Miami, FL, U.S.A.",2008.03.24 - 2008.04.06,Outdoor,Hard,1,Jose Acasuso,W,76(5) 62
+781,2008,ATP Masters Series Miami,"Miami, FL, U.S.A.",2008.03.24 - 2008.04.06,Outdoor,Hard,1,Robin Soderling,W,64 30 (RET)
+782,2008,ATP Masters Series Miami,"Miami, FL, U.S.A.",2008.03.24 - 2008.04.06,Outdoor,Hard,1,Gael Monfils,W,63 64
+783,2008,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2008.03.10 - 2008.03.23,Outdoor,Hard,1,Mardy Fish,L,36 26
+784,2008,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2008.03.10 - 2008.03.23,Outdoor,Hard,1,Tommy Haas,W,(W/O)
+785,2008,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2008.03.10 - 2008.03.23,Outdoor,Hard,1,Ivan Ljubicic,W,63 64
+786,2008,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2008.03.10 - 2008.03.23,Outdoor,Hard,1,Nicolas Mahut,W,61 61
+787,2008,ATP Masters Series Indian Wells,"Indian Wells, CA, U.S.A.",2008.03.10 - 2008.03.23,Outdoor,Hard,1,Guillermo Garcia-Lopez,W,63 62
+788,2008,Dubai,"Dubai, U.A.E.",2008.03.03 - 2008.03.09,Outdoor,Hard,1,Andy Murray,L,76(6) 36 46
+789,2008,Australian Open,"Melbourne, Australia",2008.01.14 - 2008.01.27,Outdoor,Hard,1,Novak Djokovic,L,57 36 67(5) 
+790,2008,Australian Open,"Melbourne, Australia",2008.01.14 - 2008.01.27,Outdoor,Hard,1,James Blake,W,75 76(5) 64
+791,2008,Australian Open,"Melbourne, Australia",2008.01.14 - 2008.01.27,Outdoor,Hard,1,Tomas Berdych,W,64 76(7) 63
+792,2008,Australian Open,"Melbourne, Australia",2008.01.14 - 2008.01.27,Outdoor,Hard,1,Janko Tipsarevic,W,67(5) 76(1) 57 61 10-8
+793,2008,Australian Open,"Melbourne, Australia",2008.01.14 - 2008.01.27,Outdoor,Hard,1,Fabrice Santoro,W,61 62 60
+794,2008,Australian Open,"Melbourne, Australia",2008.01.14 - 2008.01.27,Outdoor,Hard,1,Diego Hartfield,W,60 63 60
+795,2009,Barclays ATP World Tour Finals,"London, England",2009.11.23 - 2009.11.29,Indoor,Hard,1,Nikolay Davydenko,L,26 64 57
+796,2009,Barclays ATP World Tour Finals,"London, England",2009.11.23 - 2009.11.29,Indoor,Hard,1,Juan Martin del Potro,L,26 76(5) 36
+797,2009,Barclays ATP World Tour Finals,"London, England",2009.11.23 - 2009.11.29,Indoor,Hard,1,Andy Murray,W,36 63 61
+798,2009,Barclays ATP World Tour Finals,"London, England",2009.11.23 - 2009.11.29,Indoor,Hard,1,Fernando Verdasco,W,46 75 61
+799,2009,ATP World Tour Masters 1000 Paris,"Paris, France",2009.11.09 - 2009.11.15,Indoor,Hard,1,Julien Benneteau,L,63 67(4) 46
+800,2009,Basel,"Basel, Switzerland",2009.11.02 - 2009.11.08,Indoor,Hard,1,Novak Djokovic,L,46 64 26
+801,2009,Basel,"Basel, Switzerland",2009.11.02 - 2009.11.08,Indoor,Hard,1,Marco Chiudinelli,W,76(7) 63
+802,2009,Basel,"Basel, Switzerland",2009.11.02 - 2009.11.08,Indoor,Hard,1,Evgeny Korolev,W,63 62
+803,2009,Basel,"Basel, Switzerland",2009.11.02 - 2009.11.08,Indoor,Hard,1,Andreas Seppi,W,63 63
+804,2009,Basel,"Basel, Switzerland",2009.11.02 - 2009.11.08,Indoor,Hard,1,Olivier Rochus,W,63 64
+805,2009,ITA vs. SUI WG Play-off,Italy,2009.09.14 - 2009.09.20,Outdoor,Clay,1,Potito Starace,W,63 60 64
+806,2009,ITA vs. SUI WG Play-off,Italy,2009.09.14 - 2009.09.20,Outdoor,Clay,1,Simone Bolelli,W,63 64 61
+807,2009,US Open,"New York, NY, U.S.A.",2009.08.31 - 2009.09.13,Outdoor,Hard,1,Juan Martin del Potro,L,63 67(5) 64 67(4) 26
+808,2009,US Open,"New York, NY, U.S.A.",2009.08.31 - 2009.09.13,Outdoor,Hard,1,Novak Djokovic,W,76(3) 75 75
+809,2009,US Open,"New York, NY, U.S.A.",2009.08.31 - 2009.09.13,Outdoor,Hard,1,Robin Soderling,W,60 63 67(6) 76(6) 
+810,2009,US Open,"New York, NY, U.S.A.",2009.08.31 - 2009.09.13,Outdoor,Hard,1,Tommy Robredo,W,75 62 62
+811,2009,US Open,"New York, NY, U.S.A.",2009.08.31 - 2009.09.13,Outdoor,Hard,1,Lleyton Hewitt,W,46 63 75 64
+812,2009,US Open,"New York, NY, U.S.A.",2009.08.31 - 2009.09.13,Outdoor,Hard,1,Simon Greul,W,63 75 75
+813,2009,US Open,"New York, NY, U.S.A.",2009.08.31 - 2009.09.13,Outdoor,Hard,1,Devin Britton,W,61 63 75
+814,2009,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2009.08.17 - 2009.08.23,Outdoor,Hard,1,Novak Djokovic,W,61 75
+815,2009,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2009.08.17 - 2009.08.23,Outdoor,Hard,1,Andy Murray,W,62 76(8) 
+816,2009,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2009.08.17 - 2009.08.23,Outdoor,Hard,1,Lleyton Hewitt,W,63 64
+817,2009,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2009.08.17 - 2009.08.23,Outdoor,Hard,1,David Ferrer,W,36 63 64
+818,2009,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2009.08.17 - 2009.08.23,Outdoor,Hard,1,Jose Acasuso,W,63 75
+819,2009,ATP World Tour Masters 1000 Canada,"Montreal, Canada",2009.08.10 - 2009.08.16,Outdoor,Hard,1,Jo-Wilfried Tsonga,L,67(5) 61 67(3) 
+820,2009,ATP World Tour Masters 1000 Canada,"Montreal, Canada",2009.08.10 - 2009.08.16,Outdoor,Hard,1,Stan Wawrinka,W,63 76(5) 
+821,2009,ATP World Tour Masters 1000 Canada,"Montreal, Canada",2009.08.10 - 2009.08.16,Outdoor,Hard,1,Frederic Niemeyer,W,76(3) 64
+822,2009,Wimbledon,"London, Great Britain",2009.06.22 - 2009.07.05,Outdoor,Grass,2,Andy Roddick,W,57 76(6) 76(5) 36 16-14
+823,2009,Wimbledon,"London, Great Britain",2009.06.22 - 2009.07.05,Outdoor,Grass,2,Tommy Haas,W,76(3) 75 63
+824,2009,Wimbledon,"London, Great Britain",2009.06.22 - 2009.07.05,Outdoor,Grass,2,Ivo Karlovic,W,63 75 76(3) 
+825,2009,Wimbledon,"London, Great Britain",2009.06.22 - 2009.07.05,Outdoor,Grass,2,Robin Soderling,W,64 76(5) 76(5) 
+826,2009,Wimbledon,"London, Great Britain",2009.06.22 - 2009.07.05,Outdoor,Grass,2,Philipp Kohlschreiber,W,63 62 67(5) 61
+827,2009,Wimbledon,"London, Great Britain",2009.06.22 - 2009.07.05,Outdoor,Grass,2,Guillermo Garcia-Lopez,W,62 62 64
+828,2009,Wimbledon,"London, Great Britain",2009.06.22 - 2009.07.05,Outdoor,Grass,2,Yen-Hsun Lu,W,75 63 62
+829,2009,Roland Garros,"Paris, France",2009.05.25 - 2009.06.07,Outdoor,Clay,2,Robin Soderling,W,61 76(1) 64
+830,2009,Roland Garros,"Paris, France",2009.05.25 - 2009.06.07,Outdoor,Clay,2,Juan Martin del Potro,W,36 76(2) 26 61 64
+831,2009,Roland Garros,"Paris, France",2009.05.25 - 2009.06.07,Outdoor,Clay,2,Gael Monfils,W,76(6) 62 64
+832,2009,Roland Garros,"Paris, France",2009.05.25 - 2009.06.07,Outdoor,Clay,2,Tommy Haas,W,67(4) 57 64 60 62
+833,2009,Roland Garros,"Paris, France",2009.05.25 - 2009.06.07,Outdoor,Clay,2,Paul-Henri Mathieu,W,46 61 64 64
+834,2009,Roland Garros,"Paris, France",2009.05.25 - 2009.06.07,Outdoor,Clay,2,Jose Acasuso,W,76(8) 57 76(2) 62
+835,2009,Roland Garros,"Paris, France",2009.05.25 - 2009.06.07,Outdoor,Clay,2,Alberto Martin,W,64 63 62
+836,2009,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2009.05.11 - 2009.05.17,Outdoor,Clay,2,Rafael Nadal,W,64 64
+837,2009,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2009.05.11 - 2009.05.17,Outdoor,Clay,2,Juan Martin del Potro,W,63 64
+838,2009,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2009.05.11 - 2009.05.17,Outdoor,Clay,2,Andy Roddick,W,75 67(5) 61
+839,2009,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2009.05.11 - 2009.05.17,Outdoor,Clay,2,James Blake,W,62 64
+840,2009,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2009.05.11 - 2009.05.17,Outdoor,Clay,2,Robin Soderling,W,61 75
+841,2009,ATP World Tour Masters 1000 Rome,"Rome, Italy",2009.04.27 - 2009.05.03,Outdoor,Clay,2,Novak Djokovic,L,64 36 36
+842,2009,ATP World Tour Masters 1000 Rome,"Rome, Italy",2009.04.27 - 2009.05.03,Outdoor,Clay,2,Mischa Zverev,W,76(3) 62
+843,2009,ATP World Tour Masters 1000 Rome,"Rome, Italy",2009.04.27 - 2009.05.03,Outdoor,Clay,2,Radek Stepanek,W,64 61
+844,2009,ATP World Tour Masters 1000 Rome,"Rome, Italy",2009.04.27 - 2009.05.03,Outdoor,Clay,2,Ivo Karlovic,W,64 64
+845,2009,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2009.04.13 - 2009.04.19,Outdoor,Clay,2,Stan Wawrinka,L,46 57
+846,2009,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2009.04.13 - 2009.04.19,Outdoor,Clay,2,Andreas Seppi,W,64 64
+847,2009,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2009.03.23 - 2009.04.05,Outdoor,Hard,2,Novak Djokovic,L,63 26 36
+848,2009,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2009.03.23 - 2009.04.05,Outdoor,Hard,2,Andy Roddick,W,63 46 64
+849,2009,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2009.03.23 - 2009.04.05,Outdoor,Hard,2,Taylor Dent,W,63 62
+850,2009,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2009.03.23 - 2009.04.05,Outdoor,Hard,2,Nicolas Kiefer,W,64 61
+851,2009,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2009.03.23 - 2009.04.05,Outdoor,Hard,2,Kevin Kim,W,63 62
+852,2009,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2009.03.09 - 2009.03.22,Outdoor,Hard,2,Andy Murray,L,36 64 16
+853,2009,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2009.03.09 - 2009.03.22,Outdoor,Hard,2,Fernando Verdasco,W,63 76(5) 
+854,2009,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2009.03.09 - 2009.03.22,Outdoor,Hard,2,Fernando Gonzalez,W,63 57 62
+855,2009,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2009.03.09 - 2009.03.22,Outdoor,Hard,2,Ivo Karlovic,W,76(4) 63
+856,2009,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2009.03.09 - 2009.03.22,Outdoor,Hard,2,Marc Gicquel,W,76(4) 64
+857,2009,Australian Open,"Melbourne, Australia",2009.01.19 - 2009.02.01,Outdoor,Hard,2,Rafael Nadal,L,57 63 67(3) 63 26
+858,2009,Australian Open,"Melbourne, Australia",2009.01.19 - 2009.02.01,Outdoor,Hard,2,Andy Roddick,W,62 75 75
+859,2009,Australian Open,"Melbourne, Australia",2009.01.19 - 2009.02.01,Outdoor,Hard,2,Juan Martin del Potro,W,63 60 60
+860,2009,Australian Open,"Melbourne, Australia",2009.01.19 - 2009.02.01,Outdoor,Hard,2,Tomas Berdych,W,46 67(4) 64 64 62
+861,2009,Australian Open,"Melbourne, Australia",2009.01.19 - 2009.02.01,Outdoor,Hard,2,Marat Safin,W,63 62 76(5) 
+862,2009,Australian Open,"Melbourne, Australia",2009.01.19 - 2009.02.01,Outdoor,Hard,2,Evgeny Korolev,W,62 63 61
+863,2009,Australian Open,"Melbourne, Australia",2009.01.19 - 2009.02.01,Outdoor,Hard,2,Andreas Seppi,W,61 76(4) 75
+864,2009,Doha,"Doha, Qatar",2009.01.05 - 2009.01.11,Outdoor,Hard,2,Andy Murray,L,76(6) 26 26
+865,2009,Doha,"Doha, Qatar",2009.01.05 - 2009.01.11,Outdoor,Hard,2,Philipp Kohlschreiber,W,62 76(6) 
+866,2009,Doha,"Doha, Qatar",2009.01.05 - 2009.01.11,Outdoor,Hard,2,Andreas Seppi,W,63 63
+867,2009,Doha,"Doha, Qatar",2009.01.05 - 2009.01.11,Outdoor,Hard,2,Potito Starace,W,62 62
+868,2010,Barclays ATP World Tour Finals,"London, England",2010.11.22 - 2010.11.28,Indoor,Hard,2,Rafael Nadal,W,63 36 61
+869,2010,Barclays ATP World Tour Finals,"London, England",2010.11.22 - 2010.11.28,Indoor,Hard,2,Novak Djokovic,W,61 64
+870,2010,Barclays ATP World Tour Finals,"London, England",2010.11.22 - 2010.11.28,Indoor,Hard,2,Robin Soderling,W,76(5) 63
+871,2010,Barclays ATP World Tour Finals,"London, England",2010.11.22 - 2010.11.28,Indoor,Hard,2,Andy Murray,W,64 62
+872,2010,Barclays ATP World Tour Finals,"London, England",2010.11.22 - 2010.11.28,Indoor,Hard,2,David Ferrer,W,61 64
+873,2010,ATP World Tour Masters 1000 Paris,"Paris, France",2010.11.08 - 2010.11.14,Indoor,Hard,2,Gael Monfils,L,67(7) 76(1) 67(4) 
+874,2010,ATP World Tour Masters 1000 Paris,"Paris, France",2010.11.08 - 2010.11.14,Indoor,Hard,2,Jurgen Melzer,W,61 76(4) 
+875,2010,ATP World Tour Masters 1000 Paris,"Paris, France",2010.11.08 - 2010.11.14,Indoor,Hard,2,Radek Stepanek,W,64 63
+876,2010,ATP World Tour Masters 1000 Paris,"Paris, France",2010.11.08 - 2010.11.14,Indoor,Hard,2,Richard Gasquet,W,64 64
+877,2010,Basel,"Basel, Switzerland",2010.11.01 - 2010.11.07,Indoor,Hard,2,Novak Djokovic,W,64 36 61
+878,2010,Basel,"Basel, Switzerland",2010.11.01 - 2010.11.07,Indoor,Hard,2,Andy Roddick,W,62 64
+879,2010,Basel,"Basel, Switzerland",2010.11.01 - 2010.11.07,Indoor,Hard,2,Radek Stepanek,W,63 62
+880,2010,Basel,"Basel, Switzerland",2010.11.01 - 2010.11.07,Indoor,Hard,2,Janko Tipsarevic,W,63 64
+881,2010,Basel,"Basel, Switzerland",2010.11.01 - 2010.11.07,Indoor,Hard,2,Alexandr Dolgopolov,W,64 52 (RET)
+882,2010,Stockholm,"Stockholm, Sweden",2010.10.18 - 2010.10.24,Indoor,Hard,2,Florian Mayer,W,64 63
+883,2010,Stockholm,"Stockholm, Sweden",2010.10.18 - 2010.10.24,Indoor,Hard,2,Ivan Ljubicic,W,76(5) 62
+884,2010,Stockholm,"Stockholm, Sweden",2010.10.18 - 2010.10.24,Indoor,Hard,2,Stan Wawrinka,W,26 63 62
+885,2010,Stockholm,"Stockholm, Sweden",2010.10.18 - 2010.10.24,Indoor,Hard,2,Taylor Dent,W,61 62
+886,2010,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2010.10.11 - 2010.10.17,Outdoor,Hard,3,Andy Murray,L,36 26
+887,2010,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2010.10.11 - 2010.10.17,Outdoor,Hard,3,Novak Djokovic,W,75 64
+888,2010,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2010.10.11 - 2010.10.17,Outdoor,Hard,3,Robin Soderling,W,61 61
+889,2010,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2010.10.11 - 2010.10.17,Outdoor,Hard,3,Andreas Seppi,W,63 64
+890,2010,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2010.10.11 - 2010.10.17,Outdoor,Hard,3,John Isner,W,63 64
+891,2010,US Open,"New York, NY, U.S.A.",2010.08.30 - 2010.09.12,Outdoor,Hard,2,Novak Djokovic,L,75 16 75 26 57
+892,2010,US Open,"New York, NY, U.S.A.",2010.08.30 - 2010.09.12,Outdoor,Hard,2,Robin Soderling,W,64 64 75
+893,2010,US Open,"New York, NY, U.S.A.",2010.08.30 - 2010.09.12,Outdoor,Hard,2,Jurgen Melzer,W,63 76(4) 63
+894,2010,US Open,"New York, NY, U.S.A.",2010.08.30 - 2010.09.12,Outdoor,Hard,2,Paul-Henri Mathieu,W,64 63 63
+895,2010,US Open,"New York, NY, U.S.A.",2010.08.30 - 2010.09.12,Outdoor,Hard,2,Andreas Beck,W,63 64 63
+896,2010,US Open,"New York, NY, U.S.A.",2010.08.30 - 2010.09.12,Outdoor,Hard,2,Brian Dabul,W,61 64 62
+897,2010,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2010.08.16 - 2010.08.22,Outdoor,Hard,2,Mardy Fish,W,67(5) 76(1) 64
+898,2010,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2010.08.16 - 2010.08.22,Outdoor,Hard,2,Marcos Baghdatis,W,64 63
+899,2010,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2010.08.16 - 2010.08.22,Outdoor,Hard,2,Nikolay Davydenko,W,64 75
+900,2010,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2010.08.16 - 2010.08.22,Outdoor,Hard,2,Philipp Kohlschreiber,W,(W/O)
+901,2010,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2010.08.16 - 2010.08.22,Outdoor,Hard,2,Denis Istomin,W,52 (RET)
+902,2010,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2010.08.09 - 2010.08.15,Outdoor,Hard,3,Andy Murray,L,57 57
+903,2010,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2010.08.09 - 2010.08.15,Outdoor,Hard,3,Novak Djokovic,W,61 36 75
+904,2010,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2010.08.09 - 2010.08.15,Outdoor,Hard,3,Tomas Berdych,W,63 57 76(5) 
+905,2010,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2010.08.09 - 2010.08.15,Outdoor,Hard,3,Michael Llodra,W,76(2) 63
+906,2010,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2010.08.09 - 2010.08.15,Outdoor,Hard,3,Juan Ignacio Chela,W,76(7) 63
+907,2010,Wimbledon,"London, Great Britain",2010.06.21 - 2010.07.04,Outdoor,Grass,2,Tomas Berdych,L,46 63 16 46
+908,2010,Wimbledon,"London, Great Britain",2010.06.21 - 2010.07.04,Outdoor,Grass,2,Jurgen Melzer,W,63 62 63
+909,2010,Wimbledon,"London, Great Britain",2010.06.21 - 2010.07.04,Outdoor,Grass,2,Arnaud Clement,W,62 64 62
+910,2010,Wimbledon,"London, Great Britain",2010.06.21 - 2010.07.04,Outdoor,Grass,2,Ilija Bozoljac,W,63 67(4) 64 76(5) 
+911,2010,Wimbledon,"London, Great Britain",2010.06.21 - 2010.07.04,Outdoor,Grass,2,Alejandro Falla,W,57 46 64 76(1) 60
+912,2010,Halle,"Halle, Germany",2010.06.07 - 2010.06.13,Outdoor,Grass,2,Lleyton Hewitt,L,63 67(4) 46
+913,2010,Halle,"Halle, Germany",2010.06.07 - 2010.06.13,Outdoor,Grass,2,Philipp Petzschner,W,76(3) 64
+914,2010,Halle,"Halle, Germany",2010.06.07 - 2010.06.13,Outdoor,Grass,2,Philipp Kohlschreiber,W,75 63
+915,2010,Halle,"Halle, Germany",2010.06.07 - 2010.06.13,Outdoor,Grass,2,Alejandro Falla,W,61 62
+916,2010,Halle,"Halle, Germany",2010.06.07 - 2010.06.13,Outdoor,Grass,2,Jarkko Nieminen,W,64 64
+917,2010,Roland Garros,"Paris, France",2010.05.24 - 2010.06.06,Outdoor,Clay,1,Robin Soderling,L,63 36 57 46
+918,2010,Roland Garros,"Paris, France",2010.05.24 - 2010.06.06,Outdoor,Clay,1,Stan Wawrinka,W,63 76(5) 62
+919,2010,Roland Garros,"Paris, France",2010.05.24 - 2010.06.06,Outdoor,Clay,1,Julian Reister,W,64 60 64
+920,2010,Roland Garros,"Paris, France",2010.05.24 - 2010.06.06,Outdoor,Clay,1,Alejandro Falla,W,76(4) 62 64
+921,2010,Roland Garros,"Paris, France",2010.05.24 - 2010.06.06,Outdoor,Clay,1,Peter Luczak,W,64 61 62
+922,2010,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2010.05.10 - 2010.05.16,Outdoor,Clay,1,Rafael Nadal,L,46 67(5) 
+923,2010,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2010.05.10 - 2010.05.16,Outdoor,Clay,1,David Ferrer,W,75 36 63
+924,2010,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2010.05.10 - 2010.05.16,Outdoor,Clay,1,Ernests Gulbis,W,36 61 64
+925,2010,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2010.05.10 - 2010.05.16,Outdoor,Clay,1,Stan Wawrinka,W,63 61
+926,2010,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2010.05.10 - 2010.05.16,Outdoor,Clay,1,Benjamin Becker,W,62 76(4) 
+927,2010,Estoril,"Estoril, Portugal",2010.05.03 - 2010.05.09,Outdoor,Clay,1,Albert Montanes,L,26 67(5) 
+928,2010,Estoril,"Estoril, Portugal",2010.05.03 - 2010.05.09,Outdoor,Clay,1,Arnaud Clement,W,76(7) 62
+929,2010,Estoril,"Estoril, Portugal",2010.05.03 - 2010.05.09,Outdoor,Clay,1,Bjorn Phau,W,63 64
+930,2010,ATP World Tour Masters 1000 Rome,"Rome, Italy",2010.04.26 - 2010.05.02,Outdoor,Clay,1,Ernests Gulbis,L,62 16 57
+931,2010,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2010.03.22 - 2010.04.04,Outdoor,Hard,1,Tomas Berdych,L,46 76(3) 67(6) 
+932,2010,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2010.03.22 - 2010.04.04,Outdoor,Hard,1,Florent Serra,W,76(2) 76(3) 
+933,2010,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2010.03.22 - 2010.04.04,Outdoor,Hard,1,Nicolas Lapentti,W,63 63
+934,2010,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2010.03.08 - 2010.03.21,Outdoor,Hard,1,Marcos Baghdatis,L,75 57 67(4) 
+935,2010,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2010.03.08 - 2010.03.21,Outdoor,Hard,1,Victor Hanescu,W,63 67(5) 61
+936,2010,Australian Open,"Melbourne, Australia",2010.01.18 - 2010.01.31,Outdoor,Hard,1,Andy Murray,W,63 64 76(11) 
+937,2010,Australian Open,"Melbourne, Australia",2010.01.18 - 2010.01.31,Outdoor,Hard,1,Jo-Wilfried Tsonga,W,62 63 62
+938,2010,Australian Open,"Melbourne, Australia",2010.01.18 - 2010.01.31,Outdoor,Hard,1,Nikolay Davydenko,W,26 63 60 75
+939,2010,Australian Open,"Melbourne, Australia",2010.01.18 - 2010.01.31,Outdoor,Hard,1,Lleyton Hewitt,W,62 63 64
+940,2010,Australian Open,"Melbourne, Australia",2010.01.18 - 2010.01.31,Outdoor,Hard,1,Albert Montanes,W,63 64 64
+941,2010,Australian Open,"Melbourne, Australia",2010.01.18 - 2010.01.31,Outdoor,Hard,1,Victor Hanescu,W,62 63 62
+942,2010,Australian Open,"Melbourne, Australia",2010.01.18 - 2010.01.31,Outdoor,Hard,1,Igor Andreev,W,46 62 76(2) 60
+943,2010,Doha,"Doha, Qatar",2010.01.04 - 2010.01.09,Outdoor,Hard,1,Nikolay Davydenko,L,46 46
+944,2010,Doha,"Doha, Qatar",2010.01.04 - 2010.01.09,Outdoor,Hard,1,Ernests Gulbis,W,62 46 64
+945,2010,Doha,"Doha, Qatar",2010.01.04 - 2010.01.09,Outdoor,Hard,1,Evgeny Korolev,W,62 64
+946,2010,Doha,"Doha, Qatar",2010.01.04 - 2010.01.09,Outdoor,Hard,1,Christophe Rochus,W,61 62
+947,2011,Barclays ATP World Tour Finals,"London, Great Britain",2011.11.21 - 2011.11.27,Indoor,Hard,4,Jo-Wilfried Tsonga,W,63 67(6) 63
+948,2011,Barclays ATP World Tour Finals,"London, Great Britain",2011.11.21 - 2011.11.27,Indoor,Hard,4,David Ferrer,W,75 63
+949,2011,Barclays ATP World Tour Finals,"London, Great Britain",2011.11.21 - 2011.11.27,Indoor,Hard,4,Mardy Fish,W,61 36 63
+950,2011,Barclays ATP World Tour Finals,"London, Great Britain",2011.11.21 - 2011.11.27,Indoor,Hard,4,Rafael Nadal,W,63 60
+951,2011,Barclays ATP World Tour Finals,"London, Great Britain",2011.11.21 - 2011.11.27,Indoor,Hard,4,Jo-Wilfried Tsonga,W,62 26 64
+952,2011,ATP World Tour Masters 1000 Paris,"Paris, France",2011.11.07 - 2011.11.13,Indoor,Hard,4,Jo-Wilfried Tsonga,W,61 76(3) 
+953,2011,ATP World Tour Masters 1000 Paris,"Paris, France",2011.11.07 - 2011.11.13,Indoor,Hard,4,Tomas Berdych,W,64 63
+954,2011,ATP World Tour Masters 1000 Paris,"Paris, France",2011.11.07 - 2011.11.13,Indoor,Hard,4,Juan Monaco,W,63 75
+955,2011,ATP World Tour Masters 1000 Paris,"Paris, France",2011.11.07 - 2011.11.13,Indoor,Hard,4,Richard Gasquet,W,62 64
+956,2011,ATP World Tour Masters 1000 Paris,"Paris, France",2011.11.07 - 2011.11.13,Indoor,Hard,4,Adrian Mannarino,W,62 63
+957,2011,Basel,"Basel, Switzerland",2011.10.31 - 2011.11.06,Indoor,Hard,4,Kei Nishikori,W,61 63
+958,2011,Basel,"Basel, Switzerland",2011.10.31 - 2011.11.06,Indoor,Hard,4,Stan Wawrinka,W,76(5) 62
+959,2011,Basel,"Basel, Switzerland",2011.10.31 - 2011.11.06,Indoor,Hard,4,Andy Roddick,W,63 62
+960,2011,Basel,"Basel, Switzerland",2011.10.31 - 2011.11.06,Indoor,Hard,4,Jarkko Nieminen,W,61 46 63
+961,2011,Basel,"Basel, Switzerland",2011.10.31 - 2011.11.06,Indoor,Hard,4,Potito Starace,W,76(3) 64
+962,2011,AUS vs SUI WG Play-Off,Australia,2011.09.12 - 2011.09.18,Outdoor,Grass,3,Bernard Tomic,W,62 75 36 63
+963,2011,AUS vs SUI WG Play-Off,Australia,2011.09.12 - 2011.09.18,Outdoor,Grass,3,Lleyton Hewitt,W,57 76(5) 62 63
+964,2011,US Open,"New York, NY, U.S.A.",2011.08.29 - 2011.09.11,Outdoor,Hard,3,Novak Djokovic,L,76(7) 64 36 26 57
+965,2011,US Open,"New York, NY, U.S.A.",2011.08.29 - 2011.09.11,Outdoor,Hard,3,Jo-Wilfried Tsonga,W,64 63 63
+966,2011,US Open,"New York, NY, U.S.A.",2011.08.29 - 2011.09.11,Outdoor,Hard,3,Juan Monaco,W,61 62 60
+967,2011,US Open,"New York, NY, U.S.A.",2011.08.29 - 2011.09.11,Outdoor,Hard,3,Marin Cilic,W,63 46 64 62
+968,2011,US Open,"New York, NY, U.S.A.",2011.08.29 - 2011.09.11,Outdoor,Hard,3,Dudi Sela,W,63 62 62
+969,2011,US Open,"New York, NY, U.S.A.",2011.08.29 - 2011.09.11,Outdoor,Hard,3,Santiago Giraldo,W,64 63 62
+970,2011,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2011.08.15 - 2011.08.21,Outdoor,Hard,3,Tomas Berdych,L,26 67(3) 
+971,2011,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2011.08.15 - 2011.08.21,Outdoor,Hard,3,James Blake,W,64 61
+972,2011,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2011.08.15 - 2011.08.21,Outdoor,Hard,3,Juan Martin del Potro,W,63 75
+973,2011,ATP World Tour Masters 1000 Canada,"Montreal, Canada",2011.08.08 - 2011.08.14,Outdoor,Hard,3,Jo-Wilfried Tsonga,L,67(3) 64 16
+974,2011,ATP World Tour Masters 1000 Canada,"Montreal, Canada",2011.08.08 - 2011.08.14,Outdoor,Hard,3,Vasek Pospisil,W,75 63
+975,2011,SUI vs. POR EAG 1 2nd RD,Switzerland,2011.07.04 - 2011.07.10,Indoor,Hard,3,Rui Machado,W,57 63 64 62
+976,2011,Wimbledon,"London, Great Britain",2011.06.20 - 2011.07.03,Outdoor,Grass,3,Jo-Wilfried Tsonga,L,63 76(3) 46 46 46
+977,2011,Wimbledon,"London, Great Britain",2011.06.20 - 2011.07.03,Outdoor,Grass,3,Mikhail Youzhny,W,67(5) 63 63 63
+978,2011,Wimbledon,"London, Great Britain",2011.06.20 - 2011.07.03,Outdoor,Grass,3,David Nalbandian,W,64 62 64
+979,2011,Wimbledon,"London, Great Britain",2011.06.20 - 2011.07.03,Outdoor,Grass,3,Adrian Mannarino,W,62 63 62
+980,2011,Wimbledon,"London, Great Britain",2011.06.20 - 2011.07.03,Outdoor,Grass,3,Mikhail Kukushkin,W,76(2) 64 62
+981,2011,Roland Garros,"Paris, France",2011.05.23 - 2011.06.05,Outdoor,Clay,3,Rafael Nadal,L,57 67(3) 75 16
+982,2011,Roland Garros,"Paris, France",2011.05.23 - 2011.06.05,Outdoor,Clay,3,Novak Djokovic,W,76(5) 63 36 76(5) 
+983,2011,Roland Garros,"Paris, France",2011.05.23 - 2011.06.05,Outdoor,Clay,3,Gael Monfils,W,64 63 76(3) 
+984,2011,Roland Garros,"Paris, France",2011.05.23 - 2011.06.05,Outdoor,Clay,3,Stan Wawrinka,W,63 62 75
+985,2011,Roland Garros,"Paris, France",2011.05.23 - 2011.06.05,Outdoor,Clay,3,Janko Tipsarevic,W,61 64 63
+986,2011,Roland Garros,"Paris, France",2011.05.23 - 2011.06.05,Outdoor,Clay,3,Maxime Teixeira,W,63 60 62
+987,2011,Roland Garros,"Paris, France",2011.05.23 - 2011.06.05,Outdoor,Clay,3,Feliciano Lopez,W,63 64 76(3) 
+988,2011,ATP World Tour Masters 1000 Rome,"Rome, Italy",2011.05.09 - 2011.05.15,Outdoor,Clay,3,Richard Gasquet,L,64 67(2) 67(4) 
+989,2011,ATP World Tour Masters 1000 Rome,"Rome, Italy",2011.05.09 - 2011.05.15,Outdoor,Clay,3,Jo-Wilfried Tsonga,W,64 62
+990,2011,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2011.05.02 - 2011.05.08,Outdoor,Clay,3,Rafael Nadal,L,75 16 36
+991,2011,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2011.05.02 - 2011.05.08,Outdoor,Clay,3,Robin Soderling,W,76(2) 64
+992,2011,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2011.05.02 - 2011.05.08,Outdoor,Clay,3,Xavier Malisse,W,64 63
+993,2011,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2011.05.02 - 2011.05.08,Outdoor,Clay,3,Feliciano Lopez,W,76(13) 67(1) 76(7) 
+994,2011,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2011.04.11 - 2011.04.17,Outdoor,Clay,3,Jurgen Melzer,L,46 46
+995,2011,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2011.04.11 - 2011.04.17,Outdoor,Clay,3,Marin Cilic,W,64 63
+996,2011,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2011.04.11 - 2011.04.17,Outdoor,Clay,3,Philipp Kohlschreiber,W,62 61
+997,2011,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2011.03.21 - 2011.04.03,Outdoor,Hard,3,Rafael Nadal,L,36 26
+998,2011,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2011.03.21 - 2011.04.03,Outdoor,Hard,3,Gilles Simon,W,30 (RET)
+999,2011,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2011.03.21 - 2011.04.03,Outdoor,Hard,3,Olivier Rochus,W,63 61
+1000,2011,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2011.03.21 - 2011.04.03,Outdoor,Hard,3,Juan Monaco,W,76(4) 64
+1001,2011,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2011.03.21 - 2011.04.03,Outdoor,Hard,3,Radek Stepanek,W,63 63
+1002,2011,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2011.03.07 - 2011.03.20,Outdoor,Hard,2,Novak Djokovic,L,36 63 26
+1003,2011,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2011.03.07 - 2011.03.20,Outdoor,Hard,2,Stan Wawrinka,W,63 64
+1004,2011,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2011.03.07 - 2011.03.20,Outdoor,Hard,2,Ryan Harrison,W,76(4) 63
+1005,2011,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2011.03.07 - 2011.03.20,Outdoor,Hard,2,Juan Ignacio Chela,W,60 62
+1006,2011,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2011.03.07 - 2011.03.20,Outdoor,Hard,2,Igor Andreev,W,75 76(4) 
+1007,2011,Dubai,"Dubai, U.A.E.",2011.02.21 - 2011.02.26,Outdoor,Hard,2,Novak Djokovic,L,36 36
+1008,2011,Dubai,"Dubai, U.A.E.",2011.02.21 - 2011.02.26,Outdoor,Hard,2,Richard Gasquet,W,62 75
+1009,2011,Dubai,"Dubai, U.A.E.",2011.02.21 - 2011.02.26,Outdoor,Hard,2,Sergiy Stakhovsky,W,63 64
+1010,2011,Dubai,"Dubai, U.A.E.",2011.02.21 - 2011.02.26,Outdoor,Hard,2,Marcel Granollers,W,63 64
+1011,2011,Dubai,"Dubai, U.A.E.",2011.02.21 - 2011.02.26,Outdoor,Hard,2,Somdev Devvarman,W,63 63
+1012,2011,Australian Open,"Melbourne, Australia",2011.01.17 - 2011.01.30,Outdoor,Hard,2,Novak Djokovic,L,67(3) 57 46
+1013,2011,Australian Open,"Melbourne, Australia",2011.01.17 - 2011.01.30,Outdoor,Hard,2,Stan Wawrinka,W,61 63 63
+1014,2011,Australian Open,"Melbourne, Australia",2011.01.17 - 2011.01.30,Outdoor,Hard,2,Tommy Robredo,W,63 36 63 62
+1015,2011,Australian Open,"Melbourne, Australia",2011.01.17 - 2011.01.30,Outdoor,Hard,2,Xavier Malisse,W,63 63 61
+1016,2011,Australian Open,"Melbourne, Australia",2011.01.17 - 2011.01.30,Outdoor,Hard,2,Gilles Simon,W,62 63 46 46 63
+1017,2011,Australian Open,"Melbourne, Australia",2011.01.17 - 2011.01.30,Outdoor,Hard,2,Lukas Lacko,W,61 61 63
+1018,2011,Doha,"Doha, Qatar",2011.01.03 - 2011.01.08,Outdoor,Hard,2,Nikolay Davydenko,W,63 64
+1019,2011,Doha,"Doha, Qatar",2011.01.03 - 2011.01.08,Outdoor,Hard,2,Jo-Wilfried Tsonga,W,63 76(2) 
+1020,2011,Doha,"Doha, Qatar",2011.01.03 - 2011.01.08,Outdoor,Hard,2,Viktor Troicki,W,62 62
+1021,2011,Doha,"Doha, Qatar",2011.01.03 - 2011.01.08,Outdoor,Hard,2,Marco Chiudinelli,W,76(5) 75
+1022,2011,Doha,"Doha, Qatar",2011.01.03 - 2011.01.08,Outdoor,Hard,2,Thomas Schoorel,W,76(3) 63
+1023,2012,Barclays ATP World Tour Finals,"London, Great Britain",2012.11.05 - 2012.11.12,Indoor,Hard,2,Novak Djokovic,L,67(6) 57
+1024,2012,Barclays ATP World Tour Finals,"London, Great Britain",2012.11.05 - 2012.11.12,Indoor,Hard,2,Andy Murray,W,76(5) 62
+1025,2012,Barclays ATP World Tour Finals,"London, Great Britain",2012.11.05 - 2012.11.12,Indoor,Hard,2,Juan Martin del Potro,L,67(3) 64 36
+1026,2012,Barclays ATP World Tour Finals,"London, Great Britain",2012.11.05 - 2012.11.12,Indoor,Hard,2,David Ferrer,W,64 76(5) 
+1027,2012,Barclays ATP World Tour Finals,"London, Great Britain",2012.11.05 - 2012.11.12,Indoor,Hard,2,Janko Tipsarevic,W,63 61
+1028,2012,Basel,"Basel, Switzerland",2012.10.22 - 2012.10.28,Indoor,Hard,1,Juan Martin del Potro,L,46 76(5) 67(3) 
+1029,2012,Basel,"Basel, Switzerland",2012.10.22 - 2012.10.28,Indoor,Hard,1,Paul-Henri Mathieu,W,75 64
+1030,2012,Basel,"Basel, Switzerland",2012.10.22 - 2012.10.28,Indoor,Hard,1,Benoit Paire,W,62 62
+1031,2012,Basel,"Basel, Switzerland",2012.10.22 - 2012.10.28,Indoor,Hard,1,Thomaz Bellucci,W,63 67(6) 75
+1032,2012,Basel,"Basel, Switzerland",2012.10.22 - 2012.10.28,Indoor,Hard,1,Benjamin Becker,W,75 63
+1033,2012,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2012.10.08 - 2012.10.14,Outdoor,Hard,1,Andy Murray,L,46 46
+1034,2012,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2012.10.08 - 2012.10.14,Outdoor,Hard,1,Marin Cilic,W,63 64
+1035,2012,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2012.10.08 - 2012.10.14,Outdoor,Hard,1,Stan Wawrinka,W,46 76(4) 60
+1036,2012,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2012.10.08 - 2012.10.14,Outdoor,Hard,1,Yen-Hsun Lu,W,63 75
+1037,2012,NED vs. SUI WG Play-Off,"Amsterdam, The Netherlands",2012.09.10 - 2012.09.16,Outdoor,Clay,1,Robin Haase,W,61 64 64
+1038,2012,NED vs. SUI WG Play-Off,"Amsterdam, The Netherlands",2012.09.10 - 2012.09.16,Outdoor,Clay,1,Thiemo de Bakker,W,63 64 64
+1039,2012,US Open,"New York, NY, U.S.A.",2012.08.27 - 2012.09.09,Outdoor,Hard,1,Tomas Berdych,L,67(1) 46 63 36
+1040,2012,US Open,"New York, NY, U.S.A.",2012.08.27 - 2012.09.09,Outdoor,Hard,1,Mardy Fish,W,(W/O)
+1041,2012,US Open,"New York, NY, U.S.A.",2012.08.27 - 2012.09.09,Outdoor,Hard,1,Fernando Verdasco,W,63 64 64
+1042,2012,US Open,"New York, NY, U.S.A.",2012.08.27 - 2012.09.09,Outdoor,Hard,1,Bjorn Phau,W,62 63 62
+1043,2012,US Open,"New York, NY, U.S.A.",2012.08.27 - 2012.09.09,Outdoor,Hard,1,Donald Young,W,63 62 64
+1044,2012,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2012.08.13 - 2012.08.19,Outdoor,Hard,1,Novak Djokovic,W,60 76(7) 
+1045,2012,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2012.08.13 - 2012.08.19,Outdoor,Hard,1,Stan Wawrinka,W,76(4) 63
+1046,2012,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2012.08.13 - 2012.08.19,Outdoor,Hard,1,Mardy Fish,W,63 76(4) 
+1047,2012,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2012.08.13 - 2012.08.19,Outdoor,Hard,1,Bernard Tomic,W,62 64
+1048,2012,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2012.08.13 - 2012.08.19,Outdoor,Hard,1,Alex Bogomolov Jr.,W,63 62
+1049,2012,London Olympics,"London, Great Britain",2012.07.30 - 2012.08.05,Outdoor,Grass,1,Andy Murray,L,26 16 46
+1050,2012,London Olympics,"London, Great Britain",2012.07.30 - 2012.08.05,Outdoor,Grass,1,Juan Martin del Potro,W,36 76(5) 19-17
+1051,2012,London Olympics,"London, Great Britain",2012.07.30 - 2012.08.05,Outdoor,Grass,1,John Isner,W,64 76(5) 
+1052,2012,London Olympics,"London, Great Britain",2012.07.30 - 2012.08.05,Outdoor,Grass,1,Denis Istomin,W,75 63
+1053,2012,London Olympics,"London, Great Britain",2012.07.30 - 2012.08.05,Outdoor,Grass,1,Julien Benneteau,W,62 62
+1054,2012,London Olympics,"London, Great Britain",2012.07.30 - 2012.08.05,Outdoor,Grass,1,Alejandro Falla,W,63 57 63
+1055,2012,Wimbledon,"London, Great Britain",2012.06.25 - 2012.07.08,Outdoor,Grass,3,Andy Murray,W,46 75 63 64
+1056,2012,Wimbledon,"London, Great Britain",2012.06.25 - 2012.07.08,Outdoor,Grass,3,Novak Djokovic,W,63 36 64 63
+1057,2012,Wimbledon,"London, Great Britain",2012.06.25 - 2012.07.08,Outdoor,Grass,3,Mikhail Youzhny,W,61 62 62
+1058,2012,Wimbledon,"London, Great Britain",2012.06.25 - 2012.07.08,Outdoor,Grass,3,Xavier Malisse,W,76(1) 61 46 63
+1059,2012,Wimbledon,"London, Great Britain",2012.06.25 - 2012.07.08,Outdoor,Grass,3,Julien Benneteau,W,46 67(3) 62 76(6) 61
+1060,2012,Wimbledon,"London, Great Britain",2012.06.25 - 2012.07.08,Outdoor,Grass,3,Fabio Fognini,W,61 63 62
+1061,2012,Wimbledon,"London, Great Britain",2012.06.25 - 2012.07.08,Outdoor,Grass,3,Albert Ramos-Vinolas,W,61 61 61
+1062,2012,Halle,"Halle, Germany",2012.06.11 - 2012.06.17,Outdoor,Grass,3,Tommy Haas,L,67(5) 46
+1063,2012,Halle,"Halle, Germany",2012.06.11 - 2012.06.17,Outdoor,Grass,3,Mikhail Youzhny,W,61 64
+1064,2012,Halle,"Halle, Germany",2012.06.11 - 2012.06.17,Outdoor,Grass,3,Milos Raonic,W,67(4) 64 76(3) 
+1065,2012,Halle,"Halle, Germany",2012.06.11 - 2012.06.17,Outdoor,Grass,3,Florian Mayer,W,64 75
+1066,2012,Roland Garros,"Paris, France",2012.05.28 - 2012.06.10,Outdoor,Clay,3,Novak Djokovic,L,46 57 36
+1067,2012,Roland Garros,"Paris, France",2012.05.28 - 2012.06.10,Outdoor,Clay,3,Juan Martin del Potro,W,36 67(4) 62 60 63
+1068,2012,Roland Garros,"Paris, France",2012.05.28 - 2012.06.10,Outdoor,Clay,3,David Goffin,W,57 75 62 64
+1069,2012,Roland Garros,"Paris, France",2012.05.28 - 2012.06.10,Outdoor,Clay,3,Nicolas Mahut,W,63 46 62 75
+1070,2012,Roland Garros,"Paris, France",2012.05.28 - 2012.06.10,Outdoor,Clay,3,Adrian Ungur,W,63 62 67(6) 63
+1071,2012,Roland Garros,"Paris, France",2012.05.28 - 2012.06.10,Outdoor,Clay,3,Tobias Kamke,W,62 75 63
+1072,2012,ATP World Tour Masters 1000 Rome,"Rome, Italy",2012.05.14 - 2012.05.20,Outdoor,Clay,2,Novak Djokovic,L,26 67(4) 
+1073,2012,ATP World Tour Masters 1000 Rome,"Rome, Italy",2012.05.14 - 2012.05.20,Outdoor,Clay,2,Andreas Seppi,W,61 62
+1074,2012,ATP World Tour Masters 1000 Rome,"Rome, Italy",2012.05.14 - 2012.05.20,Outdoor,Clay,2,Juan Carlos Ferrero,W,62 57 61
+1075,2012,ATP World Tour Masters 1000 Rome,"Rome, Italy",2012.05.14 - 2012.05.20,Outdoor,Clay,2,Carlos Berlocq,W,63 64
+1076,2012,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2012.05.07 - 2012.05.13,Outdoor,Clay,3,Tomas Berdych,W,36 75 75
+1077,2012,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2012.05.07 - 2012.05.13,Outdoor,Clay,3,Janko Tipsarevic,W,62 63
+1078,2012,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2012.05.07 - 2012.05.13,Outdoor,Clay,3,David Ferrer,W,64 64
+1079,2012,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2012.05.07 - 2012.05.13,Outdoor,Clay,3,Richard Gasquet,W,63 62
+1080,2012,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2012.05.07 - 2012.05.13,Outdoor,Clay,3,Milos Raonic,W,46 75 76(4) 
+1081,2012,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2012.03.19 - 2012.04.01,Outdoor,Hard,3,Andy Roddick,L,67(4) 61 46
+1082,2012,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2012.03.19 - 2012.04.01,Outdoor,Hard,3,Ryan Harrison,W,62 76(3) 
+1083,2012,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2012.03.05 - 2012.03.18,Outdoor,Hard,3,John Isner,W,76(7) 63
+1084,2012,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2012.03.05 - 2012.03.18,Outdoor,Hard,3,Rafael Nadal,W,63 64
+1085,2012,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2012.03.05 - 2012.03.18,Outdoor,Hard,3,Juan Martin del Potro,W,63 62
+1086,2012,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2012.03.05 - 2012.03.18,Outdoor,Hard,3,Thomaz Bellucci,W,36 63 64
+1087,2012,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2012.03.05 - 2012.03.18,Outdoor,Hard,3,Milos Raonic,W,67(4) 62 64
+1088,2012,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2012.03.05 - 2012.03.18,Outdoor,Hard,3,Denis Kudla,W,64 61
+1089,2012,Dubai,"Dubai, U.A.E.",2012.02.27 - 2012.03.03,Outdoor,Hard,3,Andy Murray,W,75 64
+1090,2012,Dubai,"Dubai, U.A.E.",2012.02.27 - 2012.03.03,Outdoor,Hard,3,Juan Martin del Potro,W,76(5) 76(6) 
+1091,2012,Dubai,"Dubai, U.A.E.",2012.02.27 - 2012.03.03,Outdoor,Hard,3,Mikhail Youzhny,W,63 64
+1092,2012,Dubai,"Dubai, U.A.E.",2012.02.27 - 2012.03.03,Outdoor,Hard,3,Feliciano Lopez,W,75 63
+1093,2012,Dubai,"Dubai, U.A.E.",2012.02.27 - 2012.03.03,Outdoor,Hard,3,Michael Llodra,W,60 76(6) 
+1094,2012,Rotterdam,"Rotterdam, Netherlands",2012.02.13 - 2012.02.19,Indoor,Hard,3,Juan Martin del Potro,W,61 64
+1095,2012,Rotterdam,"Rotterdam, Netherlands",2012.02.13 - 2012.02.19,Indoor,Hard,3,Nikolay Davydenko,W,46 63 64
+1096,2012,Rotterdam,"Rotterdam, Netherlands",2012.02.13 - 2012.02.19,Indoor,Hard,3,Jarkko Nieminen,W,75 76(2) 
+1097,2012,Rotterdam,"Rotterdam, Netherlands",2012.02.13 - 2012.02.19,Indoor,Hard,3,Mikhail Youzhny,W,(W/O)
+1098,2012,Rotterdam,"Rotterdam, Netherlands",2012.02.13 - 2012.02.19,Indoor,Hard,3,Nicolas Mahut,W,64 64
+1099,2012,SUI vs. USA WG 1st RD,"Fribourg, Switzerland",2012.02.06 - 2012.02.12,Indoor,Clay,3,John Isner,L,64 36 67(4) 26
+1100,2012,Australian Open,"Melbourne, Australia",2012.01.16 - 2012.01.29,Outdoor,Hard,3,Rafael Nadal,L,76(5) 26 67(5) 46
+1101,2012,Australian Open,"Melbourne, Australia",2012.01.16 - 2012.01.29,Outdoor,Hard,3,Juan Martin del Potro,W,64 63 62
+1102,2012,Australian Open,"Melbourne, Australia",2012.01.16 - 2012.01.29,Outdoor,Hard,3,Bernard Tomic,W,64 62 62
+1103,2012,Australian Open,"Melbourne, Australia",2012.01.16 - 2012.01.29,Outdoor,Hard,3,Ivo Karlovic,W,76(6) 75 63
+1104,2012,Australian Open,"Melbourne, Australia",2012.01.16 - 2012.01.29,Outdoor,Hard,3,Andreas Beck,W,(W/O)
+1105,2012,Australian Open,"Melbourne, Australia",2012.01.16 - 2012.01.29,Outdoor,Hard,3,Alexander Kudryavtsev,W,75 62 62
+1106,2012,Doha,"Doha, Qatar",2012.01.02 - 2012.01.07,Outdoor,Hard,3,Jo-Wilfried Tsonga,L,(W/O)
+1107,2012,Doha,"Doha, Qatar",2012.01.02 - 2012.01.07,Outdoor,Hard,3,Andreas Seppi,W,63 57 64
+1108,2012,Doha,"Doha, Qatar",2012.01.02 - 2012.01.07,Outdoor,Hard,3,Grega Zemlja,W,62 63
+1109,2012,Doha,"Doha, Qatar",2012.01.02 - 2012.01.07,Outdoor,Hard,3,Nikolay Davydenko,W,62 62
+1110,2013,Barclays ATP World Tour Finals,"London, Great Britain",2013.11.04 - 2013.11.11,Indoor,Hard,7,Rafael Nadal,L,57 36
+1111,2013,Barclays ATP World Tour Finals,"London, Great Britain",2013.11.04 - 2013.11.11,Indoor,Hard,7,Juan Martin del Potro,W,46 76(2) 75
+1112,2013,Barclays ATP World Tour Finals,"London, Great Britain",2013.11.04 - 2013.11.11,Indoor,Hard,7,Richard Gasquet,W,64 63
+1113,2013,Barclays ATP World Tour Finals,"London, Great Britain",2013.11.04 - 2013.11.11,Indoor,Hard,7,Novak Djokovic,L,46 76(2) 26
+1114,2013,ATP World Tour Masters 1000 Paris,"Paris, France",2013.10.28 - 2013.11.03,Indoor,Hard,6,Novak Djokovic,L,64 36 26
+1115,2013,ATP World Tour Masters 1000 Paris,"Paris, France",2013.10.28 - 2013.11.03,Indoor,Hard,6,Juan Martin del Potro,W,63 46 63
+1116,2013,ATP World Tour Masters 1000 Paris,"Paris, France",2013.10.28 - 2013.11.03,Indoor,Hard,6,Philipp Kohlschreiber,W,63 64
+1117,2013,ATP World Tour Masters 1000 Paris,"Paris, France",2013.10.28 - 2013.11.03,Indoor,Hard,6,Kevin Anderson,W,64 64
+1118,2013,Basel,"Basel, Switzerland",2013.10.21 - 2013.10.27,Indoor,Hard,6,Juan Martin del Potro,L,67(3) 62 46
+1119,2013,Basel,"Basel, Switzerland",2013.10.21 - 2013.10.27,Indoor,Hard,6,Vasek Pospisil,W,63 67(3) 75
+1120,2013,Basel,"Basel, Switzerland",2013.10.21 - 2013.10.27,Indoor,Hard,6,Grigor Dimitrov,W,63 76(2) 
+1121,2013,Basel,"Basel, Switzerland",2013.10.21 - 2013.10.27,Indoor,Hard,6,Denis Istomin,W,46 63 62
+1122,2013,Basel,"Basel, Switzerland",2013.10.21 - 2013.10.27,Indoor,Hard,6,Adrian Mannarino,W,64 62
+1123,2013,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2013.10.07 - 2013.10.13,Outdoor,Hard,7,Gael Monfils,L,46 76(5) 36
+1124,2013,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2013.10.07 - 2013.10.13,Outdoor,Hard,7,Andreas Seppi,W,64 63
+1125,2013,US Open,"New York, NY, U.S.A.",2013.08.26 - 2013.09.08,Outdoor,Hard,7,Tommy Robredo,L,67(3) 36 46
+1126,2013,US Open,"New York, NY, U.S.A.",2013.08.26 - 2013.09.08,Outdoor,Hard,7,Adrian Mannarino,W,63 60 62
+1127,2013,US Open,"New York, NY, U.S.A.",2013.08.26 - 2013.09.08,Outdoor,Hard,7,Carlos Berlocq,W,63 62 61
+1128,2013,US Open,"New York, NY, U.S.A.",2013.08.26 - 2013.09.08,Outdoor,Hard,7,Grega Zemlja,W,63 62 75
+1129,2013,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2013.08.12 - 2013.08.18,Outdoor,Hard,5,Rafael Nadal,L,75 46 36
+1130,2013,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2013.08.12 - 2013.08.18,Outdoor,Hard,5,Tommy Haas,W,16 75 63
+1131,2013,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2013.08.12 - 2013.08.18,Outdoor,Hard,5,Philipp Kohlschreiber,W,63 76(7) 
+1132,2013,Gstaad,"Gstaad, Switzerland",2013.07.22 - 2013.07.28,Outdoor,Clay,5,Daniel Brands,L,36 46
+1133,2013,Hamburg,"Hamburg, Germany",2013.07.15 - 2013.07.21,Outdoor,Clay,5,Federico Delbonis,L,67(7) 67(4) 
+1134,2013,Hamburg,"Hamburg, Germany",2013.07.15 - 2013.07.21,Outdoor,Clay,5,Florian Mayer,W,76(4) 36 75
+1135,2013,Hamburg,"Hamburg, Germany",2013.07.15 - 2013.07.21,Outdoor,Clay,5,Jan Hajek,W,64 63
+1136,2013,Hamburg,"Hamburg, Germany",2013.07.15 - 2013.07.21,Outdoor,Clay,5,Daniel Brands,W,36 63 62
+1137,2013,Wimbledon,"London, Great Britain",2013.06.24 - 2013.07.07,Outdoor,Grass,3,Sergiy Stakhovsky,L,76(5) 67(5) 57 67(5) 
+1138,2013,Wimbledon,"London, Great Britain",2013.06.24 - 2013.07.07,Outdoor,Grass,3,Victor Hanescu,W,63 62 60
+1139,2013,Halle,"Halle, Germany",2013.06.10 - 2013.06.16,Outdoor,Grass,3,Mikhail Youzhny,W,67(5) 63 64
+1140,2013,Halle,"Halle, Germany",2013.06.10 - 2013.06.16,Outdoor,Grass,3,Tommy Haas,W,36 63 64
+1141,2013,Halle,"Halle, Germany",2013.06.10 - 2013.06.16,Outdoor,Grass,3,Mischa Zverev,W,60 60
+1142,2013,Halle,"Halle, Germany",2013.06.10 - 2013.06.16,Outdoor,Grass,3,Cedrik-Marcel Stebe,W,63 63
+1143,2013,Roland Garros,"Paris, France",2013.05.27 - 2013.06.09,Outdoor,Clay,3,Jo-Wilfried Tsonga,L,57 36 36
+1144,2013,Roland Garros,"Paris, France",2013.05.27 - 2013.06.09,Outdoor,Clay,3,Gilles Simon,W,61 46 26 62 63
+1145,2013,Roland Garros,"Paris, France",2013.05.27 - 2013.06.09,Outdoor,Clay,3,Julien Benneteau,W,63 64 75
+1146,2013,Roland Garros,"Paris, France",2013.05.27 - 2013.06.09,Outdoor,Clay,3,Somdev Devvarman,W,62 61 61
+1147,2013,Roland Garros,"Paris, France",2013.05.27 - 2013.06.09,Outdoor,Clay,3,Pablo Carreno Busta,W,62 62 63
+1148,2013,ATP World Tour Masters 1000 Rome,"Rome, Italy",2013.05.13 - 2013.05.19,Outdoor,Clay,3,Rafael Nadal,L,16 36
+1149,2013,ATP World Tour Masters 1000 Rome,"Rome, Italy",2013.05.13 - 2013.05.19,Outdoor,Clay,3,Benoit Paire,W,76(5) 64
+1150,2013,ATP World Tour Masters 1000 Rome,"Rome, Italy",2013.05.13 - 2013.05.19,Outdoor,Clay,3,Jerzy Janowicz,W,64 76(2) 
+1151,2013,ATP World Tour Masters 1000 Rome,"Rome, Italy",2013.05.13 - 2013.05.19,Outdoor,Clay,3,Gilles Simon,W,61 62
+1152,2013,ATP World Tour Masters 1000 Rome,"Rome, Italy",2013.05.13 - 2013.05.19,Outdoor,Clay,3,Potito Starace,W,61 62
+1153,2013,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2013.05.06 - 2013.05.12,Outdoor,Clay,2,Kei Nishikori,L,46 61 26
+1154,2013,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2013.05.06 - 2013.05.12,Outdoor,Clay,2,Radek Stepanek,W,63 63
+1155,2013,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2013.03.04 - 2013.03.17,Outdoor,Hard,2,Rafael Nadal,L,46 26
+1156,2013,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2013.03.04 - 2013.03.17,Outdoor,Hard,2,Stan Wawrinka,W,63 67(4) 75
+1157,2013,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2013.03.04 - 2013.03.17,Outdoor,Hard,2,Ivan Dodig,W,63 61
+1158,2013,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2013.03.04 - 2013.03.17,Outdoor,Hard,2,Denis Istomin,W,62 63
+1159,2013,Dubai,"Dubai, U.A.E.",2013.02.25 - 2013.03.02,Outdoor,Hard,2,Tomas Berdych,L,63 67(8) 46
+1160,2013,Dubai,"Dubai, U.A.E.",2013.02.25 - 2013.03.02,Outdoor,Hard,2,Nikolay Davydenko,W,62 62
+1161,2013,Dubai,"Dubai, U.A.E.",2013.02.25 - 2013.03.02,Outdoor,Hard,2,Marcel Granollers,W,63 64
+1162,2013,Dubai,"Dubai, U.A.E.",2013.02.25 - 2013.03.02,Outdoor,Hard,2,Malek Jaziri,W,57 60 62
+1163,2013,Rotterdam,"Rotterdam, Netherlands",2013.02.11 - 2013.02.17,Indoor,Hard,2,Julien Benneteau,L,36 57
+1164,2013,Rotterdam,"Rotterdam, Netherlands",2013.02.11 - 2013.02.17,Indoor,Hard,2,Thiemo de Bakker,W,63 64
+1165,2013,Rotterdam,"Rotterdam, Netherlands",2013.02.11 - 2013.02.17,Indoor,Hard,2,Grega Zemlja,W,63 61
+1166,2013,Australian Open,"Melbourne, Australia",2013.01.14 - 2013.01.27,Outdoor,Hard,2,Andy Murray,L,46 76(5) 36 76(2) 26
+1167,2013,Australian Open,"Melbourne, Australia",2013.01.14 - 2013.01.27,Outdoor,Hard,2,Jo-Wilfried Tsonga,W,76(4) 46 76(4) 36 63
+1168,2013,Australian Open,"Melbourne, Australia",2013.01.14 - 2013.01.27,Outdoor,Hard,2,Milos Raonic,W,64 76(4) 62
+1169,2013,Australian Open,"Melbourne, Australia",2013.01.14 - 2013.01.27,Outdoor,Hard,2,Bernard Tomic,W,64 76(5) 61
+1170,2013,Australian Open,"Melbourne, Australia",2013.01.14 - 2013.01.27,Outdoor,Hard,2,Nikolay Davydenko,W,63 64 64
+1171,2013,Australian Open,"Melbourne, Australia",2013.01.14 - 2013.01.27,Outdoor,Hard,2,Benoit Paire,W,62 64 61
+1172,2014,FRA  vs. SUI DC Final,"Lille, France",2014.11.17 - 2014.11.23,Indoor,Clay,2,Richard Gasquet,W,64 62 62
+1173,2014,FRA  vs. SUI DC Final,"Lille, France",2014.11.17 - 2014.11.23,Indoor,Clay,2,Gael Monfils,L,16 46 36
+1174,2014,Barclays ATP World Tour Finals,"London, Great Britain",2014.11.10 - 2014.11.16,Indoor,Hard,2,Novak Djokovic,L,(W/O)
+1175,2014,Barclays ATP World Tour Finals,"London, Great Britain",2014.11.10 - 2014.11.16,Indoor,Hard,2,Stan Wawrinka,W,46 75 76(6) 
+1176,2014,Barclays ATP World Tour Finals,"London, Great Britain",2014.11.10 - 2014.11.16,Indoor,Hard,2,Andy Murray,W,60 61
+1177,2014,Barclays ATP World Tour Finals,"London, Great Britain",2014.11.10 - 2014.11.16,Indoor,Hard,2,Kei Nishikori,W,63 62
+1178,2014,Barclays ATP World Tour Finals,"London, Great Britain",2014.11.10 - 2014.11.16,Indoor,Hard,2,Milos Raonic,W,61 76
+1179,2014,ATP World Tour Masters 1000 Paris,"Paris, France",2014.10.27 - 2014.11.02,Indoor,Hard,2,Milos Raonic,L,67(5) 57
+1180,2014,ATP World Tour Masters 1000 Paris,"Paris, France",2014.10.27 - 2014.11.02,Indoor,Hard,2,Lucas Pouille,W,64 64
+1181,2014,ATP World Tour Masters 1000 Paris,"Paris, France",2014.10.27 - 2014.11.02,Indoor,Hard,2,Jeremy Chardy,W,76(5) 67(5) 64
+1182,2014,Basel,"Basel, Switzerland",2014.10.20 - 2014.10.26,Indoor,Hard,2,David Goffin,W,62 62
+1183,2014,Basel,"Basel, Switzerland",2014.10.20 - 2014.10.26,Indoor,Hard,2,Ivo Karlovic,W,76(8) 36 63
+1184,2014,Basel,"Basel, Switzerland",2014.10.20 - 2014.10.26,Indoor,Hard,2,Grigor Dimitrov,W,76(4) 62
+1185,2014,Basel,"Basel, Switzerland",2014.10.20 - 2014.10.26,Indoor,Hard,2,Denis Istomin,W,36 63 64
+1186,2014,Basel,"Basel, Switzerland",2014.10.20 - 2014.10.26,Indoor,Hard,2,Gilles Muller,W,62 61
+1187,2014,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2014.10.06 - 2014.10.12,Outdoor,Hard,3,Gilles Simon,W,76(6) 76(2) 
+1188,2014,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2014.10.06 - 2014.10.12,Outdoor,Hard,3,Novak Djokovic,W,64 64
+1189,2014,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2014.10.06 - 2014.10.12,Outdoor,Hard,3,Julien Benneteau,W,76(4) 60
+1190,2014,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2014.10.06 - 2014.10.12,Outdoor,Hard,3,Roberto Bautista Agut,W,64 62
+1191,2014,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2014.10.06 - 2014.10.12,Outdoor,Hard,3,Leonardo Mayer,W,75 36 76(7) 
+1192,2014,SUI vs. ITA WG SF,"Geneva, Switzerland, Switzerland",2014.09.08 - 2014.09.14,Indoor,Hard,3,Fabio Fognini,W,62 63 76(4) 
+1193,2014,SUI vs. ITA WG SF,"Geneva, Switzerland, Switzerland",2014.09.08 - 2014.09.14,Indoor,Hard,3,Simone Bolelli,W,76(5) 64 64
+1194,2014,US Open,"New York City, NY, U.S.A.",2014.08.25 - 2014.09.08,Outdoor,Hard,3,Marin Cilic,L,36 46 46
+1195,2014,US Open,"New York City, NY, U.S.A.",2014.08.25 - 2014.09.08,Outdoor,Hard,3,Gael Monfils,W,46 36 64 75 62
+1196,2014,US Open,"New York City, NY, U.S.A.",2014.08.25 - 2014.09.08,Outdoor,Hard,3,Roberto Bautista Agut,W,64 63 62
+1197,2014,US Open,"New York City, NY, U.S.A.",2014.08.25 - 2014.09.08,Outdoor,Hard,3,Marcel Granollers,W,46 61 61 61
+1198,2014,US Open,"New York City, NY, U.S.A.",2014.08.25 - 2014.09.08,Outdoor,Hard,3,Sam Groth,W,64 64 64
+1199,2014,US Open,"New York City, NY, U.S.A.",2014.08.25 - 2014.09.08,Outdoor,Hard,3,Marinko Matosevic,W,63 64 76(4) 
+1200,2014,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2014.08.11 - 2014.08.17,Outdoor,Hard,3,David Ferrer,W,63 16 62
+1201,2014,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2014.08.11 - 2014.08.17,Outdoor,Hard,3,Milos Raonic,W,62 63
+1202,2014,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2014.08.11 - 2014.08.17,Outdoor,Hard,3,Andy Murray,W,63 75
+1203,2014,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2014.08.11 - 2014.08.17,Outdoor,Hard,3,Gael Monfils,W,64 46 63
+1204,2014,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2014.08.11 - 2014.08.17,Outdoor,Hard,3,Vasek Pospisil,W,76(4) 57 62
+1205,2014,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2014.08.04 - 2014.08.10,Outdoor,Hard,3,Jo-Wilfried Tsonga,L,57 67(3) 
+1206,2014,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2014.08.04 - 2014.08.10,Outdoor,Hard,3,Feliciano Lopez,W,63 64
+1207,2014,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2014.08.04 - 2014.08.10,Outdoor,Hard,3,David Ferrer,W,63 46 63
+1208,2014,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2014.08.04 - 2014.08.10,Outdoor,Hard,3,Marin Cilic,W,76(5) 67(3) 64
+1209,2014,ATP World Tour Masters 1000 Canada,"Toronto, Canada",2014.08.04 - 2014.08.10,Outdoor,Hard,3,Peter Polansky,W,62 60
+1210,2014,Wimbledon,"London, Great Britain",2014.06.23 - 2014.07.06,Outdoor,Grass,4,Novak Djokovic,L,76(7) 46 67(4) 75 46
+1211,2014,Wimbledon,"London, Great Britain",2014.06.23 - 2014.07.06,Outdoor,Grass,4,Milos Raonic,W,64 64 64
+1212,2014,Wimbledon,"London, Great Britain",2014.06.23 - 2014.07.06,Outdoor,Grass,4,Stan Wawrinka,W,36 76(5) 64 64
+1213,2014,Wimbledon,"London, Great Britain",2014.06.23 - 2014.07.06,Outdoor,Grass,4,Tommy Robredo,W,61 64 64
+1214,2014,Wimbledon,"London, Great Britain",2014.06.23 - 2014.07.06,Outdoor,Grass,4,Santiago Giraldo,W,63 61 63
+1215,2014,Wimbledon,"London, Great Britain",2014.06.23 - 2014.07.06,Outdoor,Grass,4,Gilles Muller,W,63 75 63
+1216,2014,Wimbledon,"London, Great Britain",2014.06.23 - 2014.07.06,Outdoor,Grass,4,Paolo Lorenzi,W,61 61 63
+1217,2014,Halle,"Halle, Germany",2014.06.09 - 2014.06.15,Outdoor,Grass,4,Alejandro Falla,W,76(2) 76(3) 
+1218,2014,Halle,"Halle, Germany",2014.06.09 - 2014.06.15,Outdoor,Grass,4,Kei Nishikori,W,63 76(4) 
+1219,2014,Halle,"Halle, Germany",2014.06.09 - 2014.06.15,Outdoor,Grass,4,Yen-Hsun Lu,W,(W/O)
+1220,2014,Halle,"Halle, Germany",2014.06.09 - 2014.06.15,Outdoor,Grass,4,Joao Sousa,W,67(8) 64 62
+1221,2014,Roland Garros,"Paris, France",2014.05.26 - 2014.06.08,Outdoor,Clay,4,Ernests Gulbis,L,76(5) 67(3) 26 64 36
+1222,2014,Roland Garros,"Paris, France",2014.05.26 - 2014.06.08,Outdoor,Clay,4,Dmitry Tursunov,W,75 67(7) 62 64
+1223,2014,Roland Garros,"Paris, France",2014.05.26 - 2014.06.08,Outdoor,Clay,4,Diego Schwartzman,W,63 64 64
+1224,2014,Roland Garros,"Paris, France",2014.05.26 - 2014.06.08,Outdoor,Clay,4,Lukas Lacko,W,62 64 62
+1225,2014,ATP World Tour Masters 1000 Rome,"Rome, Italy",2014.05.12 - 2014.05.18,Outdoor,Clay,4,Jeremy Chardy,L,61 36 67(6) 
+1226,2014,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2014.04.14 - 2014.04.20,Outdoor,Clay,4,Stan Wawrinka,L,64 67(5) 26
+1227,2014,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2014.04.14 - 2014.04.20,Outdoor,Clay,4,Novak Djokovic,W,75 62
+1228,2014,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2014.04.14 - 2014.04.20,Outdoor,Clay,4,Jo-Wilfried Tsonga,W,26 76(6) 61
+1229,2014,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2014.04.14 - 2014.04.20,Outdoor,Clay,4,Lukas Rosol,W,64 61
+1230,2014,ATP World Tour Masters 1000 Monte Carlo,"Monte Carlo, Monaco",2014.04.14 - 2014.04.20,Outdoor,Clay,4,Radek Stepanek,W,61 62
+1231,2014,SUI vs. KAZ WG QF,"Geneva, Switzerland",2014.03.31 - 2014.04.06,Indoor,Hard,4,Andrey Golubev,W,76 62 63
+1232,2014,SUI vs. KAZ WG QF,"Geneva, Switzerland",2014.03.31 - 2014.04.06,Indoor,Hard,4,Mikhail Kukushkin,W,64 64 62
+1233,2014,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2014.03.17 - 2014.03.30,Outdoor,Hard,5,Kei Nishikori,L,63 57 46
+1234,2014,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2014.03.17 - 2014.03.30,Outdoor,Hard,5,Richard Gasquet,W,61 62
+1235,2014,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2014.03.17 - 2014.03.30,Outdoor,Hard,5,Thiemo de Bakker,W,63 63
+1236,2014,ATP World Tour Masters 1000 Miami,"Miami, FL, U.S.A.",2014.03.17 - 2014.03.30,Outdoor,Hard,5,Ivo Karlovic,W,64 76(4) 
+1237,2014,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2014.03.03 - 2014.03.16,Outdoor,Hard,8,Novak Djokovic,L,63 36 67(3) 
+1238,2014,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2014.03.03 - 2014.03.16,Outdoor,Hard,8,Alexandr Dolgopolov,W,63 61
+1239,2014,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2014.03.03 - 2014.03.16,Outdoor,Hard,8,Kevin Anderson,W,75 61
+1240,2014,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2014.03.03 - 2014.03.16,Outdoor,Hard,8,Tommy Haas,W,64 64
+1241,2014,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2014.03.03 - 2014.03.16,Outdoor,Hard,8,Dmitry Tursunov,W,76(7) 76(2) 
+1242,2014,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2014.03.03 - 2014.03.16,Outdoor,Hard,8,Paul-Henri Mathieu,W,62 76(5) 
+1243,2014,Dubai,"Dubai, U.A.E.",2014.02.24 - 2014.03.01,Outdoor,Hard,8,Tomas Berdych,W,36 64 63
+1244,2014,Dubai,"Dubai, U.A.E.",2014.02.24 - 2014.03.01,Outdoor,Hard,8,Novak Djokovic,W,36 63 62
+1245,2014,Dubai,"Dubai, U.A.E.",2014.02.24 - 2014.03.01,Outdoor,Hard,8,Lukas Rosol,W,62 62
+1246,2014,Dubai,"Dubai, U.A.E.",2014.02.24 - 2014.03.01,Outdoor,Hard,8,Radek Stepanek,W,62 67(4) 63
+1247,2014,Dubai,"Dubai, U.A.E.",2014.02.24 - 2014.03.01,Outdoor,Hard,8,Benjamin Becker,W,61 64
+1248,2014,SRB vs. SUI WG 1st Rd.,"Novi Sad, Serbia",2014.01.27 - 2014.02.02,Indoor,Hard,8,Ilija Bozoljac,W,64 75 62
+1249,2014,Australian Open,"Melbourne, Australia",2014.01.13 - 2014.01.26,Outdoor,Hard,6,Rafael Nadal,L,67(4) 36 36
+1250,2014,Australian Open,"Melbourne, Australia",2014.01.13 - 2014.01.26,Outdoor,Hard,6,Andy Murray,W,63 64 67(6) 63
+1251,2014,Australian Open,"Melbourne, Australia",2014.01.13 - 2014.01.26,Outdoor,Hard,6,Jo-Wilfried Tsonga,W,63 75 64
+1252,2014,Australian Open,"Melbourne, Australia",2014.01.13 - 2014.01.26,Outdoor,Hard,6,Teymuraz Gabashvili,W,62 62 63
+1253,2014,Australian Open,"Melbourne, Australia",2014.01.13 - 2014.01.26,Outdoor,Hard,6,Blaz Kavcic,W,62 61 76(4) 
+1254,2014,Australian Open,"Melbourne, Australia",2014.01.13 - 2014.01.26,Outdoor,Hard,6,James Duckworth,W,64 64 62
+1255,2014,Brisbane,"Brisbane, Australia",2013.12.30 - 2014.01.05,Outdoor,Hard,6,Lleyton Hewitt,L,16 64 36
+1256,2014,Brisbane,"Brisbane, Australia",2013.12.30 - 2014.01.05,Outdoor,Hard,6,Jeremy Chardy,W,63 67(3) 63
+1257,2014,Brisbane,"Brisbane, Australia",2013.12.30 - 2014.01.05,Outdoor,Hard,6,Marinko Matosevic,W,61 61
+1258,2014,Brisbane,"Brisbane, Australia",2013.12.30 - 2014.01.05,Outdoor,Hard,6,Jarkko Nieminen,W,64 62
+1259,2015,Barclays ATP World Tour Finals,"London, Great Britain",2015.11.16 - 2015.11.22,Indoor,Hard,3,Novak Djokovic,L,36 46
+1260,2015,Barclays ATP World Tour Finals,"London, Great Britain",2015.11.16 - 2015.11.22,Indoor,Hard,3,Stan Wawrinka,W,75 63
+1261,2015,Barclays ATP World Tour Finals,"London, Great Britain",2015.11.16 - 2015.11.22,Indoor,Hard,3,Kei Nishikori,W,75 46 64
+1262,2015,Barclays ATP World Tour Finals,"London, Great Britain",2015.11.16 - 2015.11.22,Indoor,Hard,3,Novak Djokovic,W,75 62
+1263,2015,Barclays ATP World Tour Finals,"London, Great Britain",2015.11.16 - 2015.11.22,Indoor,Hard,3,Tomas Berdych,W,64 62
+1264,2015,ATP World Tour Masters 1000 Paris,"Paris, France",2015.11.02 - 2015.11.08,Indoor,Hard,2,John Isner,L,67(3) 63 67(5) 
+1265,2015,ATP World Tour Masters 1000 Paris,"Paris, France",2015.11.02 - 2015.11.08,Indoor,Hard,2,Andreas Seppi,W,61 61
+1266,2015,Basel,"Basel, Switzerland",2015.10.26 - 2015.11.01,Indoor,Hard,3,Rafael Nadal,W,63 57 63
+1267,2015,Basel,"Basel, Switzerland",2015.10.26 - 2015.11.01,Indoor,Hard,3,Jack Sock,W,63 64
+1268,2015,Basel,"Basel, Switzerland",2015.10.26 - 2015.11.01,Indoor,Hard,3,David Goffin,W,63 36 61
+1269,2015,Basel,"Basel, Switzerland",2015.10.26 - 2015.11.01,Indoor,Hard,3,Philipp Kohlschreiber,W,64 46 64
+1270,2015,Basel,"Basel, Switzerland",2015.10.26 - 2015.11.01,Indoor,Hard,3,Mikhail Kukushkin,W,61 62
+1271,2015,ATP World Tour Masters 1000 Shanghai,"Shanghai, China",2015.10.12 - 2015.10.18,Outdoor,Hard,3,Albert Ramos-Vinolas,L,67(4) 62 36
+1272,2015,SUI vs. NED WG Play-Off,"Geneva, Switzerland, Switzerland",2015.09.14 - 2015.09.20,Indoor,Hard,2,Thiemo de Bakker,W,63 62 64
+1273,2015,SUI vs. NED WG Play-Off,"Geneva, Switzerland, Switzerland",2015.09.14 - 2015.09.20,Indoor,Hard,2,Jesse Huta Galung,W,63 64 63
+1274,2015,US Open,"New York, NY, U.S.A.",2015.08.31 - 2015.09.13,Outdoor,Hard,2,Novak Djokovic,L,46 75 46 46
+1275,2015,US Open,"New York, NY, U.S.A.",2015.08.31 - 2015.09.13,Outdoor,Hard,2,Stan Wawrinka,W,64 63 61
+1276,2015,US Open,"New York, NY, U.S.A.",2015.08.31 - 2015.09.13,Outdoor,Hard,2,Richard Gasquet,W,63 63 61
+1277,2015,US Open,"New York, NY, U.S.A.",2015.08.31 - 2015.09.13,Outdoor,Hard,2,John Isner,W,76 76(6) 75
+1278,2015,US Open,"New York, NY, U.S.A.",2015.08.31 - 2015.09.13,Outdoor,Hard,2,Philipp Kohlschreiber,W,63 64 64
+1279,2015,US Open,"New York, NY, U.S.A.",2015.08.31 - 2015.09.13,Outdoor,Hard,2,Steve Darcis,W,61 62 61
+1280,2015,US Open,"New York, NY, U.S.A.",2015.08.31 - 2015.09.13,Outdoor,Hard,2,Leonardo Mayer,W,61 62 62
+1281,2015,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2015.08.17 - 2015.08.23,Outdoor,Hard,3,Novak Djokovic,W,76(1) 63
+1282,2015,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2015.08.17 - 2015.08.23,Outdoor,Hard,3,Andy Murray,W,64 76(6) 
+1283,2015,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2015.08.17 - 2015.08.23,Outdoor,Hard,3,Feliciano Lopez,W,63 64
+1284,2015,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2015.08.17 - 2015.08.23,Outdoor,Hard,3,Kevin Anderson,W,61 61
+1285,2015,ATP World Tour Masters 1000 Cincinnati,"Cincinnati, OH, U.S.A.",2015.08.17 - 2015.08.23,Outdoor,Hard,3,Roberto Bautista Agut,W,64 64
+1286,2015,Wimbledon,"London, Great Britain",2015.06.29 - 2015.07.12,Outdoor,Grass,2,Novak Djokovic,L,67(1) 76(10) 46 36
+1287,2015,Wimbledon,"London, Great Britain",2015.06.29 - 2015.07.12,Outdoor,Grass,2,Andy Murray,W,75 75 64
+1288,2015,Wimbledon,"London, Great Britain",2015.06.29 - 2015.07.12,Outdoor,Grass,2,Gilles Simon,W,63 75 62
+1289,2015,Wimbledon,"London, Great Britain",2015.06.29 - 2015.07.12,Outdoor,Grass,2,Roberto Bautista Agut,W,62 62 63
+1290,2015,Wimbledon,"London, Great Britain",2015.06.29 - 2015.07.12,Outdoor,Grass,2,Sam Groth,W,64 64 67(5) 62
+1291,2015,Wimbledon,"London, Great Britain",2015.06.29 - 2015.07.12,Outdoor,Grass,2,Sam Querrey,W,64 62 62
+1292,2015,Wimbledon,"London, Great Britain",2015.06.29 - 2015.07.12,Outdoor,Grass,2,Damir Dzumhur,W,61 63 63
+1293,2015,Halle,"Halle, Germany",2015.06.15 - 2015.06.21,Outdoor,Grass,2,Andreas Seppi,W,76(1) 64
+1294,2015,Halle,"Halle, Germany",2015.06.15 - 2015.06.21,Outdoor,Grass,2,Ivo Karlovic,W,76(3) 76(4) 
+1295,2015,Halle,"Halle, Germany",2015.06.15 - 2015.06.21,Outdoor,Grass,2,Florian Mayer,W,60 76(1) 
+1296,2015,Halle,"Halle, Germany",2015.06.15 - 2015.06.21,Outdoor,Grass,2,Ernests Gulbis,W,63 75
+1297,2015,Halle,"Halle, Germany",2015.06.15 - 2015.06.21,Outdoor,Grass,2,Philipp Kohlschreiber,W,76(8) 36 76(5) 
+1298,2015,Roland Garros,"Paris, France",2015.05.25 - 2015.06.07,Outdoor,Clay,2,Stan Wawrinka,L,46 36 67(4) 
+1299,2015,Roland Garros,"Paris, France",2015.05.25 - 2015.06.07,Outdoor,Clay,2,Gael Monfils,W,63 46 64 61
+1300,2015,Roland Garros,"Paris, France",2015.05.25 - 2015.06.07,Outdoor,Clay,2,Damir Dzumhur,W,64 63 62
+1301,2015,Roland Garros,"Paris, France",2015.05.25 - 2015.06.07,Outdoor,Clay,2,Marcel Granollers,W,62 76(1) 63
+1302,2015,Roland Garros,"Paris, France",2015.05.25 - 2015.06.07,Outdoor,Clay,2,Alejandro Falla,W,63 63 64
+1303,2015,ATP World Tour Masters 1000 Rome,"Rome, Italy",2015.05.11 - 2015.05.17,Outdoor,Clay,2,Novak Djokovic,L,46 36
+1304,2015,ATP World Tour Masters 1000 Rome,"Rome, Italy",2015.05.11 - 2015.05.17,Outdoor,Clay,2,Stan Wawrinka,W,64 62
+1305,2015,ATP World Tour Masters 1000 Rome,"Rome, Italy",2015.05.11 - 2015.05.17,Outdoor,Clay,2,Tomas Berdych,W,63 63
+1306,2015,ATP World Tour Masters 1000 Rome,"Rome, Italy",2015.05.11 - 2015.05.17,Outdoor,Clay,2,Kevin Anderson,W,63 75
+1307,2015,ATP World Tour Masters 1000 Rome,"Rome, Italy",2015.05.11 - 2015.05.17,Outdoor,Clay,2,Pablo Cuevas,W,76(3) 64
+1308,2015,ATP World Tour Masters 1000 Madrid,"Madrid, Spain",2015.05.04 - 2015.05.10,Outdoor,Clay,2,Nick Kyrgios,L,76(2) 67(5) 67(12) 
+1309,2015,Istanbul,"Istanbul, Turkey",2015.04.27 - 2015.05.03,Outdoor,Clay,2,Pablo Cuevas,W,63 76(11) 
+1310,2015,Istanbul,"Istanbul, Turkey",2015.04.27 - 2015.05.03,Outdoor,Clay,2,Diego Schwartzman,W,26 62 75
+1311,2015,Istanbul,"Istanbul, Turkey",2015.04.27 - 2015.05.03,Outdoor,Clay,2,Daniel Gimeno-Traver,W,76(3) 67(5) 63
+1312,2015,Istanbul,"Istanbul, Turkey",2015.04.27 - 2015.05.03,Outdoor,Clay,2,Jarkko Nieminen,W,62 75
+1313,2015,ATP World Tour Masters 1000 Monte Carlo,"Monte-Carlo, Monaco",2015.04.13 - 2015.04.19,Outdoor,Clay,2,Gael Monfils,L,46 67(5) 
+1314,2015,ATP World Tour Masters 1000 Monte Carlo,"Monte-Carlo, Monaco",2015.04.13 - 2015.04.19,Outdoor,Clay,2,Jeremy Chardy,W,62 61
+1315,2015,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2015.03.09 - 2015.03.22,Outdoor,Hard,2,Novak Djokovic,L,36 76(5) 26
+1316,2015,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2015.03.09 - 2015.03.22,Outdoor,Hard,2,Milos Raonic,W,75 64
+1317,2015,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2015.03.09 - 2015.03.22,Outdoor,Hard,2,Tomas Berdych,W,64 60
+1318,2015,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2015.03.09 - 2015.03.22,Outdoor,Hard,2,Jack Sock,W,63 62
+1319,2015,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2015.03.09 - 2015.03.22,Outdoor,Hard,2,Andreas Seppi,W,63 64
+1320,2015,ATP World Tour Masters 1000 Indian Wells,"Indian Wells, CA, U.S.A.",2015.03.09 - 2015.03.22,Outdoor,Hard,2,Diego Schwartzman,W,64 62
+1321,2015,Dubai,"Dubai, U.A.E.",2015.02.23 - 2015.02.28,Outdoor,Hard,2,Novak Djokovic,W,63 75
+1322,2015,Dubai,"Dubai, U.A.E.",2015.02.23 - 2015.02.28,Outdoor,Hard,2,Borna Coric,W,62 61
+1323,2015,Dubai,"Dubai, U.A.E.",2015.02.23 - 2015.02.28,Outdoor,Hard,2,Richard Gasquet,W,61 (RET)
+1324,2015,Dubai,"Dubai, U.A.E.",2015.02.23 - 2015.02.28,Outdoor,Hard,2,Fernando Verdasco,W,64 63
+1325,2015,Dubai,"Dubai, U.A.E.",2015.02.23 - 2015.02.28,Outdoor,Hard,2,Mikhail Youzhny,W,63 61
+1326,2015,Australian Open,"Melbourne, Australia",2015.01.19 - 2015.02.01,Outdoor,Hard,2,Andreas Seppi,L,46 67(5) 64 67(5) 
+1327,2015,Australian Open,"Melbourne, Australia",2015.01.19 - 2015.02.01,Outdoor,Hard,2,Simone Bolelli,W,36 63 62 62
+1328,2015,Australian Open,"Melbourne, Australia",2015.01.19 - 2015.02.01,Outdoor,Hard,2,Yen-Hsun Lu,W,64 62 75
+1329,2015,Brisbane,"Brisbane, Australia",2015.01.05 - 2015.01.11,Outdoor,Hard,2,Milos Raonic,W,64 67(2) 64
+1330,2015,Brisbane,"Brisbane, Australia",2015.01.05 - 2015.01.11,Outdoor,Hard,2,Grigor Dimitrov,W,62 62
+1331,2015,Brisbane,"Brisbane, Australia",2015.01.05 - 2015.01.11,Outdoor,Hard,2,James Duckworth,W,60 61
+1332,2015,Brisbane,"Brisbane, Australia",2015.01.05 - 2015.01.11,Outdoor,Hard,2,John Millman,W,46 64 63
+1333,2016,Wimbledon,"London, Great Britain",2016.06.27 - 2016.07.10,Outdoor,Grass,3,Milos Raonic,L,36 76(3) 64 57 36
+1334,2016,Wimbledon,"London, Great Britain",2016.06.27 - 2016.07.10,Outdoor,Grass,3,Marin Cilic,W,67(4) 46 63 76(9) 63
+1335,2016,Wimbledon,"London, Great Britain",2016.06.27 - 2016.07.10,Outdoor,Grass,3,Steve Johnson,W,62 63 75
+1336,2016,Wimbledon,"London, Great Britain",2016.06.27 - 2016.07.10,Outdoor,Grass,3,Daniel Evans,W,64 62 62
+1337,2016,Wimbledon,"London, Great Britain",2016.06.27 - 2016.07.10,Outdoor,Grass,3,Marcus Willis,W,60 63 64
+1338,2016,Wimbledon,"London, Great Britain",2016.06.27 - 2016.07.10,Outdoor,Grass,3,Guido Pella,W,76(5) 76(3) 63
+1339,2016,Gerry Weber Open,"Halle, Germany",2016.06.13 - 2016.06.19,Outdoor,Grass,3,Alexander Zverev,L,67(4) 75 36
+1340,2016,Gerry Weber Open,"Halle, Germany",2016.06.13 - 2016.06.19,Outdoor,Grass,3,David Goffin,W,61 76(10) 
+1341,2016,Gerry Weber Open,"Halle, Germany",2016.06.13 - 2016.06.19,Outdoor,Grass,3,Malek Jaziri,W,63 75
+1342,2016,Gerry Weber Open,"Halle, Germany",2016.06.13 - 2016.06.19,Outdoor,Grass,3,Jan-Lennard Struff,W,64 76(3) 
+1343,2016,Mercedes Cup,"Stuttgart, Germany",2016.06.06 - 2016.06.13,Outdoor,Grass,3,Dominic Thiem,L,63 67(7) 46
+1344,2016,Mercedes Cup,"Stuttgart, Germany",2016.06.06 - 2016.06.13,Outdoor,Grass,3,Florian Mayer,W,76(2) 76(1) 
+1345,2016,Mercedes Cup,"Stuttgart, Germany",2016.06.06 - 2016.06.13,Outdoor,Grass,3,Taylor Fritz,W,64 57 64
+1346,2016,Internazionali BNL d'Italia,"Rome, Italy",2016.05.09 - 2016.05.15,Outdoor,Clay,2,Dominic Thiem,L,67(2) 46
+1347,2016,Internazionali BNL d'Italia,"Rome, Italy",2016.05.09 - 2016.05.15,Outdoor,Clay,2,Alexander Zverev,W,63 75
+1348,2016,Monte-Carlo Rolex Masters,"Monte Carlo, Monaco",2016.04.11 - 2016.04.17,Outdoor,Clay,3,Jo-Wilfried Tsonga,L,63 26 57
+1349,2016,Monte-Carlo Rolex Masters,"Monte Carlo, Monaco",2016.04.11 - 2016.04.17,Outdoor,Clay,3,Roberto Bautista Agut,W,62 64
+1350,2016,Monte-Carlo Rolex Masters,"Monte Carlo, Monaco",2016.04.11 - 2016.04.17,Outdoor,Clay,3,Guillermo Garcia-Lopez,W,63 64
+1351,2016,Australian Open,"Melbourne, Australia",2016.01.18 - 2016.01.31,Outdoor,Hard,3,Novak Djokovic,L,16 26 63 36
+1352,2016,Australian Open,"Melbourne, Australia",2016.01.18 - 2016.01.31,Outdoor,Hard,3,Tomas Berdych,W,76(4) 62 64
+1353,2016,Australian Open,"Melbourne, Australia",2016.01.18 - 2016.01.31,Outdoor,Hard,3,David Goffin,W,62 61 64
+1354,2016,Australian Open,"Melbourne, Australia",2016.01.18 - 2016.01.31,Outdoor,Hard,3,Grigor Dimitrov,W,64 36 61 64
+1355,2016,Australian Open,"Melbourne, Australia",2016.01.18 - 2016.01.31,Outdoor,Hard,3,Alexandr Dolgopolov,W,63 75 61
+1356,2016,Australian Open,"Melbourne, Australia",2016.01.18 - 2016.01.31,Outdoor,Hard,3,Nikoloz Basilashvili,W,62 61 62
+1357,2016,Brisbane International presented by Suncorp,"Brisbane, Australia",2016.01.04 - 2016.01.10,Outdoor,Hard,3,Milos Raonic,L,46 46
+1358,2016,Brisbane International presented by Suncorp,"Brisbane, Australia",2016.01.04 - 2016.01.10,Outdoor,Hard,3,Dominic Thiem,W,61 64
+1359,2016,Brisbane International presented by Suncorp,"Brisbane, Australia",2016.01.04 - 2016.01.10,Outdoor,Hard,3,Grigor Dimitrov,W,64 67(4) 64
+1360,2016,Brisbane International presented by Suncorp,"Brisbane, Australia",2016.01.04 - 2016.01.10,Outdoor,Hard,3,Tobias Kamke,W,62 61
